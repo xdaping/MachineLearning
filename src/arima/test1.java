@@ -13,7 +13,7 @@ public class test1 {
 			Scanner ino=null;
 			try {
 				ArrayList<Double> arraylist=new ArrayList<Double>();//所有序列数据
-				ino=new Scanner(new File("data/arima/test"));
+				ino=new Scanner(new File("data/arima/test1"));
 				while(ino.hasNext())
 				{
 					arraylist.add(Double.parseDouble(ino.next()));
@@ -21,8 +21,15 @@ public class test1 {
 				double[] dataArray=new double[arraylist.size()-1];//训练数据 
 				for(int i=0;i<arraylist.size()-1;i++)
 					dataArray[i]=arraylist.get(i);
+				double sumDa=0.0;
+				for(double da : dataArray){
+					sumDa +=da;
+				}
+				if(Math.abs(sumDa)<0.1 ){
+					System.out.println("Predict value=0");
+					return ;
+				}
 				
-				//System.out.println(arraylist.size());
 					
 				ARIMA arima=new ARIMA(dataArray); 
 				

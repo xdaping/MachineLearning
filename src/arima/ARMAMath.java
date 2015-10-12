@@ -1,5 +1,7 @@
 package arima;
 
+import java.util.Arrays;
+
 import Jama.Matrix;
 
 public class ARMAMath
@@ -203,8 +205,21 @@ public class ARMAMath
 		}
 		
 	    Matrix toplizeMatrix = new Matrix(toplizeArray);//由二位数组转换成二维矩阵
-	    Matrix toplizeMatrixinverse=toplizeMatrix.inverse();//矩阵求逆运算
-		
+	    //System.out.println(Arrays.deepToString(toplizeMatrix.getArray()));
+	    
+	    
+	    Matrix toplizeMatrixinverse=null;
+	    
+	    try{
+	    	toplizeMatrixinverse=toplizeMatrix.inverse();//矩阵求逆运算	
+	    }catch(Exception e){
+	    	toplizeMatrixinverse = toplizeMatrix;
+	    }
+	        
+	   
+	    
+	    //System.out.println(Arrays.deepToString(toplizeMatrixinverse.getArray()));
+	    
 	    double[] temp=new double[p];
 	    for(int i=1;i<=p;i++)
 	    {
