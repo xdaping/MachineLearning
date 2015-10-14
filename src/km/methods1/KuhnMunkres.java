@@ -1,4 +1,4 @@
-package km;
+package km.methods1;
 
 import java.util.Arrays;
 
