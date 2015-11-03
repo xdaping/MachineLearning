@@ -65,6 +65,8 @@ public class ARIMA {
 	{
 		double[] stdoriginalData=this.preDealDif();//原始数据差分处理
 		
+		System.out.println(Arrays.toString(stdoriginalData));
+		
 		int paraType=0;
 		double minAIC=9999999;
 		int bestModelindex=0;
@@ -79,7 +81,9 @@ public class ARIMA {
 
 		
 		for(int i=0;i<model.length;i++)
+		//for(int i=0;i<3;i++)
 		{
+			System.out.println(Arrays.toString(model[i]));
 			if(model[i][0]==0)
 			{
 				MA ma=new MA(stdoriginalData, model[i][1]);
@@ -148,7 +152,7 @@ public class ARIMA {
 				{
 					err[j]=err[j-1];
 				}
-				err[0]=random.nextGaussian()*Math.sqrt(maPara[0]);
+//				err[0]=random.nextGaussian()*Math.sqrt(maPara[0]);
 				
 				//估计的方差之和
 				sumerr+=(stdoriginalData[k]-(temp))*(stdoriginalData[k]-(temp));
@@ -202,7 +206,7 @@ public class ARIMA {
 					err[j]=err[j-1];
 				}
 				//System.out.println("predictBeforeDiff="+1);
-				err[0]=random.nextGaussian()*Math.sqrt(maPara[0]);
+//				err[0]=random.nextGaussian()*Math.sqrt(maPara[0]);
 				//估计的方差之和
 				sumerr+=(stdoriginalData[k]-(temp2+temp))*(stdoriginalData[k]-(temp2+temp));
 			}
@@ -271,8 +275,12 @@ public class ARIMA {
 		{
 
 			double[] arPara=bestarmaARMAcoe.get(0);
+			System.out.println("arPara:"+Arrays.toString(arPara));
 			double[] maPara=bestarmaARMAcoe.get(1);
+			System.out.println("maPara:"+Arrays.toString(arPara));
 			err=new double[q+1];  //error(t),error(t-1),error(t-2)...
+			
+			System.out.println("err:"+Arrays.toString(err));
 			for(int k=p;k<n;k++)
 			{
 				temp=0;
@@ -280,11 +288,14 @@ public class ARIMA {
 				for(int i=0;i<p;i++)
 				{
 					temp+=arPara[i]*stdoriginalData[k-i-1];
+					
+					System.out.println("temp:"+temp);
 				}
 			
 				for(int i=1;i<=q;i++)
 				{
 					temp2+=maPara[i]*err[i];
+					System.out.println("temp2:"+temp2);
 				}
 			
 				//产生各个时刻的噪声

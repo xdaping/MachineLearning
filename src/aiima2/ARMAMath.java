@@ -1,11 +1,8 @@
-package arima;
-
-import java.util.Arrays;
+package aiima2;
 
 import Jama.Matrix;
 
-public class ARMAMath
-{
+public class ARMAMath {
 	public double avgData(double[] dataArray)
 	{
 		return this.sumData(dataArray)/dataArray.length;
@@ -40,15 +37,15 @@ public class ARMAMath
 	}
 	
 	/**
-	 * 计算自相关的函数 Tho(k)=Grma(k)/Grma(0)
-	 * @param dataArray 数列
-	 * @param order 阶数
+	 * 璁＄畻鑷浉鍏崇殑鍑芥暟 Tho(k)=Grma(k)/Grma(0)
+	 * @param dataArray 鏁板垪
+	 * @param order 闃舵暟
 	 * @return
 	 */
 	public double[] autocorData(double[] dataArray,int order)
 	{
 		double[] autoCor=new double[order+1];
-		double varData=this.varerrData(dataArray);//标准化过后的方差
+		double varData=this.varerrData(dataArray);//鏍囧噯鍖栬繃鍚庣殑鏂瑰樊
 		
 		for(int i=0;i<=order;i++)
 		{
@@ -57,7 +54,7 @@ public class ARMAMath
 			{
 				autoCor[i]+=dataArray[j+i]*dataArray[j];
 			}
-			autoCor[i]/=dataArray.length;
+			autoCor[i]/=(dataArray.length-i);
 			autoCor[i]/=varData;
 		}
 		return autoCor;
@@ -67,30 +64,26 @@ public class ARMAMath
  * Grma
  * @param dataArray
  * @param order
- * @return 序列的自相关系数
+ * @return 搴忓垪鐨勮嚜鐩稿叧绯绘暟
  */
 	public double[] autocorGrma(double[] dataArray,int order)
 	{
-		System.out.println(order+"==="+Arrays.toString(dataArray));
-		
 		double[] autoCor=new double[order+1];
 		for(int i=0;i<=order;i++)
 		{
 			autoCor[i]=0;
-			
 			for(int j=0;j<dataArray.length-i;j++)
 			{
 				autoCor[i]+=dataArray[j+i]*dataArray[j];
-				//System.out.println(autoCor[i]+"--"+dataArray[j+i]+"--"+dataArray[j]);
 			}
 			autoCor[i]/=(dataArray.length-i);
-			System.out.println("autoCor"+Arrays.toString(autoCor));
+			
 		}
 		return autoCor;
 	}
 	
 /**
- * 求偏自相关系数
+ * 姹傚亸鑷浉鍏崇郴鏁?
  * @param dataArray
  * @param order
  * @return
@@ -106,13 +99,13 @@ public class ARMAMath
 		return parautocor;
 	}
 /**
- * 产生Toplize矩阵
+ * 浜х敓Toplize鐭╅樀
  * @param dataArray
  * @param order
  * @return
  */
 	public double[][] toplize(double[] dataArray,int order)
-	{//返回toplize二维数组
+	{//杩斿洖toplize浜岀淮鏁扮粍
 		double[][] toplizeMatrix=new double[order][order];
 		double[] atuocorr=this.autocorData(dataArray,order);
 
@@ -134,31 +127,31 @@ public class ARMAMath
 	}
 
 	/**
-	 * 解MA模型的参数
+	 * 瑙A妯″瀷鐨勫弬鏁?
 	 * @param autocorData
 	 * @param q
 	 * @return
 	 */
 	public double[] getMApara(double[] autocorData,int q)
 	{
-		System.out.println("autocorData:"+Arrays.toString(autocorData));
-		double[] maPara=new double[q+1];//第一个存放噪声参数，后面q个存放ma参数sigma2,ma1,ma2...
-		double[] tempmaPara=maPara;
+		double[] maPara=new double[q+1];//绗竴涓瓨鏀惧櫔澹板弬鏁帮紝鍚庨潰q涓瓨鏀緈a鍙傛暟sigma2,ma1,ma2...
+		double[] tempmaPara=new double[q+1];
+		
 		double temp=0;
 		boolean iterationFlag=true;
-		//解方程组
-		//迭代法解方程组
-		maPara[0]=1;//初始化
-		while(iterationFlag)
+		//瑙ｆ柟绋嬬粍
+		//杩唬娉曡В鏂圭▼缁?
+		maPara[0]=1;//鍒濆鍖?
+		int count=10000;
+		while(iterationFlag&&count-->0)
 		{
+			temp=0;
 			for(int i=1;i<maPara.length;i++)
 			{
 				temp+=maPara[i]*maPara[i];
 			}
-			tempmaPara[0]=autocorData[0]/(1+temp);//会同时修改maPara[0]的值
+			tempmaPara[0]=autocorData[0]/(1+temp);
 			
-			
-		
 			for(int i=1;i<maPara.length;i++)
 			{
 				temp=0;
@@ -166,28 +159,25 @@ public class ARMAMath
 				{
 					temp+=maPara[j]*maPara[j+i];
 				}
-				tempmaPara[i]=-(autocorData[i]/maPara[0]-temp);
-				
+				tempmaPara[i]=-(autocorData[i]/tempmaPara[0]-temp);
 			}
-			
-			//System.out.println("tempmaPara:"+Arrays.toString(tempmaPara));
-			//System.out.println("maPara:"+Arrays.toString(maPara));
 			iterationFlag=false;
 			for(int i=0;i<maPara.length;i++)
 			{
-				if(maPara[i]!=tempmaPara[i])
+				if(Math.abs(maPara[i]-tempmaPara[i])>0.00001)
 				{
 					iterationFlag=true;
 					break;
 				}
 			}
 			
-			maPara=tempmaPara;
+			System.arraycopy(tempmaPara, 0, maPara, 0, tempmaPara.length);
 		}
+	
 		return maPara;
 	}
 	/**
-	 * 计算自回归系数
+	 * 璁＄畻鑷洖褰掔郴鏁?
 	 * @param dataArray
 	 * @param p
 	 * @param q
@@ -195,48 +185,28 @@ public class ARMAMath
 	 */
 	public double[] parcorrCompute(double[] dataArray,int p,int q)
 	{
-		double[][] toplizeArray=new double[p][p];//p阶toplize矩阵；
+		double[][] toplizeArray=new double[p][p];//p闃秚oplize鐭╅樀锛?
 		
-		
-		double[] atuocorr=this.autocorData(dataArray,p+q);//返回p+q阶的自相关函数
-		System.out.println("atuocorr"+Arrays.toString(atuocorr));
-		
-		double[] autocorrF=this.autocorGrma(dataArray, p+q);//返回p+q阶的自相关系数数
-		System.out.println("autocorrF"+Arrays.toString(autocorrF));
-		
+		double[] atuocorr=this.autocorData(dataArray,p+q);//杩斿洖p+q闃剁殑鑷浉鍏冲嚱鏁?
+		double[] autocorrF=this.autocorGrma(dataArray, p+q);//杩斿洖p+q闃剁殑鑷浉鍏崇郴鏁版暟
 		for(int i=1;i<=p;i++)
 		{
 			int k=1;
 			for(int j=i-1;j>0;j--)
 			{
 				toplizeArray[i-1][j-1]=atuocorr[q+k++];
-				System.out.println("toplizeArray"+Arrays.deepToString(toplizeArray));
 			}
 			toplizeArray[i-1][i-1]=atuocorr[q];
 			int kk=1;
 			for(int j=i;j<p;j++)
 			{
 				toplizeArray[i-1][j]=atuocorr[q+kk++];
-				System.out.println("toplizeArray"+Arrays.deepToString(toplizeArray));
 			}
 		}
-		System.out.println("toplizeArray"+Arrays.deepToString(toplizeArray));
-	    Matrix toplizeMatrix = new Matrix(toplizeArray);//由二位数组转换成二维矩阵
-	    //System.out.println(Arrays.deepToString(toplizeMatrix.getArray()));
-	    
-	    
-	    Matrix toplizeMatrixinverse=null;
-	    
-	    try{
-	    	toplizeMatrixinverse=toplizeMatrix.inverse();//矩阵求逆运算	
-	    }catch(Exception e){
-	    	toplizeMatrixinverse = toplizeMatrix;
-	    }
-	        
-	   
-	    
-	    //System.out.println(Arrays.deepToString(toplizeMatrixinverse.getArray()));
-	    
+		
+	    Matrix toplizeMatrix = new Matrix(toplizeArray);//鐢变簩浣嶆暟缁勮浆鎹㈡垚浜岀淮鐭╅樀
+	    Matrix toplizeMatrixinverse=toplizeMatrix.inverse();//鐭╅樀姹傞?杩愮畻
+		
 	    double[] temp=new double[p];
 	    for(int i=1;i<=p;i++)
 	    {
@@ -245,9 +215,9 @@ public class ARMAMath
 	    
 		Matrix autocorrMatrix=new Matrix(temp, p);
 		Matrix parautocorDataMatrix=toplizeMatrixinverse.times(autocorrMatrix); //  [Fi]=[toplize]x[autocorr]';
-		//矩阵计算结果应该是按照[a b c]'  列向量存储的
+		//鐭╅樀璁＄畻缁撴灉搴旇鏄寜鐓a b c]'  鍒楀悜閲忓瓨鍌ㄧ殑
 		//System.out.println("row="+parautocorDataMatrix.getRowDimension()+"  Col="+parautocorDataMatrix.getColumnDimension());
-		//parautocorDataMatrix.print(p, 2);//(输出几行,小数点后保留位数)
+		//parautocorDataMatrix.print(p, 2);//(杈撳嚭鍑犺,灏忔暟鐐瑰悗淇濈暀浣嶆暟)
 		//System.out.println(parautocorDataMatrix.get(p-1,0));
 		
 		double[] result=new double[parautocorDataMatrix.getRowDimension()+1];
@@ -256,19 +226,22 @@ public class ARMAMath
 			result[i]=parautocorDataMatrix.get(i,0);
 		}
 		
-		//估算sigmat2
+		//浼扮畻sigmat2
 		double sum2=0;
-		for(int i=0;i<p;i++){
+		for(int i=0;i<p;i++)
 			for(int j=0;j<p;j++)
 			{
 				sum2+=result[i]*result[j]*autocorrF[Math.abs(i-j)];
 			}
-		}
-		result[result.length-1]=autocorrF[0]-sum2; //result数组最后一个存储干扰估计值
+		result[result.length-1]=autocorrF[0]-sum2; //result鏁扮粍鏈?悗涓?釜瀛樺偍骞叉壈浼拌鍊?
 		
 		
-		return result;   //返回0列的最后一个就是k阶的偏自相关系数 pcorr[k]=返回值
+			return result;   //杩斿洖0鍒楃殑鏈?悗涓?釜灏辨槸k闃剁殑鍋忚嚜鐩稿叧绯绘暟 pcorr[k]=杩斿洖鍊?
 	}
 
 	
+	
+	
+	
+
 }

@@ -9,11 +9,14 @@ public class test1 {
 
 	public static void main(String args[])
 	{
+		
+		long t1 = System.currentTimeMillis();
+		
 		for(int j=0; j<1; j++){
 			Scanner ino=null;
 			try {
 				ArrayList<Double> arraylist=new ArrayList<Double>();//所有序列数据
-				ino=new Scanner(new File("data/arima/test1"));
+				ino=new Scanner(new File("data/arima/test"));
 				while(ino.hasNext())
 				{
 					arraylist.add(Double.parseDouble(ino.next()));
@@ -30,13 +33,13 @@ public class test1 {
 					return ;
 				}
 				
-					
+				t1 = System.currentTimeMillis();	
 				ARIMA arima=new ARIMA(dataArray); 
 				
 				int []model=arima.getARIMAmodel();
 				System.out.println("Best model is [p,q]="+"["+model[0]+" "+model[1]+"]");
 				System.out.println("Predict value="+arima.aftDeal(arima.predictValue(model[0],model[1])));
-				System.out.println("Predict error="+(arima.aftDeal(arima.predictValue(model[0],model[1]))-arraylist.get(arraylist.size()-1))/arraylist.get(arraylist.size()-1)*100+"%");
+				//System.out.println("Predict error="+(arima.aftDeal(arima.predictValue(model[0],model[1]))-arraylist.get(arraylist.size()-1))/arraylist.get(arraylist.size()-1)*100+"%");
 				
 				//System.out.println((arima.aftDeal(arima.predictValue(model[0],model[1]))-arraylist.get(arraylist.size()-1)));
 				//
@@ -57,6 +60,10 @@ public class test1 {
 				ino.close();
 			}
 		}
+		
+		long t2 = System.currentTimeMillis();
+		
+		System.out.println(t2-t1);
 	}
 	
 	

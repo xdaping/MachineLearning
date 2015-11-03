@@ -1,5 +1,6 @@
 package arima;
 
+import java.util.Arrays;
 import java.util.Vector;
 
 import arima.ARMAMath;
@@ -27,6 +28,12 @@ public class MA {
 	{
 		Vector<double[]> v=new Vector<double[]>();
 		v.add(armamath.getMApara(armamath.autocorGrma(stdoriginalData,q), q));
+		
+		//System.out.println(Arrays.toString(armamath.autocorGrma(stdoriginalData,q)));
+		
+		for(int i=0; i<v.size(); i++)
+		System.out.println(Arrays.toString(v.get(i)));
+		
 		return v;//拿到MA模型里面的参数值
 	}
 		
