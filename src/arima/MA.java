@@ -32,7 +32,7 @@ public class MA {
 		//System.out.println(Arrays.toString(armamath.autocorGrma(stdoriginalData,q)));
 		
 		for(int i=0; i<v.size(); i++)
-		System.out.println(Arrays.toString(v.get(i)));
+		System.out.println("v:"+Arrays.toString(v.get(i)));
 		
 		return v;//拿到MA模型里面的参数值
 	}

@@ -80,26 +80,28 @@ public class ARIMA {
 		//int[][] model=new int[][]{{0,1},{1,0},{1,1},{0,2},{2,0},{2,2},{1,2},{2,1},{3,0},{0,3},{3,1},{1,3},{3,2},{2,3},{3,3},{4,0},{0,4},{4,1},{1,4},{4,2},{2,4},{4,3},{3,4},{4,4}};
 
 		
-		for(int i=0;i<model.length;i++)
-		//for(int i=0;i<3;i++)
-		{
+		for(int i=0;i<model.length;i++){
 			System.out.println(Arrays.toString(model[i]));
 			if(model[i][0]==0)
 			{
 				MA ma=new MA(stdoriginalData, model[i][1]);
 				armaARMAcoe=ma.MAmodel(); //拿到ma模型的参数
+				System.out.println("model[i][0]==0:"+Arrays.toString(armaARMAcoe.get(0)));
 				paraType=1;
 			}
 			else if(model[i][1]==0)
 			{
 				AR ar=new AR(stdoriginalData, model[i][0]);
 				armaARMAcoe=ar.ARmodel(); //拿到ar模型的参数
+				System.out.println("model[i][1]==0:"+Arrays.toString(armaARMAcoe.get(0)));
 				paraType=2;
 			}
 			else
 			{
 				ARMA arma=new ARMA(stdoriginalData, model[i][0], model[i][1]);
 				armaARMAcoe=arma.ARMAmodel();//拿到arma模型的参数
+				System.out.println("model[i][0]!=0:"+Arrays.toString(armaARMAcoe.get(0)));
+				System.out.println("model[i][1]!=0:"+Arrays.toString(armaARMAcoe.get(1)));
 				paraType=3;
 			}
 			
@@ -152,7 +154,7 @@ public class ARIMA {
 				{
 					err[j]=err[j-1];
 				}
-//				err[0]=random.nextGaussian()*Math.sqrt(maPara[0]);
+				err[0]=random.nextGaussian()*Math.sqrt(maPara[0]);
 				
 				//估计的方差之和
 				sumerr+=(stdoriginalData[k]-(temp))*(stdoriginalData[k]-(temp));
@@ -206,7 +208,7 @@ public class ARIMA {
 					err[j]=err[j-1];
 				}
 				//System.out.println("predictBeforeDiff="+1);
-//				err[0]=random.nextGaussian()*Math.sqrt(maPara[0]);
+				err[0]=random.nextGaussian()*Math.sqrt(maPara[0]);
 				//估计的方差之和
 				sumerr+=(stdoriginalData[k]-(temp2+temp))*(stdoriginalData[k]-(temp2+temp));
 			}

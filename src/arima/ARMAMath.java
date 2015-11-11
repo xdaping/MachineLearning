@@ -71,7 +71,7 @@ public class ARMAMath
  */
 	public double[] autocorGrma(double[] dataArray,int order)
 	{
-		System.out.println(order+"==="+Arrays.toString(dataArray));
+		//System.out.println(order+"==="+Arrays.toString(dataArray));
 		
 		double[] autoCor=new double[order+1];
 		for(int i=0;i<=order;i++)
@@ -166,12 +166,18 @@ public class ARMAMath
 				{
 					temp+=maPara[j]*maPara[j+i];
 				}
-				tempmaPara[i]=-(autocorData[i]/maPara[0]-temp);
+				
+				if(maPara[0] == 0){
+					tempmaPara[i]=temp;
+				}else{
+					tempmaPara[i]=-(autocorData[i]/maPara[0]-temp);
+				}
+				
 				
 			}
 			
-			//System.out.println("tempmaPara:"+Arrays.toString(tempmaPara));
-			//System.out.println("maPara:"+Arrays.toString(maPara));
+			System.out.println("tempmaPara:"+Arrays.toString(tempmaPara));
+			System.out.println("maPara:"+Arrays.toString(maPara));
 			iterationFlag=false;
 			for(int i=0;i<maPara.length;i++)
 			{

@@ -3,12 +3,12 @@ package arima;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Random;
 import java.util.Scanner;
 
 public class test1 {
 
-	public static void main(String args[])
-	{
+	public static void main(String args[]){
 		
 		long t1 = System.currentTimeMillis();
 		

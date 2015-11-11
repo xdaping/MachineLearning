@@ -2,6 +2,7 @@ package aiima2;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 
@@ -25,11 +26,12 @@ public class App
 				arraylist.add(Double.parseDouble(ino.next()));
 			}
 			
-			double[] dataArray=new double[arraylist.size()]; 
+			double[] dataArray=new double[arraylist.size()-1]; 
 			
 			for(int i=0;i<dataArray.length;i++)
 				dataArray[i]=arraylist.get(i);
 	
+			arraylist.clear();
 			
 			ARIMAiFlex myarima=new ARIMAiFlex(dataArray);
 			//currentAlgorithm cc=new currentAlgorithm(dataArray);
