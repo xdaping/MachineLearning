@@ -34,8 +34,8 @@ public class LatLngDistance implements Distance{
 		System.out.println(d.getDistance(39.90509033203125, 116.3507080078125, 
 				39.92706298828125, 116.3507080078125));
 		
-		System.out.println(d.getStraightDistance(39.90509033203125, 116.3507080078125, 
-				39.92706298828125, 116.3507080078125));
+		System.out.println(d.getStraightDistance(39.0000, 116.3507080078125, 
+				39.00001, 116.3507080078125));
 		
 		
 	}

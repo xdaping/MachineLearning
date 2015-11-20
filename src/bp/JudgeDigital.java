@@ -2,16 +2,19 @@ package bp;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
-public class Test {
+public class JudgeDigital {
 
 	/**
 	 * @param args
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
+		
+		
 		BP bp = new BP(32, 15, 4);
 
 		Random random = new Random();
@@ -19,9 +22,11 @@ public class Test {
 		for (int i = 0; i != 1000; i++) {
 			int value = random.nextInt();
 			list.add(value);
+			
+			
 		}
 
-		for (int i = 0; i != 200; i++) {
+		for (int i = 0; i != 200; i++) {//训练次数200，可改成总误差小于某个值
 			for (int value : list) {
 				double[] real = new double[4];
 				if (value >= 0){
@@ -42,6 +47,8 @@ public class Test {
 					value >>>= 1;
 				} while (value != 0);
 
+				//System.out.println(Arrays.toString(binary));
+				//System.out.println(Arrays.toString(real));
 				bp.train(binary, real);
 			}
 		}

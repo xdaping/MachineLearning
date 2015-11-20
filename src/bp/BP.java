@@ -1,5 +1,6 @@
 package bp;
 
+import java.util.Arrays;
 import java.util.Random;
 
 /**
@@ -142,7 +143,7 @@ public class BP {
 	}
 
 	/**
-	 * Test the BPNN.
+	 * JudgeDigital the BPNN.
 	 * 
 	 * @param inData
 	 * @return
@@ -227,8 +228,10 @@ public class BP {
 		for (int idx = 1, len = optDelta.length; idx != len; ++idx) {
 			double o = output[idx];
 			optDelta[idx] = o * (1d - o) * (target[idx] - o);
+			
 			errSum += Math.abs(optDelta[idx]);
 		}
+		//System.out.println("optDelta"+Arrays.toString(optDelta));
 		optErrSum = errSum;
 	}
 
@@ -270,8 +273,7 @@ public class BP {
 		layer[0] = 1;
 		for (int i = 1, len = delta.length; i != len; ++i) {
 			for (int j = 0, len2 = layer.length; j != len2; ++j) {
-				double newVal = momentum * prevWeight[j][i] + eta * delta[i]
-						* layer[j];
+				double newVal = momentum * prevWeight[j][i] + eta * delta[i]* layer[j];
 				weight[j][i] += newVal;
 				prevWeight[j][i] = newVal;
 			}

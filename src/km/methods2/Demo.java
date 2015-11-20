@@ -17,18 +17,20 @@ public class Demo {
 				{0.9400,0.9700,0.9000,0.9700,0.9680,0.9480,0.9480,0.9600},
 				{100000,100000,100000,100000,100000,100000,100000,100000 }}; 
 
-		double[][] data1 = new double[10][8];
+		
 		for(int i=0;i<data.length;i++){
 			for(int j=0;j<data[0].length;j++){
-				data1[i][j]=-data[i][j];
+				data[i][j]=-data[i][j];
 			}
 		}
+		
+		
 
 		KuhnMunkres algorithm = new KuhnMunkres(10);		
 		
 		double[] result = new double[10];
 		
-		algorithm.getMaxBipartie(data1, result);
+		algorithm.getMaxBipartie(data, result);
 		
 		System.out.println(Arrays.toString(algorithm.match));
 		System.out.println(Arrays.deepToString(algorithm.matchResult()));
