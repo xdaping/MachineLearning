@@ -1,4 +1,4 @@
-package hmm;
+package hmm.method1;
 
 import java.text.DecimalFormat;
 
@@ -152,7 +152,7 @@ class HMM {
 		// Compute forward1 and Backward tables for the sequences
 		double loglikelihood = fwdbwd(hmm, xs, fwds, bwds, logP);
 		System.out.println("log likelihood = " + loglikelihood);
-		// hmm.print(new SystemOut());
+		// hmm.method1.print(new SystemOut());
 		do {
 			oldloglikelihood = loglikelihood;
 			// Compute estimates for A and E
@@ -195,7 +195,7 @@ class HMM {
 			hmm = new HMM(state, amat, esym, emat);
 			loglikelihood = fwdbwd(hmm, xs, fwds, bwds, logP);
 			System.out.println("log likelihood = " + loglikelihood);
-			// hmm.print(new SystemOut());
+			// hmm.method1.print(new SystemOut());
 		} while (Math.abs(oldloglikelihood - loglikelihood) > threshold);
 		return hmm;
 	}
@@ -317,7 +317,7 @@ class Backward extends HMMAlgo {
 		int L = x.length();
 		b = new double[L + 1][hmm.nstate];
 		for (int k = 1; k < hmm.nstate; k++)
-			b[L][k] = 0; // = log(1)  // should be hmm.loga[k][0]
+			b[L][k] = 0; // = log(1)  // should be hmm.method1.loga[k][0]
 		for (int i = L - 1; i >= 1; i--)
 			for (int k = 0; k < hmm.nstate; k++) {
 				double sum = Double.NEGATIVE_INFINITY; // = log(0)
@@ -416,10 +416,10 @@ public class Match3 {
 		
 		//System.out.println("Viterbi end");
 		//------------ Viterbi end -------------
-		//		         forward1 fwd = new forward1(hmm, x);
+		//		         forward1 fwd = new forward1(hmm.method1, x);
 		//		         fwd.print(new SystemOut());
 		//		      System.out.println(fwd.logprob());
-		//		      Backward bwd = new Backward(hmm, x);
+		//		      Backward bwd = new Backward(hmm.method1, x);
 		//		      //    bwd.print(new SystemOut());
 		//		      System.out.println(bwd.logprob());
 		//		      PosteriorProb postp = new PosteriorProb(fwd, bwd);
@@ -455,10 +455,10 @@ public class Match3 {
 	//		                         { 0, 0, 1, 0 },
 	//		                         { 0, 0, 0, 1 } };
 	//
-	//		    HMM hmm = new HMM(state, aprob, esym, eprob);
+	//		    HMM hmm.method1 = new HMM(state, aprob, esym, eprob);
 	//
 	//		    String x = "CGCG";
-	//		    Viterbi vit = new Viterbi(hmm, x);
+	//		    Viterbi vit = new Viterbi(hmm.method1, x);
 	//		    vit.print(new SystemOut());
 	//		    System.out.println(vit.getPath());
 	//		  }

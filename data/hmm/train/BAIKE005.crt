@@ -1,0 +1,540 @@
+1  电子学/n  与/cC  计算机/n  
+2  罗沛霖/nP  陈芳允/nP  吴几康/nP  慈云桂/nP  徐家福/nP  柯有安/nP  王行刚/nP  
+3  电子学/n  
+4  电子学/n  是/vC  一/m  门/qN  以/p  应用/v  为/vB  主要/b  目的/n  的/uJDE  科学/n  和/cC  技术/n  。/wE  
+5  电子学/n  是/vC  以/p  电子/n  运动/n  和/cC  电磁波/n  及其/cC  相互/b  作用/n  的/uJDE  研究/vN  和/cC  利用/vN  为/vC  核心/n  而/cC  发展/v  起来/vB  的/y  。/wE  
+6  它/rNP  作为/p  新/a  的/uJDE  信息/n  作业/n  手段/n  获得/v  了/uA  蓬勃/a  发展/vN  。/wE  
+7  电子/n  是/vC  基本粒子/n  家族/n  中/f  的/uJDE  一/m  个/qN  主要/b  成员/n  。/wE  
+8  电子/n  的/uJDE  静止/vN  质量/n  是/vC  ９．１０９５３/m  ×/x  １０/m  －/x  ２８/m  克/qN  ，/wP  为/vC  氢原子/n  质量/n  的/uJDE  １/m  ／/w  １８３６/m  。/wE  
+9  电子荷/n  有/v  １．６０２１８９/m  ×/x  １０/m  －/x  １９/m  库仑/qN  的/uJDE  负电/n  。/wE  
+10  宇宙/n  间/f  存在/v  着/uA  电子/n  的/uJDE  对立物/n  ——/wP  正电子/n  ，/wP  但/c  它/rNP  的/uJDE  寿命/n  很/dD  短/a  ，/wP  一般/a  情况/n  下/fS  是/vC  不/dN  存在/v  的/uJDE  。/wE  
+11  质子荷/n  有/v  与/p  电子/n  电荷/n  绝对值/n  相等/v  的/uJDE  正电荷/n  ，/wP  是/vC  氢原子/n  质量/n  的/uJDE  主要/b  构成/vN  部分/n  。/wE  
+12  在/p  通常/b  情况/n  下/fS  ，/wP  原子/n  含有/v  等量/n  的/uJDE  电子/n  和/cC  质子/n  ，/wP  对/p  外/fS  不/dN  显/v  电性/n  。/wE  
+13  但/c  当/p  它/rNP  俘获/v  或/cC  失去/v  电子/n  时/nT  对/p  外/fS  显现/v  电性/n  ，/wP  称为/v  离子/n  。/wE  
+14  离子/n  在/p  电子学/n  中/f  也/d  占有/v  一定/b  的/uJDE  位置/n  ，/wP  但/c  远/aD  不如/v  电子/n  的/uJDE  应用/vN  广泛/a  。/wE  
+15  电荷/n  周围/s  伴有/v  电场/n  ，/wP  电场/n  对/p  电荷/n  产生/v  力/n  的/uJDE  作用/n  。/wE  
+16  电荷/n  的/uJDE  运动/n  产生/v  电流/n  ，/wP  电流/n  周围/s  又/d  伴有/v  磁场/n  ，/wP  磁场/n  对/p  磁体/n  或/cC  电流/n  产生/v  力/n  的/uJDE  作用/n  。/wE  
+17  当/p  电流/n  变化/vN  时/nT  ，/wP  周围/s  的/uJDE  电场/n  和/cC  磁场/n  也/d  会/vM  随/p  之/rN  发生/v  变化/v  。/wE  
+18  这/rN  种/qN  变化/vN  以/p  波/n  的/uJDE  形态/n  携载/v  能量/n  以/p  一定/b  的/uJDE  速度/n  向/p  外/fS  传播/v  ，/wP  这/rN  种/qN  波/n  称为/v  电磁波/n  。/wE  
+19  电流/n  变化/vN  越/dD  快/a  ，/wP  所/uS  产生/v  的/uJDE  电磁波/n  波长/n  越/dD  短/a  ，/wP  但/c  传播/vN  速度/n  不/dN  变/v  。/wE  
+20  电磁波/n  在/p  真空/n  中/f  的/uJDE  传播/vN  速度/n  为/vC  每/rB  秒/qT  ２９９７９２/m  ．/m  ４６/m  公里/qN  。/wE  
+21  电磁场/n  和/cC  电磁波/n  还/d  能/vM  和/p  带电粒子/n  发生/v  相互/b  作用/n  ，/wP  产生/v  能量/n  变换/vN  。/wE  
+22  理论/n  和/cC  实践/n  都/d  证明/v  ，/wP  光波/n  、/wD  Ｘ射线/n  、/wD  γ射线/n  等/uO  都/d  是/vC  电磁波/n  ，/wP  只是/c  波长/n  不同/a  。/wE  
+23  电子/n  和/cC  电磁波/n  具有/v  波、粒二象性/n  ；/wP  在/p  电子/n  运动/vN  速度/n  极/dD  高/a  和/cC  电磁波/n  波长/n  极/dD  短/a  时/nT  ，/wP  波、粒二象性/n  十分/dD  显著/a  。/wE  
+24  电子/n  在/p  真空/n  、/wD  气体/n  、/wD  液体/n  、/wD  固体/n  和/cC  等离子体/n  中/f  运动/v  时/nT  产生/v  的/uJDE  许多/m  物理/n  现象/n  ，/wP  电磁波/n  在/p  真空/n  、/wD  气体/n  、/wD  液体/n  、/wD  固体/n  和/cC  等离子体/n  中/f  传播/v  时/nT  发生/v  的/uJDE  许多/m  物理/n  效应/n  ，/wP  以及/cC  电子/n  和/cC  电磁波/n  的/uJDE  相互/b  作用/n  的/uJDE  物理/n  规律/n  ，/wP  合/v  起来/vB  构成/v  电子学/n  的/uJDE  基础/n  研究/vN  的/uJDE  主要/b  内容/n  。/wE  
+25  电子学/n  不仅/c  致力/v  于/p  这些/rN  物理/n  现象/n  、/wD  物理/n  效应/n  和/cC  物理/n  规律/n  的/uJDE  研究/vN  ，/wP  尤其/d  致力/v  于/p  这些/rN  物理/n  现象/n  、/wD  物理/n  效应/n  和/cC  物理/n  规律/n  的/uJDE  应用/vN  。/wE  
+26  电子学/n  作为/p  科学/n  技术/n  的/uJDE  门类/n  之一/rN  具有/v  十分/dD  鲜明/a  的/uJDE  应用/vN  目的性/n  ，/wP  这/rN  是/vC  电子学/n  的/uJDE  重要/a  特点/n  之一/rN  。/wE  
+27  电子学/n  是/vC  为/p  信息/n  事业/n  、/wD  能源/n  事业/n  和/cC  材料/n  事业/n  服务/v  的/uJDE  。/wE  
+28  信息/n  作业/n  的/uJDE  基本/a  内容/n  可以/vM  概括/v  为/vB  信息/n  的/uJDE  采集/vN  、/wD  变换/vN  、/wD  传输/vN  、/wD  交换/vN  、/wD  存储/vN  、/wD  处理/vN  和/cC  再现/vN  等/uO  。/wE  
+29  电子学/n  为/p  当代/t  各/rB  种/qN  信息/n  作业/n  提供/v  了/uA  强有力/a  的/uJDE  技术/n  手段/n  ，/wP  如/p  计算机/n  、/wD  通信网/n  、/wD  广播/n  电视网/n  、/wD  雷达/n  、/wD  遥感/n  技术/n  等/uO  ，/wP  极/dD  大/a  地/uJDI  增强/v  了/uA  人类/n  的/uJDE  感官/n  和/cC  大脑/n  的/uJDE  作用/n  ，/wP  使/vJY  现代/b  人类/n  社会/n  的/uJDE  生产/vN  活动/n  、/wD  经济/n  活动/n  和/cC  社会/n  活动/n  的/uJDE  效率/n  大大/d  提高/v  。/wE  
+30  电子学/n  使/vJY  人类/n  跨入/v  了/uA  信息/n  社会/n  的/uJDE  新/a  阶段/nT  。/wE  
+31  能源/n  供给/v  人类/n  生产/vN  和/cC  生活/n  所/uS  需/v  的/uJDE  动力/n  。/wE  
+32  核能/n  和/cC  太阳能/n  正/d  日益/d  受到/v  重视/v  ，/wP  太阳能/n  是/vC  可/vM  再生/v  能源/n  。/wE  
+33  据/p  计算/v  ，/wP  太阳/n  辐射/v  到/vB  地球/n  上/f  的/uJDE  峰功率/n  达/v  一百几十万亿/m  千瓦/qN  。/wE  
+34  用/p  半导体/n  制成/v  的/uJDE  太阳/n  电池/n  是/vC  利用/v  太阳能/n  的/uJDE  重要/a  手段/n  。/wE  
+35  电子学/n  在/p  开发/v  和/cC  利用/v  新/a  旧/a  能源/n  方面/n  ，/wP  日益/d  显示/v  其/rB  重要/a  作用/n  。/wE  
+36  一/m  门/qN  新兴/b  分支/n  学科/n  ——/wP  能电子学/n  正在/d  兴起/v  。/wE  
+37  材料/n  是/vC  现代/b  人类/n  社会/n  赖以/v  存在/v  和/cC  发展/v  的/uJDE  物质/n  基础/n  。/wE  
+38  电子学/n  在/p  改造/v  现有/vN  材料/n  、/wD  创造/v  新型/b  材料/n  ，/wP  进行/v  材料/n  分析/vN  和/cC  材料/n  加工/vN  作业/n  中/f  ，/wP  同样/d  也/d  发挥/v  着/uA  重要/a  作用/n  ，/wP  并且/cC  往往/d  是/vC  通过/p  电子/n  技术/n  改变/v  能态/n  而/cC  实现/v  的/uJDE  。/wE  
+39  经历/v  了/uA  约/d  一/m  个/qN  世纪/nT  不/dN  停息/v  的/uJDE  开拓/vN  和/cC  发展/vN  ，/wP  现代/t  的/uJDE  电子学/n  已/d  发展/v  成为/vB  当代/t  最/dD  引人注目/v  的/uJDE  专业/n  和/cC  学科/n  之一/rN  。/wE  
+40  电子学/n  的/uJDE  历史/n  
+41  电子学/n  诞生/v  迄今/d  只/d  有/v  １００/m  年/qT  左右/m  的/uJDE  历史/n  ，/wP  它/rNP  是/vC  在/p  早期/t  的/uJDE  电磁学/n  和/cC  电工学/n  的/uJDE  基础/n  上/f  发展/v  起来/vB  的/y  。/wE  
+42  在/p  电子学/n  诞生/v  之前/f  ，/wP  人类/n  对于/p  电磁/n  现象/n  的/uJDE  研究/vN  已/d  相当/dD  深入/a  。/wE  
+43  一系列/b  物理/n  定律/n  已经/d  确立/v  ，/wP  如/v  库仑定律/n  、/wD  安培定律/n  、/wD  欧姆定律/n  、/wD  楞次定律/n  、/wD  法拉第/nP  电磁感应/n  定律/n  等/uO  。/wE  
+44  英国/nS  Ｊ·Ｃ·麦克斯韦/nP  集/v  以往/t  电磁学/n  研究/vN  之/uJDE  大成/n  ，/wP  建立/v  了/uA  电磁学/n  的/uJDE  完整/a  理论/n  ——/wP  麦克斯韦/nP  方程/n  ，/wP  并/cC  从/p  理论/n  上/f  预言/v  了/uA  电磁波/n  的/uJDE  存在/vN  。/wE  
+45  与此同时/c  ，/wP  人们/n  对/p  电磁学/n  的/uJDE  利用/vN  也/d  达到/v  了/uA  一定/b  的/uJDE  水平/n  ，/wP  有线/b  电报/n  和/cC  有线/b  电话/n  已/d  相继/d  发明/v  ，/wP  并且/cC  有/v  了/uA  横贯/v  美洲/nS  大陆/n  的/uJDE  电报/n  、/wD  电话/n  线路/n  和/cC  横跨/v  大西洋/nS  的/uJDE  海底/n  电缆/n  。/wE  
+46  美国/nS  Ｔ·Ａ·爱迪生/nP  发明/v  了/uA  白炽灯/n  。/wE  
+47  所有/b  这些/rN  ，/wP  都/d  为/p  电子学/n  的/uJDE  诞生/vN  准备/v  了/uA  充足/a  的/uJDE  条件/n  。/wE  
+48  标志/v  着/uA  电子学/n  诞生/v  的/uJDE  两/m  个/qN  重大/a  的/uJDE  历史/n  事件/n  ，/wP  是/vC  爱迪生效应/n  的/uJDE  发现/vN  和/cC  关于/p  电磁波/n  存在/v  的/uJDE  验证/vN  实验/vN  。/wE  
+49  １８８３/m  年/qT  ，/wP  爱迪生/nP  在/p  致力于/v  延长/v  碳丝/n  白炽灯/n  的/uJDE  寿命/n  时/nT  ，/wP  意外/a  地/uJDI  发现/v  了/uA  在/p  灯丝/n  与/cC  加有/v  正电压/n  的/uJDE  电极/n  间/f  有/v  电流/n  流过/v  ，/wP  电极/n  为/vC  负/n  时/nT  则/c  无/v  电流/n  ，/wP  这/rN  就/d  是/vC  爱迪生效应/n  。/wE  
+50  这/rN  一/m  发现/n  导致/v  了/uA  后来/t  电子管/n  的/uJDE  发明/vN  。/wE  
+51  １８８７/m  年/qT  ，/wP  德国/nS  Ｈ·Ｒ·赫兹/nP  进行/v  了/uA  一/m  项/qN  实验/n  ，/wP  他/rNP  用/p  火花隙/n  激励/v  一/m  个/qN  环状/n  天线/n  ，/wP  用/p  另/rB  一/m  个/qN  带/v  缝隙/n  的/uJDE  环状/n  天线/n  接收/v  ，/wP  证实/v  了/uA  麦克斯韦/nP  关于/p  电磁波/n  存在/v  的/uJDE  预言/vN  ，/wP  这/rN  一/m  重要/a  的/uJDE  实验/n  导致/v  了/uA  后来/t  无线/b  电报/n  的/uJDE  发明/vN  。/wE  
+52  电子学/n  在/p  发展/vN  过程/n  中/f  取得/v  了/uA  许多/m  有/v  重大/a  意义/n  的/uJDE  成就/n  。/wE  
+53  无线/b  电报/n  
+54  还/d  在/p  电子学/n  诞生/v  以前/f  ，/wP  美国/nS  Ｓ·莫尔斯/nP  就/d  于/p  １８３７/m  年/qT  发明/v  并/cC  建成/v  了/uA  电报/n  线路/n  ，/wP  赫兹/nP  的/uJDE  实验/n  则/c  架起/v  了/uA  一/m  座/qN  从/p  “/wLB  有线/b  ”/wRB  通向/v  “/wLB  无线/b  ”/wRB  的/uJDE  桥梁/n  。/wE  
+55  １８９５/m  年/qT  ，/wP  意大利/nS  Ｇ·马可尼/nP  在/p  赫兹/nP  实验/n  的/uJDE  基础/n  上/f  成功/a  地/uJDI  进行/v  了/uA  2.5/m  公里/qN  距离/n  的/uJDE  无线/b  电报/n  传送/vN  实验/n  。/wE  
+56  １８９６/m  年/qT  ，/wP  俄国/nS  Ａ·Ｃ·波波夫/nP  也/d  独立/a  地/uJDI  进行/v  了/uA  约/d  ２５０/m  米/qN  距离/n  的/uJDE  类似/a  试验/n  ，/wP  他/rNP  传送/v  的/uJDE  第/m  一/m  份/qN  电文/n  就/d  是/vC  “/wLB  赫兹/nP  ”/wRB  。/wE  
+57  此后/t  数/m  年/qT  ，/wP  马可尼/nP  在/p  英国/nS  进行/v  了/uA  一系列/b  卓有成效/v  的/uJDE  工作/n  ，/wP  使得/vJY  无线/b  电报/n  的/uJDE  传送/vN  距离/n  不断/d  延伸/v  。/wE  
+58  １８９９/m  年/qT  ，/wP  跨越/v  英吉利/nS  海峡/n  的/uJDE  试验/vN  成功/v  ；/wP  １９０１/m  年/qT  ，/wP  跨越/v  大西洋/nS  的/uJDE  ３２００/m  公里/qN  距离/n  的/uJDE  试验/vN  成功/v  。/wE  
+59  马可尼/nP  以/p  其/rN  在/p  无线/b  电报/n  的/uJDE  发展/vN  以及/cC  由此/d  开创/v  的/uJDE  无线电/n  通信/vN  事业/n  上/f  的/uJDE  成就/n  ，/wP  获得/v  了/uA  １９０９/m  年/qT  的/uJDE  诺贝尔/nP  奖金/n  物理学奖/n  。/wE  
+60  无线/b  电报/n  的/uJDE  发明/vN  ，/wP  是/vC  人类/n  利用/v  电磁波/n  的/uJDE  第/m  一/m  个/qN  巨大/a  成就/n  ，/wP  电子学/n  从此/d  开始/v  了/uA  一/m  个/qN  研究/v  和/cC  利用/v  电磁波/n  的/uJDE  极其/dD  兴旺/a  的/uJDE  时期/nT  。/wE  
+61  电子管/n  
+62  爱迪生/nP  虽然/c  发明/v  了/uA  热电子/n  发射/vN  效应/n  （/wLB  即/vC  爱迪生效应/n  ）/wRB  ，/wP  但/c  他/rNP  并/dB  未/dN  意识/v  到/vB  这/rN  一/m  效应/n  的/uJDE  意义/n  ，/wP  而且/cC  对/p  它/rNP  的/uJDE  机理/n  也/d  不/dN  清楚/a  。/wE  
+63  １８９７/m  年/qT  ，/wP  英国/nS  Ｊ·J·汤姆逊/nP  揭示/v  出/vB  形成/v  爱迪生效应/n  的/uJDE  荷电粒子/n  是/vC  电子/n  ，/wP  爱迪生效应/n  乃是/vC  一/m  种/qN  热电子/n  发射/vN  现象/n  。/wE  
+64  １９０４/m  年/qT  ，/wP  英国/nS  Ｊ·Ａ·弗莱明/nP  第/m  一/m  个/qN  把/p  爱迪生效应/n  付诸/v  实用/v  ，/wP  发明/v  了/uA  二极电子管/n  。/wE  
+65  二极电子管/n  的/uJDE  发明/vN  为/p  无线/b  电报/n  接收/vN  提供/v  了/uA  一/m  种/qN  灵敏/a  可靠/a  的/uJDE  检波器/n  。/wE  
+66  １９０６/m  年/qT  ，/wP  美国/nS  Ｌ·德福雷斯特/nP  发明/v  具有/v  放大/vN  能力/n  的/uJDE  三极电子管/n  ，/wP  为/p  当时/t  蓬勃/aD  发展/v  的/uJDE  无线/b  电报/n  通信/vN  事业/n  提供/v  了/uA  一/m  种/qN  极其/dD  有用/a  的/uJDE  器件/n  。/wE  
+67  三极电子管/n  以后/f  ，/wP  又/d  出现/v  了/uA  四极管/n  、/wD  五极管/n  、/wD  更/dD  多/a  极/n  的/uJDE  电子管/n  和/cC  复合管/n  ，/wP  形成/v  了/uA  包括/v  收信管/n  、/wD  发射管/n  、/wD  低频管/n  、/wD  高频管/n  、/wD  微波管/n  和/cC  超小型管/n  等/uO  系列/n  。/wE  
+68  电子管/n  是/vC  电子/n  器件/n  的/uJDE  第/m  一/m  代/qN  ，/wP  在/p  晶体管/n  发明/vN  以前/f  的/uJDE  近/m  半/m  个/qN  世纪/nT  里/f  ，/wP  电子管/n  几乎/d  是/vC  各/rB  种/qN  电子/n  设备/n  中/f  唯一/b  可/vM  用/v  的/uJDE  电子/n  器件/n  。/wE  
+69  电子学/n  随后/d  取得/v  的/uJDE  许多/m  成就/n  ，/wP  如/p  电视/n  、/wD  雷达/n  、/wD  计算机/n  的/uJDE  发明/vN  ，/wP  都/d  是/vC  和/p  电子管/n  分/v  不/u  开/vB  的/y  。/wE  
+70  就是/c  在/p  固体电子学/n  十分/dD  兴旺/a  的/uJDE  现代/t  ，/wP  以/p  大/a  功率/n  电子管/n  （/wLB  特别是/d  微波/n  功率/n  电子管/n  ）/wRB  和/cC  电子束管/n  为/vC  代表/n  的/uJDE  真空电子学/n  也/d  仍然/d  是/vC  一/m  个/qN  活跃/a  的/uJDE  领域/n  。/wE  
+71  广播/n  与/cC  电视/n  
+72  １８７６/m  年/qT  ，/wP  美国/nS  Ａ·Ｇ·贝尔/nP  在/p  美国/nS  建国/v  １００/m  周年/qT  博览会/n  上/f  展示/v  了/uA  他/rNP  所/uS  发明/v  的/uJDE  有线/b  电话/n  。/wE  
+73  此后/t  ，/wP  有线/b  电话/n  便/d  迅速/aD  普及/v  开来/vB  。/wE  
+74  Ｇ·马可尼/nP  发明/v  无线/b  电报/n  ，/wP  促成/v  了/uA  无线/b  电话/n  和/cC  无线电/n  广播/n  的/uJDE  出现/vN  。/wE  
+75  １９０６/m  年/qT  ，/wP  美国/nS  Ｒ·Ａ·费森登/nP  进行/v  了/uA  一/m  项/qN  很/dD  有/v  意义/n  的/uJDE  实验/n  ，/wP  他/rNP  用/p  ５０/m  千赫/qN  频率/n  发电机/n  作/v  发射机/n  ，/wP  用/p  微音器/n  直接/aD  串入/v  天线/n  实现/v  调制/v  ，/wP  首次/d  使/vJY  大西洋/nS  航船/n  上/f  的/uJDE  报务员/n  听/v  到/vB  了/uA  他/rNP  从/p  波士顿/nS  播出/v  的/uJDE  音乐/n  ，/wP  这/rN  是/vC  无线电/n  广播/n  发明/n  的/uJDE  先声/n  。/wE  
+76  １９１６/m  年/qT  ，/wP  美国/nS  Ｇ·Ｄ·萨诺夫/nP  最先/d  提出/v  向/p  公众/n  进行/v  无线电/n  广播/n  的/uJDE  设想/vN  ，/wP  但/c  因/p  第一次世界大战/nR  爆发/v  而/cC  未/dN  能/vM  实现/v  。/wE  
+77  １９１９/m  年/qT  ，/wP  第/m  一/m  个/qN  定时/aD  播发/v  语言/n  和/cC  音乐/n  的/uJDE  无线电/n  广播/n  电台/n  在/p  英国/nS  建成/v  。/wE  
+78  次年/t  ，/wP  在/p  美国/nS  的/uJDE  匹兹堡城/nS  又/d  建成/v  一/m  座/qN  无线电/n  广播/n  电台/n  。/wE  
+79  此后/t  ，/wP  无线电/n  广播/n  事业/n  即/d  在/p  世界/n  范围/n  内/f  得到/v  普及/v  ，/wP  从/p  中波/n  扩展/v  到/vB  短波/n  、/wD  超短波/n  ，/wP  从/p  调幅/n  扩展/v  到/vB  调频/n  、/wD  脉冲/n  调制/vN  等/uO  ，/wP  卫星/n  直播/vN  也/d  已/d  实现/v  。/wE  
+80  电视/n  的/uJDE  发明/vN  可/vM  追溯/v  到/p  １８８４/m  年/qT  德国/nS  Ｐ·Ｇ·尼普科夫/nP  关于/p  机械/n  扫描/v  电视/n  的/uJDE  设想/n  。/wE  
+81  把/p  尼普科夫/nP  设想/n  付诸实现/v  的/uJDE  是/vC  英国/nS  Ｊ·Ｌ·贝尔德/nP  。/wE  
+82  １９２７/m  年/qT  ，/wP  他/rNP  成功/a  地/uJDI  用/p  电话/n  线路/n  把/p  图像/n  从/p  伦敦/nS  传/v  至/p  大西洋/nS  中/f  的/uJDE  船/n  上/f  。/wE  
+83  不过/c  这/rN  还/d  不/dN  是/vC  现代/b  类型/n  的/uJDE  全/a  电子/n  电视/n  ，/wP  第/m  一/m  个/qN  对/p  全/a  电子/n  电视/n  作出/v  实际/a  贡献/n  的/uJDE  是/vC  Ｖ·Ｋ·兹沃雷金/nP  。/wE  
+84  他/rNP  在/p  １９２３/m  年/qT  和/cC  １９２４/m  年/qT  相继/d  发明/v  了/uA  摄像管/n  和/cC  显像管/n  。/wE  
+85  １９３１/m  年/qT  ，/wP  他/rNP  组装/v  成/vB  世界/n  上/f  第/m  一/m  个/qN  全/a  电子/n  电视/n  系统/n  。/wE  
+86  此后/t  几/m  年/qT  ，/wP  迭经/d  改进/v  ，/wP  约/d  在/p  ３０/m  年代/nT  末/fT  ，/wP  英/nS  美/nS  先后/d  开始/v  了/uA  试验性/n  的/uJDE  电视/n  广播/n  。/wE  
+87  第二次世界大战/nR  后/f  ，/wP  电视/n  广播/n  便/d  在/p  各/rB  国/n  逐渐/d  普及/v  。/wE  
+88  广播/n  、/wD  电视/n  的/uJDE  发明/vN  ，/wP  不仅/c  使/vJY  人类/n  的/uJDE  文化/n  生活/n  更加/dD  丰富多彩/v  ，/wP  而且/cC  为/p  人类/n  提供/v  了/uA  一/m  种/qN  公共/b  信息/n  媒介/n  。/wE  
+89  雷达/n  
+90  物体/n  ，/wP  特别是/d  金属/n  物体/n  （/wLB  如/p  舰船/n  ）/wRB  ，/wP  具有/v  反射/v  电磁波/n  的/uJDE  能力/n  ，/wP  在/p  赫兹/nP  、/wD  马可尼/nP  、/wD  波波夫/nP  时代/nT  早已/d  为人所知/v  。/wE  
+91  在/p  雷达/n  发明/vN  之前/f  ，/wP  利用/v  脉冲/n  无线电/n  装置/n  测量/v  电离层/n  高度/n  的/uJDE  工作/n  已/d  进行/v  多/m  年/qT  。/wE  
+92  第二次世界大战/nR  前夕/fT  ，/wP  在/p  飞机/n  成为/v  主要/b  进攻/vN  武器/n  的/uJDE  情况/n  下/fS  ，/wP  英/nS  、/wD  美/nS  、/wD  德/nS  、/wD  法/nS  等/uO  国/n  均/d  投入/v  较/dD  多/a  的/uJDE  人力/n  ，/wP  竞相/d  研制/v  一/m  类/qN  能/vM  早期/t  警戒/v  飞机/n  的/uJDE  装置/n  。/wE  
+93  １９３６/m  年/qT  ，/wP  英国/nS  Ｒ·Ａ·沃森/nP  －/x  瓦特/nP  设计/v  的/uJDE  警戒/vN  雷达/n  最先/d  投入/v  了/uA  运行/v  。/wE  
+94  它/rNP  架设/v  在/p  英国/nS  的/uJDE  东岸/fS  ，/wP  有效/a  地/uJDI  警戒/v  了/uA  来自/v  德国/nS  的/uJDE  轰炸机/n  。/wE  
+95  １９３８/m  年/qT  ，/wP  美国/nS  研制/v  成/vB  第/m  一/m  部/qN  能/vM  指挥/vJY  火炮/n  射击/v  的/uJDE  火炮/n  控制/vN  雷达/n  ，/wP  大大/d  提高/v  了/uA  火炮/n  的/uJDE  命中率/n  。/wE  
+96  １９４０/m  年/qT  ，/wP  出现/v  能/vM  产生/v  微波/n  高/a  功率/n  的/uJDE  多腔磁控管/n  ，/wP  次年/t  ，/wP  第/m  一/m  部/qN  微波雷达/n  研制/v  成功/vB  。/wE  
+97  １９４４/m  年/qT  ，/wP  能够/vM  自动/d  跟踪/v  飞机/n  的/uJDE  雷达/n  研制/v  成功/vB  。/wE  
+98  １９４５/m  年/qT  ，/wP  能/vM  消除/v  背景/n  干扰/vN  显示/v  运动/n  目标/n  的/uJDE  动目标/n  显示/vN  技术/n  的/uJDE  发明/vN  ，/wP  使/vJY  雷达/n  更加/dD  完善/a  。/wE  
+99  在/p  整个/b  第二次世界大战/nR  期间/fT  ，/wP  雷达/n  成/v  了/uA  电子学/n  中/f  最/dD  活跃/a  的/uJDE  部分/n  之一/rN  。/wE  
+100  近炸引信/n  也/d  属于/vC  雷达/n  性质/n  ，/wP  它/rNP  成/m  百/m  倍/qN  地/uJDI  提高/v  了/uA  炮火/n  威力/n  。/wE  
+101  电子/n  计算机/n  
+102  计算/vN  工具/n  的/uJDE  发明/vN  ，/wP  经历/v  了/uA  漫长/a  的/uJDE  道路/n  。/wE  
+103  从/p  古代/t  中国/nS  的/uJDE  算筹/n  和/cC  算盘/n  到/p  １６/m  世纪/nT  西方/nS  的/uJDE  计算尺/n  和/cC  齿轮式/b  计算机/n  ，/wP  从/p  机械式/b  计算机/n  到/p  电子/n  计算机/n  ，/wP  从/p  手动/v  计算/v  到/p  自动/d  计算/v  ，/wP  从/p  十进制/n  到/p  二进制/n  ，/wP  是/vC  一/m  个/qN  逐步/d  发展/v  的/uJDE  过程/n  。/wE  
+104  电子/n  计算机/n  的/uJDE  应用/vN  越来越/dD  广泛/a  ，/wP  从/p  科学/a  计算/vN  扩展/v  到/vB  事务/n  管理/vN  、/wD  过程/n  控制/vN  、/wD  情报/n  检索/vN  、/wD  人工智能/n  等/uO  许多/m  领域/n  ，/wP  对/p  人类/n  的/uJDE  生产/vN  和/cC  生活/n  产生/v  了/uA  巨大/a  的/uJDE  影响/n  。/wE  
+105  晶体管/n  
+106  正当/p  电子管/n  进入/v  全盛/a  时期/nT  ，/wP  美国/nS  贝尔实验室/nO  的/uJDE  物理学家/n  看到/v  电子管/n  在/p  体积/n  、/wD  功耗/n  、/wD  寿命/n  等/uO  方面/n  的/uJDE  局限性/n  ，/wP  在/p  客观/a  需要/vN  的/uJDE  推动/vN  下/fS  着手/v  固体/n  器件/n  的/uJDE  研究/vN  。/wE  
+107  １９４８/m  年/qT  ，/wP  贝尔实验室/nO  宣布/v  Ｊ·巴丁/nP  、/wD  Ｗ·Ｈ·布喇顿/nP  和/cC  Ｗ·Ｂ·肖克莱/nP  研制/v  成/vB  晶体/n  三极管/n  。/wE  
+108  初期/t  的/uJDE  晶体管/n  是/vC  点触式/b  的/uJDE  ，/wP  制造/v  比较/dD  困难/a  ，/wP  稳定性/n  较/dD  差/a  ，/wP  但/c  它/rNP  毕竟/d  是/vC  时代/nT  的/uJDE  标志/n  。/wE  
+109  １９５７/m  年/qT  ，/wP  贝尔实验室/nO  的/uJDE  Ｄ·斯帕克斯/nP  发明/v  面结型/b  晶体管/n  ，/wP  克服/v  了/uA  点触式/b  晶体管/n  的/uJDE  缺点/n  ，/wP  使得/vJY  问世/v  不久/t  的/uJDE  晶体管/n  的/uJDE  地位/n  巩固/v  下来/vB  。/wE  
+110  后来/t  ，/wP  由于/p  材料/n  工艺/n  方面/n  取得/v  进展/v  ，/wP  肖克莱/nP  早期/t  设想/v  的/uJDE  场效应/n  晶体管/n  也/d  实现/v  了/y  。/wE  
+111  晶体管/n  的/uJDE  发明/vN  将/p  电子学/n  推/v  向/vB  了/uA  一/m  个/qN  新/a  的/uJDE  阶段/nT  。/wE  
+112  电子学/n  在/p  以后/f  取得/v  的/uJDE  许多/m  成就/n  ，/wP  如/p  集成电路/n  、/wD  微处理器/n  和/cC  微型/b  计算机/n  等/uO  ，/wP  都/d  是/vC  从/p  晶体管/n  发展/v  而/cC  来/vB  的/uJDE  。/wE  
+113  集成电路/n  
+114  １９５８/m  年/qT  ，/wP  美国/nS  得克萨斯/nS  仪器公司/n  宣布/v  一/m  种/qN  集成/b  的/uJDE  振荡器/n  问世/v  ，/wP  首次/d  把/p  晶体管/n  和/cC  电阻/n  、/wD  电容/n  等/uO  集成/v  在/p  一/m  块/qN  硅片/n  上/f  ，/wP  构成/v  了/uA  一/m  个/qN  基本/aD  完整/a  的/uJDE  单片式/b  功能/n  电路/n  。/wE  
+115  １９６１/m  年/qT  ，/wP  美国/nS  仙童公司/nO  宣布/v  制成/v  一/m  种/qN  集成/b  的/uJDE  触发器/n  ，/wP  从此/d  ，/wP  集成电路/n  获得/v  了/uA  飞速/b  的/uJDE  发展/vN  。/wE  
+116  数字/b  集成电路/n  从/p  小/a  规模/n  到/p  中/b  规模/n  、/wD  大/a  规模/n  ，/wP  乃至/cC  到/p  超大/b  规模/n  ，/wP  集成度/n  越来越/dD  高/a  ，/wP  使/vJY  过去/t  的/uJDE  中小型/b  计算机/n  乃至/cC  大型/b  计算机/n  得以/v  微型/b  化/k  ，/wP  进入/v  了/uA  微型/b  计算机/n  的/uJDE  时期/nT  。/wE  
+117  与此同时/c  ，/wP  模拟/vN  集成电路/n  也/d  获得/v  了/uA  发展/v  。/wE  
+118  集成电路/n  的/uJDE  发明/vN  开创/v  了/uA  集/v  电子/n  器件/n  与/cC  某些/rB  电子元件/n  于/p  一体/n  的/uJDE  新/a  局面/n  ，/wP  使/vJY  传统/a  的/uJDE  电子/n  器件/n  概念/n  发生/v  了/uA  变化/v  。/wE  
+119  这/rN  种/qN  新型/b  的/uJDE  封装/v  好/vB  的/uJDE  器件/n  体积/n  和/cC  功耗/n  都/d  很/dD  小/a  ，/wP  具有/v  独立/a  的/uJDE  电路/n  功能/n  ，/wP  甚至/d  具有/v  系统/n  的/uJDE  功能/n  。/wE  
+120  单片/n  微波/n  集成电路/n  也/d  已/d  进入/v  生产/vN  阶段/nT  。/wE  
+121  集成电路/n  的/uJDE  发明/vN  使/vJY  电子学/n  进入/v  了/uA  微电子学/n  时期/nT  ，/wP  是/vC  电子学/n  发展/vN  的/uJDE  一/m  次/qV  重大/a  飞跃/vN  。/wE  
+122  卫星/n  通信/vN  
+123  １９５７/m  年/qT  ，/wP  苏联/nS  发射/v  人造/b  地球/n  卫星/n  成功/a  ，/wP  宣告/v  了/uA  空间时代/n  的/uJDE  到来/vN  。/wE  
+124  １９５８/m  年/qT  ，/wP  美国/nS  发射/v  低/a  轨道/n  的/uJDE  “/wLB  斯科尔/nR  ”/wRB  卫星/n  成功/a  ，/wP  这/rN  是/vC  第/m  一/m  颗/qN  用/v  于/p  通信/vN  的/uJDE  试验/vN  卫星/n  。/wE  
+125  １９６２/m  年/qT  ，/wP  美国/nS  发射/v  中/b  轨道/n  的/uJDE  通信卫星/n  “/wLB  电星/nR  ”/wRB  －/x  Ⅰ/m  号/qN  。/wE  
+126  １９６３/m  年/qT  ，/wP  美国/nO  把/p  “/wLB  辛康/nR  ”/wRB  －/x  Ⅱ/m  号/qN  射入/v  距离/v  地球/n  约/d  ３５８００/m  公里/qN  的/uJDE  同步轨道/n  ，/wP  成为/v  第/m  一/m  颗/qN  定点/b  同步/b  通信卫星/n  。/wE  
+127  １９６４/m  年/qT  ，/wP  借助/p  定点/b  同步/b  通信卫星/n  首次/d  实现/v  了/uA  美/nS  、/wD  欧/nS  、/wD  非/nS  三/m  大/a  洲/n  的/uJDE  通信/vN  和/cC  电视/n  转播/vN  。/wE  
+128  １９６５/m  年/qT  ，/wP  第/m  一/m  颗/qN  商用/b  定点/b  同步卫星/n  投入/v  运行/vN  。/wE  
+129  到/p  １９６９/m  年/qT  ，/wP  大西洋/nS  、/wD  太平洋/nS  和/cC  印度洋/nS  上空/nS  均/d  已/d  有/v  定点/v  同步/a  通信卫星/n  ，/wP  卫星/n  地球站/n  已/d  遍布/v  世界/n  各/rB  国/n  ，/wP  这些/rN  卫星/n  地球站/n  又/d  和/p  本/rB  国/n  或/cC  本/rB  地区/n  的/uJDE  通信网/n  接通/v  。/wE  
+130  卫星/n  通信/vN  经历/v  １０/m  年/qT  的/uJDE  发展/vN  ，/wP  终/d  趋于/v  成熟/a  。/wE  
+131  用/p  定点/b  同步/b  通信卫星/n  作为/v  中继站/n  ，/wP  为/p  洲际/b  信息/n  传递/vN  提供/v  了/uA  一/m  种/qN  稳定/a  而/cC  又/d  可靠/a  的/uJDE  手段/n  ，/wP  也/d  解决/v  了/uA  幅员/n  广大/b  的/uJDE  国家/n  的/uJDE  国内/s  通信/vN  问题/n  。/wE  
+132  卫星/n  通信/vN  的/uJDE  成功/n  是/vC  通信/vN  技术/n  ，/wP  也/d  是/vC  电子学/n  的/uJDE  又/d  一/m  次/qV  飞跃/vN  。/wE  
+133  光频/n  的/uJDE  开拓/vN  和/cC  利用/vN  
+134  电子学/n  发展/vN  的/uJDE  一/m  个/qN  重要/a  方面/n  ，/wP  表现/v  在/p  电磁波谱/n  利用/vN  的/uJDE  扩展/vN  上/f  ，/wP  其中/rN  特别/dD  是/vC  对/p  光频段/n  （/wLB  包括/v  红外/n  和/cC  紫外/n  ）/wRB  的/uJDE  开拓/vN  和/cC  利用/vN  上/f  。/wE  
+135  麦克斯韦/nP  在/p  他/rNP  创立/v  的/uJDE  经典电磁理论/n  中/f  ，/wP  就/d  已经/d  阐明/v  了/uA  光/n  的/uJDE  电磁/n  本质/n  。/wE  
+136  人类/n  对/p  光/n  的/uJDE  认识/vN  和/cC  利用/vN  远/aD  在/v  电子学/n  诞生/v  之前/f  。/wE  
+137  但是/c  ，/wP  在/p  激光器/n  发明/vN  以前/f  ，/wP  人们/n  所/uS  涉及/v  的/uJDE  ，/wP  主要/d  是/vC  非相干光/n  。/wE  
+138  １９５４/m  年/qT  ，/wP  美国/nS  Ｃ·Ｈ·汤斯/nP  用/p  致冷/v  的/uJDE  氨分子/n  作/v  工作/n  物质/n  ，/wP  研制/v  成/vB  世界/n  上/f  第/m  一/m  台/qN  微波/n  激射器/n  。/wE  
+139  稍后/d  ，/wP  苏联/nS  Ｈ·Γ．巴索夫/nP  和/cC  A.M.罗霍洛夫/nP  也/d  研制/v  成/vB  以/p  氟化铯/n  为/v  工作/n  物质/n  的/uJDE  微波/n  激射器/n  。/wE  
+140  １９５８/m  年/qT  ，/wP  汤斯/nP  与/cC  Ａ·Ｌ·肖洛/nP  将/p  微波/n  受激辐射/n  的/uJDE  原理/n  推广/v  到/vB  红外/n  和/cC  光频段/n  。/wE  
+141  １９６０/m  年/qT  ，/wP  美国/nS  Ｔ·Ｈ梅曼/nP  研制/v  成/vB  第/m  一/m  台/qN  激光器/n  ——/wP  红宝石/n  激光器/n  。/wE  
+142  此后/t  不/dN  到/vB  一/m  年/qT  ，/wP  第/m  一/m  个/qN  连续激光器/n  ——/wP  氦氖激光器/n  研制/v  成功/vB  。/wE  
+143  从此/d  ，/wP  用/v  于/p  信息/n  技术/n  的/uJDE  电磁波谱/n  ，/wP  从/p  无线电/n  频段/n  扩展/v  到/vB  了/uA  光频段/n  ，/wP  从而/c  使/vJY  已经/d  显得/v  十分/dD  拥挤/a  的/uJDE  无线电/n  频段/n  得到/v  了/uA  缓解/v  。/wE  
+144  激光器/n  的/uJDE  出现/vN  ，/wP  使/vJY  英国/nS  Ｄ·盖伯/nP  在/p  １９４６/m  年/qT  发明/v  的/uJDE  全息摄影/n  技术/n  获得/v  了/uA  新/a  的/uJDE  活力/n  ，/wP  并/cC  为/p  后来/t  的/uJDE  高/a  密度/n  大/a  容量/n  信息/n  存储/vN  技术/n  奠定/v  了/uA  基础/n  。/wE  
+145  激光器/n  的/uJDE  问世/vN  ，/wP  也/d  导致/v  了/uA  大/a  容量/n  光纤/n  通信/vN  的/uJDE  出现/vN  ，/wP  使/vJY  通信/vN  技术/n  继/p  卫星/n  通信/vN  之后/f  发生/v  了/uA  又/d  一/m  次/qV  飞跃/vN  ，/wP  这/rN  又/d  是/vC  一/m  个/qN  重大/a  进展/vN  。/wE  
+146  应用/vN  基础/n  科学/n  
+147  电子学/n  在/p  实践/n  上/f  所/uS  取得/v  的/uJDE  一系列/b  重大/a  成就/n  ，/wP  和/p  它/rNP  在/p  应用/vN  基础/n  科学/n  方面/n  所/uS  取得/v  的/uJDE  成就/n  是/vC  分/v  不/u  开/vB  的/y  。/wE  
+148  在/p  ２０/m  ～/w  ３０/m  年代/nT  ，/wP  由于/c  对/p  载波/n  、/wD  长途/b  和/cC  音频/n  通信/vN  的/uJDE  需要/vN  ，/wP  人们/n  研究/v  电路/n  网络/n  、/wD  模拟/vN  滤波器/n  、/wD  传输线/n  、/wD  听觉/n  和/cC  音响/n  等/uO  ，/wP  并/dB  取得/v  了/uA  重大/a  进展/vN  。/wE  
+149  在/p  信息论/n  和/cC  通信/vN  理论/n  方面/n  ，/wP  信息/n  的/uJDE  度量/n  ，/wP  信息/n  传输/vN  （/wLB  即/vC  通信/vN  ）/wRB  的/uJDE  有效性/n  和/cC  可靠性/n  ，/wP  是/vC  这/rN  方面/n  的/uJDE  主要/b  问题/n  。/wE  
+150  １９２４/m  年/qT  ，/wP  Ｈ·奈奎斯特/nP  首先/d  证明/v  了/uA  信息/n  传输/vN  的/uJDE  速率/n  与/p  信道/n  带宽/n  成正比/v  。/wE  
+151  １９２８/m  年/qT  ，/wP  Ｒ·Ｖ·Ｌ·哈特莱/nP  证明/v  ，/wP  信息量/n  与/p  信息/n  长度/n  的/uJDE  对数/n  成正比/v  。/wE  
+152  可以说/l  ，/wP  这/rN  是/vC  关于/p  信息/n  度量/vN  的/uJDE  先驱性/n  工作/n  。/wE  
+153  １９４８/m  年/qT  ，/wP  Ｃ·Ｅ·仙农/nP  把/p  信息/n  的/uJDE  研究/vN  置于/v  统计学/n  的/uJDE  基础/n  上/f  。/wE  
+154  他/rNP  通过/p  引入/v  信息熵/n  的/uJDE  概念/n  ，/wP  解决/v  了/uA  信息/n  的/uJDE  度量/n  问题/n  。/wE  
+155  他/rNP  的/uJDE  更/dD  重要/a  的/uJDE  功绩/n  是/vC  给出/v  了/uA  信息/n  传输/vN  能力/n  的/uJDE  极限/n  公式/n  、/wD  关于/p  信源/n  和/cC  信道/n  编码/n  的/uJDE  定理/n  ，/wP  以及/cC  关于/p  信息率/n  失真函数/n  的/uJDE  概念/n  。/wE  
+156  仙农/nP  因此/c  成为/v  信息/n  理论/n  的/uJDE  奠基人/n  。/wE  
+157  在/p  另/rB  一/m  个/qN  方面/n  ，/wP  １９４２/m  年/qT  ，/wP  Ｄ·Ｏ·诺斯/nP  提出/v  了/uA  最/dD  佳/a  滤波器/n  的/uJDE  概念/n  ；/wP  １９４８/m  年/qT  ，/wP  Ｂ·Ａ·柯捷尔尼科夫/nP  创立/v  了/uA  最/dD  佳/a  接收机/n  的/uJDE  理论/n  ；/wP  １９５０/m  年/qT  ，/wP  Ｐ·特沃德/nP  提出/v  了/uA  模糊函数/n  的/uJDE  概念/n  ，/wP  他/rNP  因此/c  成为/v  现代/b  雷达/n  检测/vN  理论/n  的/uJDE  先驱/n  。/wE  
+158  控制/vN  和/cC  系统/n  理论/n  方面/n  的/uJDE  成就/n  对/p  现代/b  电子学/n  的/uJDE  发展/vN  产生/v  了/uA  很/dD  大/a  的/uJDE  影响/n  。/wE  
+159  从/p  电子学/n  的/uJDE  角度/n  来说/u  ，/wP  应当/vM  特别/dD  提/v  到/vB  以下/fS  几/m  个/qN  早期/t  的/uJDE  事实/n  ：/wM  尽管/c  Ｊ·瓦特/nP  早已/d  发明/v  负反馈/n  的/uJDE  速度/n  调制器/n  ，/wP  到/p  １９２８/m  年/qT  ，/wP  Ｈ·布莱克/nP  才/d  从/p  电路/n  角度/n  提出/v  了/uA  负反馈/n  的/uJDE  概念/n  ；/wP  １９３２/m  年/qT  ，/wP  Ｈ·奈奎斯特/nP  将/p  此/rN  原理/n  用/v  之/rN  于/p  电路/n  稳定性/n  分析/vN  ；/wP  １９４２/m  年/qT  ，/wP  Ｎ.维纳/nP  提出/v  了/uA  关于/p  平稳/a  随机/b  信号/n  的/uJDE  平滑/v  、/wD  滤波/v  和/cC  预测/v  的/uJDE  理论/n  ；/wP  １９４９/m  年/qT  ，/wP  Ｎ·维纳/nP  对/p  机器/n  和/cC  动物/n  中/f  的/uJDE  通信/vN  与/cC  控制/vN  问题/n  作/v  了/uA  高度/b  的/uJDE  概括/a  ，/wP  创立/v  了/uA  控制论/n  这/rN  一/m  新/a  的/uJDE  学科/n  。/wE  
+160  ５０/m  年代/nT  后期/t  ，/wP  状态变量/n  概念/n  的/uJDE  引入/vN  ，/wP  使/vJY  控制/vN  和/cC  系统/n  理论/n  有/v  了/uA  一/m  个/qN  大/a  的/uJDE  飞跃/vN  。/wE  
+161  １９５７/m  年/qT  ，/wP  Ｒ·贝尔曼/nP  创立/v  了/uA  动态规划/n  理论/n  ；/wP  １９５８/m  年/qT  ，/wP  П·Ｃ·庞特里亚金/nP  提出/v  了/uA  极大值/n  原理/n  ；/wP  １９６０/m  年/qT  ，/wP  Ｒ·卡尔曼/nP  把/p  维纳/nP  问题/n  推广/v  到/vB  多/a  变量/n  、/wD  非/b  平稳/a  的/uJDE  情形/n  并/cC  给出/v  问题/n  的/uJDE  递推解/n  ，/wP  他/rNP  还/d  提出/v  了/uA  可控性/n  和/cC  可观性/n  两/m  个/qN  概念/n  。/wE  
+162  电子学/n  历史/n  上/f  所/uS  取得/v  的/uJDE  成就/n  是/vC  多/m  方面/n  的/uJDE  ，/wP  每/rB  一/m  分支/b  专业/n  或/cC  学科/n  都/d  有/v  自己/rNP  的/uJDE  应用/vN  基础/n  科学/a  的/uJDE  成就/n  。/wE  
+163  理论/n  与/cC  实践/n  ，/wP  循环往复/v  ，/wP  相辅相成/v  ，/wP  不断/d  提高/v  ，/wP  把/p  整个/b  电子学/n  推/v  向/p  一/m  个/qN  又/d  一/m  个/qN  新/a  的/uJDE  阶段/nT  。/wE  
+164  中国/nS  的/uJDE  电子学/n  进展/vN  
+165  中国/nS  是/vC  有/v  着/uA  悠久/a  历史/n  的/uJDE  文明/a  古国/n  ，/wP  有/v  着/uA  光辉灿烂/a  的/uJDE  文化/n  。/wE  
+166  但是/c  ，/wP  从/p  １８４０/m  年/qT  的/uJDE  鸦片战争/nR  以后/f  ，/wP  中国/nS  逐渐/d  沦为/v  半殖民地/b  半封建/b  的/uJDE  国家/n  。/wE  
+167  中国/nS  不仅/c  在/p  政治/n  上/f  遭受/v  压迫/v  ，/wP  在/p  经济/n  上/f  遭受/v  剥削/v  ，/wP  在/p  科学/n  和/cC  教育/n  上/f  也/d  十分/dD  落后/a  。/wE  
+168  这/rN  种/qN  情况/n  一直/d  持续/v  到/vB  １９４９/m  年/qT  中华人民共和国/nS  成立/v  。/wE  
+169  在/p  这/rN  一/m  百/m  多/m  年/qT  的/uJDE  时间/n  里/f  ，/wP  前/f  半/m  段/qN  正/d  是/vC  电磁学/n  和/cC  电工学/n  在/p  西方/nS  蓬勃/aD  发展/v  、/wD  电子学/n  孕育/v  诞生/v  的/uJDE  时期/nT  ；/wP  后/f  半/m  段/qN  正/d  是/vC  电子学/n  在/p  西方/nS  迅速/aD  成长/v  并/cC  取得/v  辉煌/a  成就/n  的/uJDE  时期/nT  。/wE  
+170  在/p  这/rN  一/m  时期/nT  ，/wP  中国/nS  却/d  基本上/d  处于/v  电子学/n  发展/vN  的/uJDE  洪流/n  之外/f  。/wE  
+171  中华人民共和国/nS  成立/v  之前/f  ，/wP  只/d  有/v  少数/m  的/uJDE  几/m  家/qN  修造厂/n  和/cC  器材厂/n  ，/wP  以及/cC  少数/m  几/m  所/qN  大学/n  能/vM  培养/v  少量/m  电信/b  人才/n  。/wE  
+172  电子学/n  和/cC  电子/n  工业/n  在/p  中国/nS  的/uJDE  创建/vN  和/cC  发展/vN  ，/wP  是/vC  在/p  中华人民共和国/nS  成立/v  以后/f  才/d  开始/v  的/uJDE  。/wE  
+173  １９４９/m  ～/w  １９５２/m  年/qT  是/vC  中国/nS  的/uJDE  经济/n  恢复/vN  时期/nT  。/wE  
+174  这/rN  段/qN  时期/nT  的/uJDE  主要/b  成就/n  表现/v  为/vB  ：/wM  国家/n  成立/v  了/uA  电信/b  工业/n  管理局/n  ，/wP  统一/aD  领导/v  全/a  国/n  的/uJDE  电信/b  工业/n  ；/wP  改造/v  了/uA  接管/v  过来/vB  的/uJDE  几/m  家/qN  工厂/n  ，/wP  并/cC  很/dD  快/aD  制造/v  出/vB  一/m  批/qN  无线/b  电台/n  和/cC  军用/b  步谈机/n  ，/wP  在/p  中国/nS  历史/n  上/f  第/m  一/m  次/qV  能/vM  成套/v  地/uJDI  生产/v  接收/vN  电子管/n  ；/wP  一/m  批/qN  电子学/n  科技/n  工作者/n  从/p  海外/s  归来/v  参加/v  国家/n  建设/vN  。/wE  
+175  １９５３/m  ～/w  １９５７/m  年/qT  是/vC  中国/nS  第/m  一/m  个/qN  五年计划/n  时期/nT  。/wE  
+176  这/rN  段/qN  时期/nT  的/uJDE  主要/b  成就/n  是/vC  ：/wM  建设/v  了/uA  一/m  批/qN  以/p  元件/n  器件/n  、/wD  通信/vN  和/cC  雷达/n  为/v  重点/n  的/uJDE  骨干/b  企业/n  ，/wP  研制/v  和/cC  生产/v  了/uA  一/m  批/qN  广播/n  设备/n  、/wD  通信/vN  电台/n  、/wD  军用/b  雷达/n  ；/wP  在/p  十/m  多/m  所/qN  高等院校/n  中/f  成立/v  了/uA  无线电/n  系/n  科/n  ，/wP  创建/v  了/uA  专业性/n  的/uJDE  研究院/n  和/cC  研究所/n  ；/wP  第/m  一/m  次/qV  制订/v  了/uA  发展/v  电子/n  科学/n  的/uJDE  十/m  二/m  年/qT  规划/n  。/wE  
+177  １９５８/m  ～/w  １９６５/m  年/qT  的/uJDE  主要/b  成就/n  是/vC  ：/wM  完成/v  了/uA  为/p  研制/v  原子弹/n  和/cC  导弹/n  以及/cC  进行/v  试验/vN  所/uS  需/v  的/uJDE  电子/n  配套/vN  工程/n  ；/wP  研制/v  并/cC  生产/v  了/uA  一/m  批/qN  军用/b  雷达/n  、/wD  电台/n  和/cC  其他/rN  通信/vN  装备/n  ；/wP  建成/v  了/uA  １０００/m  千瓦/qN  中波/n  广播/n  发射台/n  ，/wP  １０/m  信道/n  电视/n  中心/n  和/cC  １０/m  千瓦/qN  黑白/b  电视台/n  ；/wP  建立/v  了/uA  邮电/n  科学/n  研究院/n  、/wD  电子/n  工业/n  研究院/n  及/cC  其/rB  所属/n  研究/vN  机构/n  。/wE  
+178  １９６６/m  ～/w  １９７６/m  年/qT  是/vC  动乱/v  的/uJDE  十/m  年/qT  ，/wP  中国/nS  在/p  极其/dD  困难/a  的/uJDE  条件/n  下/fS  获得/v  的/uJDE  进展/v  主要/d  有/v  ：/wM  第/m  一/m  颗/qN  人造/b  地球/n  卫星/n  发射/v  成功/vB  ；/wP  第/m  一/m  台/qN  集成电路/n  计算机/n  研制/v  成功/vB  ；/wP  自行/d  设计/v  和/cC  制造/v  的/uJDE  地球站/n  建成/v  ；/wP  ２５/m  米/qN  天线/n  的/uJDE  巨型/b  跟踪/vN  雷达/n  投入/v  使用/v  ；/wP  第/m  一/m  部/qN  巨型/b  相控阵/b  雷达/n  进行/v  试运转/v  。/wE  
+179  １９７７/m  年/qT  以来/fT  ，/wP  中国/nS  的/uJDE  电子学/n  进入/v  了/uA  新/a  的/uJDE  振兴/vN  时期/nT  ，/wP  获得/v  了/uA  许多/m  重大/a  成就/n  。/wE  
+180  其中/rN  有/v  代表性/n  的/uJDE  成就/n  是/vC  ：/wM  成功/a  地/uJDI  发射/v  了/uA  一/m  颗/qN  实验/n  定点/b  通信/vN  同步卫星/n  ；/wP  建成/v  了/uA  全/a  国/n  卫星/n  测控网/n  ；/wP  研制/v  成/vB  千万/m  次/qV  向量/n  计算机/n  和/cC  亿/m  次/qV  计算机/n  ；/wP  研制/v  成/vB  １６/m  千/m  位/qN  随机/b  存储器/n  和/cC  ８/m  位/qN  微处理器/n  ；/wP  建成/v  了/uA  京/nS  沪/nS  杭/nS  １８００/m  路/qN  中/b  同轴电缆/n  通信/vN  系统/n  ；/wP  光纤/n  通信/vN  系统/n  相继/d  在/p  上海/nS  、/wD  天津/nS  和/cC  武汉/nS  并入/v  市话网/n  ，/wP  达到/v  了/uA  实用/a  阶段/nT  ；/wP  初步/d  建成/v  了/uA  全/a  国/n  电视网/n  、/wD  电视/n  发射台/n  和/cC  差转台/n  ，/wP  总数/n  已/d  达/v  ５６００/m  余/m  座/qN  ；/wP  在/p  国家/n  科学/n  技术/n  委员会/n  的/uJDE  领导/n  下/fS  ，/wP  制订/v  了/uA  发展/v  电子/n  科学/n  技术/n  的/uJDE  十/m  年/qT  规划/n  。/wE  
+181  电子学/n  的/uJDE  专业/n  和/cC  学科/n  体系/n  
+182  现代/b  电子学/n  是/vC  一/m  个/qN  庞大/a  的/uJDE  专业/n  和/cC  学科/n  体系/n  ，/wP  在/p  这/rN  个/qN  体系/n  里/f  包含/v  有/v  众多/m  的/uJDE  分支/n  。/wE  
+183  它们/rNP  有机/d  地/uJDI  结合/v  在/p  一起/n  ，/wP  形成/v  了/uA  电子学/n  的/uJDE  统一/a  整体/n  。/wE  
+184  这些/rN  分支/n  ，/wP  按/p  性质/n  可/vM  划分/v  为/vB  四/m  大/a  类/qN  ，/wP  即/vC  ：/wM  系统/n  与/cC  大系统/n  技术/n  ；/wP  基础/b  理论/n  与/cC  基础/b  技术/n  ；/wP  元件/n  、/wD  器件/n  、/wD  材料/n  与/cC  工艺/n  ；/wP  交叉/b  专业/n  和/cC  学科/n  类/qN  。/wE  
+185  现代/b  电子学/n  犹如/vC  一/m  株/qN  枝叶/n  繁茂/a  的/uJDE  大/a  树/n  ，/wP  深深/z  地/uJDI  扎根/v  于/p  应用/vN  物理/n  、/wD  应用/vN  化学/n  、/wD  应用/vN  数学/n  等/uO  基础/n  学科/n  的/uJDE  沃土/n  之中/f  。/wE  
+186  系统/n  与/cC  大系统/n  技术/n  
+187  属于/v  这/rN  一/m  类/qN  的/uJDE  分支/n  学科/n  有/v  ：/wM  通信/vN  、/wD  广播/n  、/wD  电视/n  、/wD  雷达/n  、/wD  导航/n  、/wD  电子对抗/n  、/wD  计算机/n  、/wD  能电子/n  系统/n  ，/wP  以及/cC  综合/v  多/m  种/qN  系统/n  技术/n  的/uJDE  大型/b  电子/n  系统/n  。/wE  
+188  其/rB  共同/b  特点/n  是/vC  用/p  电子学/n  方法/n  实现/v  具有/v  某/rB  一/m  种/qN  或/cC  多/m  种/qN  社会/n  和/cC  军事/n  应用/vN  的/uJDE  功能/n  。/wE  
+189  通信/vN  是/vC  以/p  电子学/n  方法/n  ，/wP  实现/v  从/p  点/n  到/p  点/n  （/wLB  人/n  与/cC  人/n  ，/wP  人/n  与/cC  机器/n  或/cC  机器/n  与/cC  机器/n  ）/wRB  的/uJDE  信息/n  传输/v  的/uJDE  原理/n  、/wD  技术/n  和/cC  系统/n  。/wE  
+190  广播/n  是/vC  将/p  语言/n  、/wD  音乐/n  和/cC  活动/n  的/uJDE  与/cC  静止/v  的/uJDE  图像/n  、/wD  文字/n  向/p  公众/n  播发/v  ，/wP  并/cC  由/p  公众/n  接收/v  、/wD  录放/v  的/uJDE  原理/n  、/wD  技术/n  和/cC  系统/n  。/wE  
+191  电视/n  是/vC  图像/n  和/cC  文字/n  以及/cC  与/p  之/rN  伴随/v  的/uJDE  声音/n  等/uO  的/uJDE  摄取/vN  、/wD  传输/vN  、/wD  再现/vN  、/wD  播发/vN  、/wD  接收/vN  、/wD  录放/vN  的/uJDE  原理/n  、/wD  技术/n  和/cC  系统/n  。/wE  
+192  雷达/n  是/vC  利用/v  物体/n  对/p  电磁波/n  的/uJDE  散射/vN  现象/n  以/c  发现/v  飞机/n  、/wD  导弹/n  、/wD  船舰/n  等/uO  目标/n  ，/wP  并/cC  获取/v  这/rN  类/qN  目标/n  信息/n  的/uJDE  原理/n  、/wD  技术/n  和/cC  系统/n  。/wE  
+193  遥感/n  技术/n  主要/d  是/vC  在/p  空中/s  利用/v  地物/n  、/wD  云层/n  等/uO  的/uJDE  辐射/vN  电磁波/n  ，/wP  观察/v  地面/n  和/cC  大气/n  中/f  的/uJDE  现象/n  ，/wP  从而/c  取得/v  地理/n  、/wD  地貌/n  、/wD  地质/n  、/wD  植被/n  、/wD  水文/n  、/wD  气象/n  等/uO  有用/a  信息/n  ，/wP  也/d  可/vM  用/v  于/p  军事/n  。/wE  
+194  遥感/n  技术/n  也/d  可/vM  在/p  地面/s  上/f  应用/v  。/wE  
+195  导航/n  是/vC  以/p  电子学/n  的/uJDE  方法/n  确定/v  船舰/n  、/wD  飞机/n  、/wD  车辆/n  等/uO  的/uJDE  位置/n  并/cC  引导/vJY  其/rN  向/p  目的地/nS  进发/v  的/uJDE  原理/n  、/wD  技术/n  和/cC  系统/n  。/wE  
+196  电子对抗/n  是/vC  敌对/b  双方/n  利用/v  电子/n  手段/n  进行/v  侦察/v  和/cC  干扰/v  的/uJDE  原理/n  、/wD  技术/n  和/cC  系统/n  。/wE  
+197  测量/vN  和/cC  监测/vN  系统/n  不仅/c  广泛/aD  用/v  于/p  电子/n  科学/n  技术/n  ，/wP  而且/cC  电子/n  测量/vN  和/cC  检测/vN  技术/n  手段/n  还/d  广泛/aD  用/v  于/p  各行各业/n  ，/wP  包括/v  电量/n  和/cC  非/b  电量/n  测量/vN  。/wE  
+198  计算机/n  是/vC  用/p  电子学/n  方法/n  实现/v  数值/n  计算/vN  、/wD  逻辑/n  作业/n  、/wD  数据/n  处理/vN  、/wD  过程/n  控制/vN  、/wD  信号/n  与/cC  信息/n  处理/vN  、/wD  计算机/n  辅助/vN  设计/vN  、/wD  专家/n  系统/n  等/uO  的/uJDE  原理/n  、/wD  技术/n  和/cC  系统/n  ，/wP  包括/v  各/rB  种/qN  计算机/n  硬件/n  和/cC  软件/n  等/uO  。/wE  
+199  计算机/n  是/vC  电子学/n  中/f  最/dD  大/a  的/uJDE  一/m  个/qN  分支/n  学科/n  ，/wP  并/cC  正在/d  逐步/d  向/p  自成体系/v  的/uJDE  单独/a  的/uJDE  专业/n  和/cC  学科/n  发展/v  。/wE  
+200  能电子/n  系统/n  是/vC  指/v  用/p  电子/n  手段/n  进行/v  能/n  和/cC  动力/n  的/uJDE  作业/n  ，/wP  如/p  用/p  太阳/n  电池/n  发电/v  ，/wP  用/p  微波/n  、/wD  高频/n  、/wD  激光/n  、/wD  超声波/n  等/uO  进行/v  处理/v  和/cC  加工/v  ，/wP  利用/v  电子/n  计算机/n  调度/vN  和/cC  微处理器/n  控制/vN  节约/v  电能/n  等/uO  。/wE  
+201  大型/b  电子/n  系统/n  是/vC  多/m  种/qN  具有/v  不同/a  功能/n  的/uJDE  电子/n  系统/n  有机/d  地/uJDI  结合/v  起来/vB  ，/wP  协调/a  地/uJDI  运行/v  ，/wP  形成/v  具有/v  信息/n  反馈/vN  和/cC  控制/vN  功能/n  的/uJDE  庞大/a  复杂/a  的/uJDE  系统/n  。/wE  
+202  例如/v  ，/wP  综合/b  业务/n  数字网/n  环球/n  空间/n  监视/vN  系统/n  ，/wP  航天/vN  测控/vN  系统/n  、/wD  指挥/vN  －/x  控制/vN  －/x  通信/vN  系统/n  等/uO  。/wE  
+203  基础/n  理论/n  和/cC  基础/n  技术/n  
+204  属于/v  这/rN  一/m  类/qN  的/uJDE  分支/n  学科/n  有/v  ：/wM  电子/n  线路/n  与/cC  网络/n  分析/vN  、/wD  微波/n  、/wD  天线/n  、/wD  电波/n  传播/vN  、/wD  测量/v  、/wD  电源/n  、/wD  显示/vN  技术/n  、/wD  信号/n  处理/vN  、/wD  信息论/n  、/wD  自动控制/n  原理/n  、/wD  可靠性/n  理论/n  等/uO  。/wE  
+205  它们/rNP  是/vC  构成/v  功能性/n  电子/n  系统/n  所/uS  需/v  的/uJDE  各/rB  种/qN  技术/n  手段/n  或/cC  基础/n  理论/n  。/wE  
+206  电子/n  线路/n  与/cC  网络/n  是/vC  由/p  电子/n  元件/n  和/cC  电子/n  器件/n  组成/v  的/uJDE  功能性/n  电子/n  单元/n  。/wE  
+207  电子/n  线路/n  有/v  线性/b  的/uJDE  、/wD  非/b  线性/b  的/uJDE  、/wD  模拟式/b  、/wD  脉冲式/b  和/cC  数字式/b  几/m  大/a  类/qN  ，/wP  能/vM  实现/v  滤波/n  、/wD  频率/n  平衡/vN  、/wD  振荡/v  、/wD  放大/v  、/wD  调制/v  、/wD  变频/v  、/wD  脉冲/n  形成/vN  、/wD  开关/v  、/wD  移位/v  、/wD  记忆/v  、/wD  计数/v  等/uO  多/m  种/qN  功能/n  。/wE  
+208  微波/n  技术/n  是/vC  有关/p  分米波/n  、/wD  口米波/n  、/wD  毫米波/n  等/uO  的/uJDE  传输/v  、/wD  辐射/v  、/wD  测量/v  和/cC  应用/v  等/uO  的/uJDE  理论/n  和/cC  技术/n  。/wE  
+209  天线/n  是/vC  将/p  约束/v  在/p  传输线/n  内/f  的/uJDE  电磁能/n  转换/v  成/vB  向/p  指定/vN  空间/n  辐射/v  的/uJDE  电磁波/n  或/cC  相反/a  过程/n  的/uJDE  理论/n  、/wD  技术/n  与/cC  装置/n  。/wE  
+210  电波/n  传播/vN  是/vC  有关/p  电磁波/n  在/p  对流层/n  、/wD  电离层/n  、/wD  地表面/n  、/wD  水下/n  或/cC  其他/rN  均匀/a  的/uJDE  与/cC  不/dN  均匀/a  的/uJDE  媒体/n  中/f  传播/v  时/nT  产生/v  吸收/v  、/wD  反射/v  、/wD  折射/v  、/wD  绕射/v  等/uO  的/uJDE  理论/n  、/wD  方法/n  和/cC  实验/vN  研究/vN  。/wE  
+211  测量/v  是/vC  指/v  在/p  极/dD  宽/a  电磁波谱/n  上/f  电磁/b  参量/n  的/uJDE  测量/vN  ，/wP  包括/v  电子/n  元件/n  、/wD  器件/n  、/wD  材料/n  、/wD  线路/n  和/cC  电子/n  装置/n  的/uJDE  基本/a  参量/n  的/uJDE  测量/vN  ，/wP  各/rB  种/qN  电子/n  信号/n  的/uJDE  特征/n  参量/n  和/cC  电磁能/n  的/uJDE  测量/vN  ，/wP  网络/n  参数/n  的/uJDE  测量/vN  以及/cC  与/p  这些/rN  测量/vN  有关/v  的/uJDE  理论/n  、/wD  技术/n  和/cC  装置/n  。/wE  
+212  电源/n  是/vC  用/p  电子/n  方法/n  使/vJY  化学能/n  、/wD  热能/n  、/wD  核能/n  、/wD  太阳能/n  、/wD  交流/vN  电能/n  、/wD  直流电能/n  、/wD  高频能/n  、/wD  微波能/n  、/wD  超声能/n  、/wD  激光能/n  等/uO  相互/d  转变/v  ，/wP  以/c  供/v  各/rB  种/qN  用途/n  。/wE  
+213  显示/vN  技术/n  是/vC  将/p  信息/n  以/p  文字/n  、/wD  表格/n  、/wD  图形/n  等/uO  方式/n  提供/v  给/vB  信息/n  收受者/n  的/uJDE  技术/n  ，/wP  包括/v  静态/n  的/uJDE  和/cC  动态/n  的/uJDE  。/wE  
+214  信号/n  处理/vN  是/vC  将/p  语言/n  、/wD  图像/n  、/wD  雷达/n  等/uO  电信号/n  或/cC  其他/rN  电测/n  非/b  电信号/n  进行/v  诸如/vC  过滤/v  、/wD  平滑/v  、/wD  压缩/v  、/wD  变换/v  、/wD  重构/v  之类/u  加工/vN  过程/n  的/uJDE  理论/n  和/cC  技术/n  ，/wP  以及/cC  这些/rN  理论/n  和/cC  技术/n  在/p  电子/n  和/cC  非/b  电子/n  领域/n  中/f  的/uJDE  应用/vN  。/wE  
+215  信息论/n  研究/v  有关/p  信息/n  的/uJDE  度量/n  、/wD  编码/n  、/wD  传输/vN  、/wD  处理/vN  的/uJDE  一般性/b  理论/n  ，/wP  是/vC  关于/p  广义/b  通信/vN  系统/n  的/uJDE  概括性/n  理论/n  。/wE  
+216  自动控制/n  是/vC  使/vJY  受控/vN  对象/n  达到/v  指定/vN  状态/n  或/cC  预定/vN  功能/n  的/uJDE  理论/n  和/cC  技术/n  。/wE  
+217  它/rNP  的/uJDE  理论/n  部分/n  已/d  逐渐/d  上升/v  为/vB  控制论/n  和/cC  系统/n  工程/n  理论/n  ，/wP  其/rB  技术/n  部分/n  与/p  电子/n  技术/n  相/d  结合/v  形成/v  具有/v  各/rB  种/qN  功能/n  的/uJDE  自动控制/n  系统/n  。/wE  
+218  可靠性/n  理论/n  是/vC  有关/p  电子/n  元件/n  、/wD  器件/n  、/wD  部件/n  、/wD  电子/n  装置/n  ，/wP  乃至/cC  电子/n  系统/n  或/cC  大系统/n  的/uJDE  可靠性/n  的/uJDE  理论/n  ，/wP  以及/cC  提高/v  可靠性/n  的/uJDE  各/rB  种/qN  具体/a  技术/n  方法/n  。/wE  
+219  元件/n  、/wD  器件/n  与/cC  材料/n  、/wD  工艺/n  
+220  属于/v  这/rN  一/m  类/qN  的/uJDE  主要/b  分支/n  学科/n  有/v  ：/wM  固态/n  电子/n  器件/n  与/cC  集成电路/n  、/wD  真空电子学/n  、/wD  电子元件/n  、/wD  电子/n  材料/n  及/cC  有关/b  生产/vN  技术/n  等/uO  。/wE  
+221  这/rN  一/m  类/qN  分支/n  学科/n  可以说/l  是/vC  电子学/n  的/uJDE  物质/n  基础/n  。/wE  
+222  半导体/n  与/cC  集成电路/n  是/vC  研究/v  半导体/n  性能/n  并/cC  加以/v  利用/v  的/uJDE  一/m  门/qN  科学/n  技术/n  ，/wP  包括/v  半导体/n  物理/n  、/wD  半导体/n  工艺/n  、/wD  半导体/n  分立/vN  器件/n  和/cC  各/rB  类/qN  集成电路/n  器件/n  。/wE  
+223  真空电子学/n  是/vC  研究/v  带电粒子/n  （/wLB  电子/n  、/wD  离子/n  ）/wRB  在/p  真空/n  或/cC  气体/n  中/f  运动/v  时/nT  与/p  场/n  和/cC  物质/n  相互/d  作用/v  规律/n  并/cC  加以/v  利用/v  的/uJDE  一/m  门/qN  科学/n  技术/n  ，/wP  包括/v  电子/n  物理/n  、/wD  电子管/n  工艺/n  和/cC  各/rB  种/qN  类型/n  的/uJDE  电子管/n  等/uO  。/wE  
+224  电子元件/n  是/vC  构成/v  电子/n  设备/n  的/uJDE  基本/a  单元/n  ，/wP  通常/d  分/v  为/vB  有源元件/n  和/cC  无源元件/n  两/m  类/qN  。/wE  
+225  但是/c  ，/wP  电子元件/n  一般/aD  指/v  无源元件/n  。/wE  
+226  电子/n  材料/n  是/vC  研究/v  各/rB  种/qN  材料/n  用/v  于/p  制备/v  电子元件/n  、/wD  器件/n  的/uJDE  一/m  门/qN  科学/n  技术/n  ，/wP  包括/v  一般/a  金属/n  材料/n  、/wD  高能/b  半导体/n  材料/n  、/wD  介质/n  材料/n  、/wD  陶瓷/n  材料/n  、/wD  磁性/n  材料/n  、/wD  高分子/n  材料/n  、/wD  铁电/n  材料/n  等/uO  。/wE  
+227  生产/vN  技术/n  包括/v  各/rB  种/qN  机械/n  、/wD  电气/n  、/wD  电子/n  生产/vN  工艺/n  与/cC  设备/n  ，/wP  如/p  真空/n  设备/n  、/wD  电子束/n  与/cC  离子束/n  加工/vN  设备/n  、/wD  加热/vN  设备/n  、/wD  焊接/vN  设备/n  、/wD  净化/vN  设备/n  ，/wP  例行/b  试验/vN  设备/n  等/uO  。/wE  
+228  交叉/b  专业/n  和/cC  学科/n  类/n  
+229  电子学/n  与/p  其他/rN  学科/n  交叉/v  渗透/v  ，/wP  又/d  形成/v  了/uA  许多/m  新/a  的/uJDE  分支/n  学科/n  。/wE  
+230  属于/v  这/rN  一/m  类/qN  的/uJDE  主要/aD  有/v  ：/wM  量子/n  电子学/n  、/wD  核电子学/n  、/wD  空间/n  电子学/n  、/wD  生物/n  与/cC  医学/n  电子学/n  、/wD  射电/n  天文学/n  与/cC  雷达/n  天文学/n  等/uO  。/wE  
+231  量子/n  电子学/n  是/vC  利用/v  物质/n  内部/fS  量子/n  系统/n  能级/n  间/f  的/uJDE  受激辐射/n  现象/n  ，/wP  放大/v  或/cC  产生/v  相干/vN  电磁波/n  ，/wP  并/cC  研究/v  这/rN  一/m  过程/n  的/uJDE  应用/vN  的/uJDE  学科/n  。/wE  
+232  按/p  习惯/n  说/v  ，/wP  激光/n  技术/n  也/d  是/vC  量子/n  电子学/n  的/uJDE  主要/b  内容/n  。/wE  
+233  核电子学/n  主要/d  研究/v  核科学/n  、/wD  核技术/n  和/cC  高能/b  物理/n  实验/n  中/f  有关/p  核辐射/n  和/cC  粒子/n  探测/vN  的/uJDE  电子学/n  技术/n  ，/wP  研究/v  核爆炸/n  和/cC  外层空间/n  辐射/vN  对/p  电子/n  系统/n  的/uJDE  影响/vN  ，/wP  以及/cC  抗/v  辐射/v  加固/vN  技术/n  等/uO  。/wE  
+234  空间/n  电子学/n  是/vC  电子学/n  与/cC  空间/n  科学/n  技术/n  的/uJDE  结合/vN  。/wE  
+235  生物/n  与/cC  医学/n  电子学/n  既/c  是/vC  电子学/n  与/cC  生物学/n  、/wD  医学/n  的/uJDE  结合/vN  ，/wP  也/d  是/vC  电子学/n  在/p  生物学/n  和/cC  医学/n  中/f  的/uJDE  应用/vN  。/wE  
+236  射电/n  天文学/n  利用/v  天体/n  或/cC  星际/n  空间/n  的/uJDE  空间/n  自然/b  辐射/n  研究/v  天体/n  和/cC  天文/n  现象/n  ；/wP  雷达/n  天文学/n  则/c  用/p  雷达/n  方法/n  研究/v  太阳/n  和/cC  太阳系/n  的/uJDE  近地行星/n  。/wE  
+237  电子/n  机械/n  工程/n  
+238  各/rB  种/qN  电子/n  设备/n  、/wD  装置/n  和/cC  元件/n  、/wD  器件/n  中/f  都/d  包含/v  有/v  大量/b  的/uJDE  机械/n  技术/n  。/wE  
+239  这/rN  种/qN  机械/n  技术/n  必须/d  满足/v  电子/n  技术/n  的/uJDE  独特/a  要求/n  ，/wP  而/cC  有别于/v  一般/a  机械/n  工程/n  。/wE  
+240  电子学/n  的/uJDE  发展/vN  和/cC  应用/vN  
+241  电子学/n  是/vC  发展/vN  速度/n  很/dD  快/a  的/uJDE  学科/n  之一/rN  。/wE  
+242  电子/n  器件/n  从/p  电子管/n  的/uJDE  发明/vN  到/p  晶体管/n  的/uJDE  发明/vN  经历/v  了/uA  ４４/m  年/qT  ，/wP  而/cC  从/p  晶体管/n  发展/v  到/vB  集成电路/n  只/d  用/v  了/uA  １０/m  年/qT  。/wE  
+243  集成电路/n  问世/v  后/f  ，/wP  ２０/m  多/m  年间/t  ，/wP  已/d  从/p  小/a  规模/n  集成/vN  发展/v  到/vB  中/b  规模/n  集成/vN  和/cC  大/a  规模/n  集成/vN  ，/wP  进而/d  发展/v  到/vB  超大规模/n  集成/vN  ，/wP  并/cC  出现/v  了/uA  从/p  单/m  位/qN  、/wD  ４/m  位/qN  一直/d  到/p  ３２/m  位/qN  的/uJDE  微处理器/n  。/wE  
+244  通信/vN  技术/n  也/d  经历/v  了/uA  多/m  次/qV  划时代/b  的/uJDE  进展/n  。/wE  
+245  从/p  电子学/n  诞生/v  以前/f  的/uJDE  架空/vN  明线/n  发展/v  到/vB  电子学/n  诞生/v  初期/fS  的/uJDE  无线电/n  ；/wP  从/p  长、中、短波/n  扩展/v  到/vB  超短波/n  、/wD  微波/n  ，/wP  进而/d  扩展/v  到/vB  红外/n  与/cC  可见光/n  频段/n  。/wE  
+246  与此同时/c  ，/wP  超长波/n  也/d  获得/v  了/uA  应用/v  ；/wP  从/p  微波/n  中继/n  到/v  同轴电缆/n  ，/wP  直至/v  现代/b  的/uJDE  同步卫星/n  中继/n  ，/wP  以至/v  最近/t  的/uJDE  光纤/n  通信/vN  。/wE  
+247  多路通信/n  以/p  电话/n  来说/u  ，/wP  一/m  个/qN  频道/n  已/d  可/vM  通/v  数/m  万/m  路/qN  模拟/b  电话/n  和/cC  上/v  千/m  路/n  的/uJDE  数字/b  电话/n  。/wE  
+248  通信/vN  的/uJDE  范围/n  也/d  在/d  不断/d  地/uJDI  扩大/v  ，/wP  从/p  国内/s  扩展/v  到/vB  国际/n  ，/wP  从/p  洲际/b  扩展/v  到/vB  全球/n  ，/wP  从/p  近地/n  空间/n  发展/v  到/vB  星际/n  深空/n  。/wE  
+249  军用/b  雷达/n  的/uJDE  作用/vN  距离/n  已/d  增加/v  了/uA  ２/m  ～/w  ３/m  个/qN  量级/n  ，/wP  对/p  无/v  应答器/n  的/uJDE  不/dN  合作/v  目标/n  最/dD  远/aD  可/vM  达/v  上/m  万/m  公里/qN  ，/wP  对/p  有/v  应答器/n  的/uJDE  合作/vN  目标/n  可/vM  达/v  几/m  千万/m  公里/qN  以上/m  。/wE  
+250  几乎/d  所有/b  环绕/v  地球/n  的/uJDE  轨道/n  目标/n  都/d  已/d  置于/v  雷达/n  的/uJDE  监视/vN  之下/fS  。/wE  
+251  雷达/n  的/uJDE  测量/vN  精度/n  也/d  提高/v  了/uA  ２/m  ～/w  ３/m  个/qN  量级/n  ，/wP  精密/aD  跟踪/v  雷达/n  的/uJDE  测距/vN  精度/n  已/d  达/v  米/n  量级/n  ，/wP  测角精度/n  已/d  达/v  毫弧/n  量级/n  。/wE  
+252  雷达/n  的/uJDE  应用/vN  范围/n  从/p  军事/n  扩展/v  到/vB  气象/n  、/wD  测绘/n  、/wD  民航/n  、/wD  水陆/b  交通/n  、/wD  城市/n  建设/vN  和/cC  环境/n  保护/vN  等/uO  民用/b  各/rB  部门/n  。/wE  
+253  电子学/n  还/d  是/vC  应用/vN  和/cC  渗透/vN  范围/n  很/dD  广/a  的/uJDE  学科/n  之一/rN  。/wE  
+254  电子学/n  用/v  于/p  工业/n  ，/wP  极/dD  大/a  地/uJDI  提高/v  了/uA  现代/b  工业/n  的/uJDE  劳动/vN  生产率/n  。/wE  
+255  电子/n  技术/n  与/p  机械/n  相/d  结合/v  产生/v  了/uA  各/rB  种/qN  类型/n  的/uJDE  数控/b  机床/n  、/wD  机械手/n  和/cC  机器人/n  ，/wP  出现/v  了/uA  由/p  它们/rNP  组合/v  起来/vB  的/uJDE  全自动化/b  的/uJDE  和/cC  柔性/b  的/uJDE  生产线/n  。/wE  
+256  电子学/n  用/v  于/p  生产/vN  检验/vN  ，/wP  可以/vM  有效/a  地/uJDI  控制/v  产品/n  质量/n  ，/wP  指示/v  产品/n  设计/vN  和/cC  生产/vN  的/uJDE  改进/vN  方向/n  。/wE  
+257  电子学/n  用/v  于/p  油田/n  开发/vN  ，/wP  可以/vM  提高/v  找/v  油/n  的/uJDE  成功率/n  ，/wP  并/cC  能/vM  科学/a  地/uJDI  组织/v  开采/v  。/wE  
+258  电子学/n  用/v  于/p  电力/n  生产/vN  的/uJDE  管理/vN  ，/wP  可以/vM  实现/v  电力/n  的/uJDE  合理/a  调配/vN  ，/wP  提高/v  生产/vN  的/uJDE  安全性/n  。/wE  
+259  电子学/n  用/v  于/p  交通/n  ，/wP  可以/vM  引导/vJY  船只/n  、/wD  飞机/n  安全/aD  航行/v  。/wE  
+260  电子学/n  用/v  于/p  农业/n  ，/wP  也/d  给/p  农业/n  带来/v  了/uA  很/dD  大/a  好处/n  。/wE  
+261  气象/n  对于/p  农业/n  至关重要/v  ，/wP  用/p  无线电/n  和/cC  雷达/n  的/uJDE  方法/n  可以/vM  搜集/v  局部/n  地区/n  的/uJDE  气象/n  资料/n  ，/wP  专用/v  的/uJDE  气象/n  卫星/n  可以/vM  定期/d  播发/v  全球/n  各/rB  地区/n  的/uJDE  大/a  范围/n  云图/n  ，/wP  通信网/n  用/v  于/p  传递/v  气象/n  情报/n  ，/wP  计算机/n  用/v  于/p  气象/n  情报/n  处理/vN  并/cC  作出/v  预报/vN  。/wE  
+262  利用/v  遥感/n  数据/n  ，/wP  可以/vM  获得/v  土壤/n  湿度/n  、/wD  作物/n  长势/n  、/wD  病虫害/n  等/uO  信息/n  。/wE  
+263  电子学/n  还/d  可以/vM  用/v  于/p  作物/n  的/uJDE  育种/vN  催芽/vN  和/cC  粮食/n  的/uJDE  烘干/vN  加工/vN  。/wE  
+264  电子学/n  用/v  于/p  军事/n  ，/wP  提高/v  了/uA  各/rB  种/qN  武器/n  装备/n  的/uJDE  性能/n  ，/wP  并/cC  深刻/a  地/uJDI  影响/v  着/uA  军事/n  行为/n  的/uJDE  方式/n  。/wE  
+265  在/p  现代/b  武器/n  装备/n  中/f  ，/wP  电子/n  设备/n  所/uS  占/vN  比重/n  不断/d  增加/v  。/wE  
+266  电子/n  技术/n  还/d  是/vC  情报/n  侦察/vN  、/wD  通信/vN  联络/vN  、/wD  分析/v  决策/v  、/wD  指挥/v  控制/v  等/uO  不可/vM  缺少/v  的/uJDE  手段/n  。/wE  
+267  正/d  因为/p  如此/rV  ，/wP  一/m  种/qN  无形/b  的/uJDE  战争/n  ——/wP  电子战/n  成/v  了/uA  引人注目/v  的/uJDE  战争/n  形式/n  。/wE  
+268  电子学/n  为/p  科学/n  研究/vN  提供/v  了/uA  强有力/a  的/uJDE  手段/n  。/wE  
+269  天文学家/n  利用/v  巨型/b  射电望远镜/n  ，/wP  把/p  观测/vN  范围/n  扩大/v  到/vB  ２００/m  亿/m  光年/qN  的/uJDE  宇宙/n  深处/n  ；/wP  地理学家/n  用/p  遥感/n  的/uJDE  方法/n  发现/v  了/uA  撒哈拉/nS  沙漠/n  浸没/v  了/uA  的/uJDE  古河道/n  ；/wP  生物学家/n  利用/v  信息论/n  的/uJDE  方法/n  解释/v  了/uA  生物/n  遗传/vN  的/uJDE  奥秘/n  ——/wP  遗传/vN  密码/n  ；/wP  物理学家/n  利用/v  高/a  灵敏度/n  的/uJDE  天线/n  接收/vN  系统/n  发现/v  了/uA  ２.７/m  Ｋ/n  的/uJDE  宇宙/n  背景/n  辐射/n  ；/wP  化学家/n  利用/v  超高压/n  电子显微镜/n  已/d  使/vJY  观察/vN  分辨/vN  能力/n  达到/v  分子/n  水平/n  。/wE  
+270  各行各业/n  的/uJDE  科学/n  工作者/n  ，/wP  利用/v  联机检索/n  系统/n  和/cC  全球/n  通信网/n  可以/vM  从/p  世界/n  浩如烟海/v  的/uJDE  资料库/n  中/f  迅速/aD  查询/v  所/uS  需/v  的/uJDE  资料/n  。/wE  
+271  电子学/n  用/v  于/p  教育/n  ，/wP  给/p  教育/n  的/uJDE  现代化/n  提供/v  了/uA  许多/m  新/a  的/uJDE  技术/n  。/wE  
+272  收音机/n  、/wD  录音机/n  、/wD  电视机/n  、/wD  录像机/n  作为/v  教育/n  手段/n  已/d  相当/dD  普遍/a  ，/wP  电子/n  语言/n  教室/n  、/wD  程序/n  教学/n  机器/n  、/wD  电视/n  教育/n  卫星/n  已/d  相继/d  问世/v  。/wE  
+273  由于/p  知识/n  的/uJDE  迅速/a  更新/vN  和/cC  增加/vN  ，/wP  终身/d  教育/v  的/uJDE  概念/n  已经/d  形成/v  ，/wP  以/p  电子/n  技术/n  为/v  核心/n  的/uJDE  开放式/b  学校/n  在/p  整个/b  教育/n  系统/n  中/f  占有/v  的/uJDE  比重/n  将/d  会/vM  越来越/dD  高/a  。/wE  
+274  电子学/n  用/v  于/p  医学/n  ，/wP  出现/v  了/uA  各/rB  种/qN  类型/n  的/uJDE  电子/n  监护/vN  系统/n  、/wD  物理/n  治疗/vN  系统/n  、/wD  辅助/vN  诊断/vN  系统/n  、/wD  以至/cC  医学/n  专家/n  系统/n  。/wE  
+275  Ｘ射线/n  断层成像/n  技术/n  是/vC  ７０/m  年代/nT  的/uJDE  重要/a  科学/n  进展/n  之一/rN  ，/wP  所/uS  采用/v  的/uJDE  主要/b  技术/n  就/d  是/vC  图像/n  处理/vN  技术/n  和/cC  高速/b  大/a  容量/n  计算机/n  。/wE  
+276  电子学/n  进入/v  家庭/n  ，/wP  减轻/v  了/uA  人们/n  的/uJDE  家务/n  劳动/n  ，/wP  使/vJY  家庭/n  生活/n  更加/dD  丰富多彩/v  。/wE  
+277  人类/n  社会/n  正/d  进入/v  一/m  个/qN  新/a  的/uJDE  发展/vN  阶段/nT  ，/wP  它/rNP  是/vC  以/p  信息/n  的/uJDE  急剧/d  膨胀/vN  为/v  主要/b  特征/n  的/uJDE  阶段/nT  ，/wP  一/m  场/qN  以/p  信息/n  技术/n  为/v  主流/n  的/uJDE  新/a  的/uJDE  技术/n  革命/n  正在/d  兴起/v  。/wE  
+278  推动/v  这/rN  一/d  转变/vN  的/uJDE  正/d  是/vC  电子学/n  的/uJDE  最/dD  新/a  成就/n  ，/wP  主角/n  是/vC  微电子/n  技术/n  。/wE  
+279  各/rB  种/qN  信息/n  作业/n  ，/wP  无一/d  不/dN  借助/v  于/p  电子/n  科学/n  技术/n  来/v  完成/v  。/wE  
+280  人们/n  今天/t  广泛/aD  谈论/v  的/uJDE  三“Ａ”革命/nR  （/wLB  即/vC  工厂/n  自动化/vN  、/wD  办公室/n  自动化/vN  、/wD  家庭/n  自动化/vN  ）/wRB  以及/cC  三“Ｃ”革命/nR  （/wLB  即/vC  通信/vN  、/wD  计算机/n  、/wD  控制/n  ）/wRB  ，/wP  也/d  无一/d  不/dN  是/vC  建立/v  在/p  电子学/n  的/uJDE  基础/n  之上/fS  的/uJDE  。/wE  
+281  正/d  因为/p  如此/rV  ，/wP  许多/m  国家/n  把/p  发展/v  电子学/n  ，/wP  特别是/d  电子/n  技术/n  ，/wP  作为/v  自己/rNP  的/uJDE  重要/a  国策/n  之一/rN  。/wE  
+282  计算机/n  
+283  计算机/n  是/vC  新/a  技术/n  革命/n  的/uJDE  一/m  支/qN  主力/n  ，/wP  也/d  是/vC  推动/v  社会/n  向/p  现代化/n  迈进/v  的/uJDE  活跃/a  因素/n  。/wE  
+284  计算机/n  科学/n  与/cC  技术/n  是/vC  第二次世界大战/nR  以来/fT  发展/v  最/dD  快/a  、/wD  影响/v  最为/dD  深远/a  的/uJDE  新兴/b  学科/n  之一/rN  。/wE  
+285  计算机/n  产业/n  已/d  在/p  世界/n  范围/n  内/f  发展/v  成为/vB  一/m  种/qN  极/dD  富/v  生命力/n  的/uJDE  战略/n  产业/n  。/wE  
+286  现代/b  计算机/n  是/vC  一/m  种/qN  按/p  程序/n  自动/d  进行/v  信息/n  处理/vN  的/uJDE  通用/b  工具/n  。/wE  
+287  它/rNP  的/uJDE  处理/vN  对象/n  是/vC  信息/n  ，/wP  处理/vN  结果/n  也/d  是/vC  信息/n  。/wE  
+288  利用/v  计算机/n  解决/v  科学/n  计算/vN  、/wD  工程/n  设计/vN  、/wD  经营/vN  管理/vN  、/wD  过程/n  控制/vN  或/cC  人工智能/n  等/uO  各/rB  种/qN  问题/n  的/uJDE  方法/n  ，/wP  都/d  是/vC  按照/p  一定/b  的/uJDE  算法/n  进行/v  的/uJDE  。/wE  
+289  这/rN  种/qN  算法/n  是/vC  定义/n  精确/a  的/uJDE  一系列/b  规则/n  ，/wP  它/rNP  指出/v  怎样/rD  以/p  给定/v  的/uJDE  输入/vN  信息/n  经过/p  有限/a  的/uJDE  步骤/n  产生/v  所/uS  需要/v  的/uJDE  输出/vN  信息/n  。/wE  
+290  算法/n  的/uJDE  特殊/a  表示/vN  称为/v  程序/n  。/wE  
+291  信息/n  处理/vN  的/uJDE  一般/a  过程/n  ，/wP  是/vC  计算机/n  使用者/n  针对/p  待/v  解决/v  的/uJDE  问题/n  事先/d  编制/v  程序/n  并/cC  存入/v  计算机/n  内/f  ，/wP  然后/c  利用/v  存储/vN  程序/n  指挥/v  、/wD  控制/v  计算机/n  自动/d  进行/v  各/rB  种/qN  基本/a  操作/n  ，/wP  直至/d  获得/v  预期/v  的/uJDE  处理/vN  结果/n  。/wE  
+292  计算机/n  自动/d  工作/v  的/uJDE  基础/n  在于/v  这/rN  种/qN  存储/vN  程序/n  方式/n  ，/wP  其/rB  通用性/n  的/uJDE  基础/n  则/c  在于/v  利用/v  计算机/n  进行/v  信息/n  处理/vN  的/uJDE  共性/n  方法/n  。/wE  
+293  计算机/n  的/uJDE  历史/n  
+294  现代/b  计算机/n  的/uJDE  诞生/vN  和/cC  发展/vN  
+295  现代/b  计算机/n  问世/v  之前/f  ，/wP  计算机/n  的/uJDE  发展/vN  经历/v  了/uA  机械式/b  计算机/n  、/wD  机电式/b  计算机/n  和/cC  萌芽期/n  的/uJDE  电子/n  计算机/n  三/m  个/qN  阶段/nT  。/wE  
+296  早/d  在/p  １７/m  世纪/nT  ，/wP  欧洲/nS  一/m  批/qN  数学家/n  就/d  已/d  开始/v  设计/v  和/cC  制造/v  以/p  数字/n  形式/n  进行/v  基本/a  运算/vN  的/uJDE  数字/n  计算机/n  。/wE  
+297  １６４２/m  年/qT  ，/wP  法国/nS  数学家/n  Ｂ·帕斯卡/nP  采用/v  与/p  钟表/n  类似/a  的/uJDE  齿轮/n  传动/vN  装置/n  ，/wP  制成/v  了/uA  最/dD  早/a  的/uJDE  十进制/n  加法器/n  。/wE  
+298  １６７３/m  年/qT  ，/wP  德国/nS  数学家/n  Ｇ·Ｗ·莱布尼兹/nP  制成/v  的/uJDE  计算机/n  ，/wP  进一步/d  解决/v  了/uA  十进制/n  数/n  的/uJDE  乘/n  、/wD  除/n  运算/vN  。/wE  
+299  英国/nS  数学家/n  Ｃ·巴贝奇/nP  在/p  １８２２/m  年/qT  制作/v  差分机/n  模型/n  时/nT  提出/v  一/m  个/qN  设想/n  ，/wP  每/rB  次/qV  完成/v  一/m  次/qV  算术/n  运算/vN  将/d  发展/v  为/vB  自动/d  完成/v  某/rB  个/qN  特定/b  的/uJDE  完整/a  运算/vN  过程/n  。/wE  
+300  １８３４/m  年/qT  ，/wP  巴贝奇/nP  设计/v  了/uA  一/m  种/qN  程序/n  控制/vN  的/uJDE  通用/b  分析机/n  。/wE  
+301  这/rN  台/qN  分析机/n  虽然/c  已经/d  描绘/v  出/vB  有关/p  程序/n  控制/vN  方式/n  计算机/n  的/uJDE  雏型/n  ，/wP  但/c  限于/v  当时/t  的/uJDE  技术/n  条件/n  而/cC  未/dN  能/vM  实现/v  。/wE  
+302  巴贝奇/nP  的/uJDE  设想/n  提出/v  以后/f  ，/wP  一/m  百/m  多/m  年/qT  期间/t  ，/wP  电磁学/n  、/wD  电工学/n  、/wD  电子学/n  不断/d  取得/v  重大/a  进展/n  ，/wP  在/p  元件/n  、/wD  器件/n  方面/n  接连/d  发明/v  了/uA  真空/n  二极管/n  和/cC  真空/n  三极管/n  。/wE  
+303  在/p  系统/n  技术/n  方面/n  ，/wP  相继/d  发明/v  了/uA  无线/b  电报/n  、/wD  电视/n  和/cC  雷达/n  。/wE  
+304  所有/b  这些/rN  成就/n  为/p  现代/b  计算机/n  的/uJDE  发展/vN  准备/v  了/uA  技术/n  和/cC  物质/n  条件/n  。/wE  
+305  与此同时/c  ，/wP  数学/n  、/wD  物理/n  也/d  相应/v  地/uJDI  蓬勃/aD  发展/v  。/wE  
+306  到/v  了/uA  ２０/m  世纪/nT  ３０/m  年代/nT  ，/wP  物理学/n  的/uJDE  各/rB  个/qN  领域/n  经历/v  着/uA  定量/b  化/k  的/uJDE  阶段/nT  ，/wP  描述/v  各/rB  种/qN  物理/n  过程/n  的/uJDE  数学/n  方程/n  ，/wP  其中/rN  有的/rN  用/p  经典/n  的/uJDE  分析/vN  方法/n  已/d  很/dD  难/a  解决/v  。/wE  
+307  于是/c  ，/wP  数值/n  分析/vN  受到/v  了/uA  重视/v  ，/wP  研究/v  出/vB  各/rB  种/qN  数值/n  积分/n  ，/wP  数值/n  微分/n  ，/wP  以及/cC  微分方程/n  数值/n  解法/n  ，/wP  把/p  计算/vN  过程/n  归结/v  为/vB  巨量/n  的/uJDE  基本/a  运算/vN  ，/wP  从而/c  奠定/v  了/uA  现代/b  计算机/n  的/uJDE  数值/n  算法/n  基础/n  。/wE  
+308  社会/n  上/f  对/p  先进/a  计算/vN  工具/n  多/m  方面/n  迫切/a  的/uJDE  需要/vN  ，/wP  是/vC  促使/vJY  现代/b  计算机/n  诞生/v  的/uJDE  根本/a  动力/n  。/wE  
+309  ２０/m  世纪/nT  以后/f  ，/wP  各/rB  个/qN  科学/n  领域/n  和/cC  技术/n  部门/n  的/uJDE  计算/vN  困难/n  堆积/v  如/v  山/n  ，/wP  已经/d  阻碍/v  了/uA  学科/n  的/uJDE  继续/vN  发展/vN  。/wE  
+310  特别是/d  第二次世界大战/nR  爆发/v  前后/f  ，/wP  军事/n  科学/n  技术/n  对/p  高速/b  计算/vN  工具/n  的/uJDE  需要/vN  尤为/dD  迫切/a  。/wE  
+311  在/p  此/rB  期间/fT  ，/wP  德国/nS  、/wD  美国/nS  、/wD  英国/nS  都/d  在/d  进行/v  计算机/n  的/uJDE  开拓/vN  工作/n  ，/wP  几乎/d  同时/d  开始/v  了/uA  机电式/b  计算机/n  和/cC  电子/n  计算机/n  的/uJDE  研究/vN  。/wE  
+312  德国/nS  Ｋ·朱赛/nP  最先/d  采用/v  电气/b  元件/n  制造/v  计算机/n  。/wE  
+313  他/rNP  于/p  １９４１/m  年/qT  制成/v  的/uJDE  全自动/n  继电器/n  计算机/n  Ｚ－３/m  ，/wP  已/d  具备/v  浮点记数/n  、/wD  二进制/n  运算/vN  、/wD  数字/n  存储/v  地址/n  的/uJDE  指令/n  形式/n  等/uO  现代/b  计算机/n  的/uJDE  特征/n  。/wE  
+314  在/p  美国/nS  ，/wP  １９４０/m  ～/w  １９４７/m  年/qT  期间/t  也/d  相继/d  制成/v  了/uA  继电器/n  计算机/n  ＭＡＲＫ/n  Ⅰ/m  、/wD  ＭＡＲＫ/n  Ⅱ/m  、/wD  Ｍｏｄｅｌ/n  Ⅰ/m  、/wD  Ｍｏｄｅｌ/n  Ⅴ/m  等/uO  。/wE  
+315  不过/c  ，/wP  继电器/n  的/uJDE  开关/vN  速度/n  大约/d  为/vC  百/m  分之/m  一/m  秒/qT  ，/wP  使/vJY  计算机/n  的/uJDE  运算/vN  速度/n  受到/v  很/dD  大/a  限制/n  。/wE  
+316  电子/n  计算机/n  的/uJDE  开拓/vN  过程/n  ，/wP  经历/v  了/uA  从/p  制作/v  部件/n  到/p  整机/n  、/wD  从/p  专用机/n  到/p  通用机/n  、/wD  从/p  “/wLB  外加式/b  程序/n  ”/wRB  到/p  “/wLB  存储/vN  程序/n  ”/wRB  的/uJDE  演变/vN  。/wE  
+317  １９３８/m  年/qT  ，/wP  美籍/n  保加利亚/nS  学者/n  Ｊ·阿塔纳索夫/nP  首先/d  制成/v  了/uA  电子/n  计算机/n  的/uJDE  运算/vN  部件/n  。/wE  
+318  １９４３/m  年/qT  ，/wP  英国/nS  外交部/n  通信处/n  制成/v  了/uA  “/wLB  巨人/nR  ”/wRB  电子/n  计算机/n  。/wE  
+319  这/rN  是/vC  一/m  种/qN  专用/b  的/uJDE  密码/n  分析机/n  ，/wP  在/p  第二次世界大战/nR  中/f  得到/v  了/uA  应用/v  。/wE  
+320  １９４６/m  年/qT  ２/m  月/qT  ，/wP  美国/nS  宾夕法尼亚/nS  大学/n  莫尔学院/nO  制成/v  的/uJDE  大型/b  电子/n  数字/n  积分/n  计算机/n  （/wLB  ＥＮＩＡＣ/n  ）/wRB  ，/wP  最初/t  也/d  专门/d  用/v  于/p  火炮/n  弹道/n  计算/vN  ，/wP  后/d  经/p  多/m  次/qV  改进/vN  而/cC  成为/vC  能/vM  进行/v  各/rB  种/qN  科学/n  计算/vN  的/uJDE  通用/b  计算机/n  ，/wP  这/rN  台/qN  完全/aD  采用/v  电子/n  线路/n  执行/v  算术/n  运算/vN  、/wD  逻辑/n  运算/vN  和/cC  信息/n  存储/vN  的/uJDE  计算机/n  ，/wP  运算/vN  速度/n  比/p  继电器/n  计算机/n  快/a  １０００/m  倍/qN  。/wE  
+321  这/rN  就/d  是/vC  人们/n  常常/d  提/v  到/vB  的/uJDE  世界/n  上/f  第/m  一/m  台/qN  电子/n  计算机/n  。/wE  
+322  但是/c  ，/wP  这/rN  种/qN  计算机/n  的/uJDE  程序/n  仍然/d  是/vC  外加式/b  的/uJDE  ，/wP  存储/n  容量/n  也/d  太/dD  小/a  ，/wP  尚未/d  完全/aD  具备/v  现代/b  计算机/n  的/uJDE  主要/b  特征/n  。/wE  
+323  再/d  一/m  次/qV  的/uJDE  重大/a  突破/vN  是/vC  由/p  数学家/n  Ｊ·诺伊曼/nP  领导/v  的/uJDE  设计/vN  小组/n  完成/v  的/uJDE  。/wE  
+324  １９４５/m  年/qT  ３/m  月/qT  ，/wP  他们/rNP  发表/v  了/uA  一/m  个/qN  全新/a  的/uJDE  存储程序式/b  通用/b  电子/n  计算机/n  方案/n  ——/wP  电子/n  离散变量/n  自动/b  计算机/n  （/wLB  ＥＤＶＡＣ/n  ）/wRB  。/wE  
+325  随后/d  于/p  １９４６/m  年/qT  ６/m  月/qT  ，/wP  诺伊曼/nP  等/uO  人/n  提出/v  了/uA  更为/dD  完善/a  的/uJDE  设计/vN  报告/n  《/wLB  电子/n  计算机/n  装置/n  逻辑/n  结构/n  初探/n  》/wRB  。/wE  
+326  同年/t  ７/m  ～/w  ８/m  月/qT  间/f  ，/wP  他们/rNP  又/d  在/p  莫尔学院/nO  为/p  美国/nS  和/cC  英国/nS  二/m  十/m  多/m  个/qN  机构/n  的/uJDE  专家/n  讲授/v  了/uA  专门/b  课程/n  《/wLB  电子/n  计算机/n  设计/vN  的/uJDE  理论/n  和/cC  技术/n  》/wRB  ，/wP  推动/v  了/uA  存储程序式/b  计算机/n  的/uJDE  设计/vN  与/cC  制造/vN  。/wE  
+327  １９４９/m  年/qT  ，/wP  英国/nS  剑桥/nS  大学/n  数学/n  实验室/n  率先/d  制成/v  电子/n  离散时序/n  自动/b  计算机/n  （/wLB  ＥＤＳＡＣ/n  ）/wRB  ；/wP  美国/nS  则/c  于/p  １９５０/m  年/qT  制成/v  了/uA  东部/s  标准/n  自动/b  计算机/n  （/wLB  ＳＦＡＣ/n  ）/wRB  等/uO  。/wE  
+328  至此/v  ，/wP  电子/n  计算机/n  发展/v  的/uJDE  萌芽/n  时期/nT  遂告结束/v  ，/wP  开始/v  了/uA  现代/b  计算机/n  的/uJDE  发展/vN  时期/nT  。/wE  
+329  在/p  创制/v  数字/n  计算机/n  的/uJDE  同时/t  ，/wP  还/d  研制/v  了/uA  另/rB  一/m  类/qN  重要/a  的/uJDE  计算/vN  工具/n  ——/wP  模拟/vN  计算机/n  。/wE  
+330  物理学家/n  在/p  总结/v  自然规律/n  时/nT  ，/wP  常/d  用/p  数学/n  方程/n  描述/v  某/rB  一/m  过程/n  ；/wP  相反/c  ，/wP  解/v  数学/n  方程/n  的/uJDE  过程/n  ，/wP  也/d  有/v  可能/n  采用/v  物理/n  过程/n  模拟/vN  方法/n  。/wE  
+331  对数/n  发明/vN  以后/f  ，/wP  １６２０/m  年/qT  制成/v  的/uJDE  计算尺/n  ，/wP  已/d  把/p  乘法/n  、/wD  除法/n  化/v  为/vB  加法/n  、/wD  减法/n  进行/v  计算/v  。/wE  
+332  Ｊ·Ｃ·麦克斯韦/nP  巧妙/a  地/uJDI  把/p  积分/n  （/wLB  面积/n  ）/wRB  的/uJDE  计算/vN  转变/v  为/vB  长度/n  的/uJDE  测量/vN  ，/wP  于/p  １８５５/m  年/qT  制成/v  了/uA  积分仪/n  。/wE  
+333  １９/m  世纪/nT  数学物理/n  的/uJDE  一/m  项/qN  重大/a  成就/n  傅里叶分析/n  ，/wP  对/p  模拟机/n  的/uJDE  发展/vN  起/v  到/vB  了/uA  直接/a  的/uJDE  推动/vN  作用/n  。/wE  
+334  １９/m  世纪/nT  后期/t  和/cC  ２０/m  世纪/nT  前期/t  ，/wP  相继/d  制成/v  了/uA  多/m  种/qN  计算/v  傅里叶系数/n  的/uJDE  分析机/n  和/cC  解/v  微分方程/n  的/uJDE  微分/n  分析机/n  等/uO  。/wE  
+335  但是/c  当/p  试图/v  推广/v  微分/n  分析机/n  解/v  偏微分方程/n  和/cC  用/p  模拟机/n  解决/v  一般/a  科学/n  计算/vN  问题/n  时/nT  ，/wP  人们/n  逐渐/d  认识/v  到/vB  模拟机/n  在/p  通用性/n  和/cC  精确度/n  等/uO  方面/n  的/uJDE  局限性/n  ，/wP  并/cC  将/p  主要/b  精力/n  转向/v  了/uA  数字/n  计算机/n  。/wE  
+336  电子/n  数字/n  计算机/n  问世/v  以后/f  ，/wP  模拟/vN  计算机/n  仍然/d  继续/v  有所/v  发展/v  ，/wP  并且/cC  与/p  数字/n  计算机/n  相/d  结合/v  而/cC  产生/v  了/uA  混合式/b  计算机/n  。/wE  
+337  模拟机/n  和/cC  混合机/n  已/d  发展/v  成为/vB  现代/b  计算机/n  的/uJDE  特殊/a  品种/n  ，/wP  即/d  用/v  在/p  特定/b  领域/n  的/uJDE  高效/b  信息/n  处理/vN  工具/n  或/cC  仿真/vN  工具/n  。/wE  
+338  ２０/m  世纪/nT  中期/t  以来/fT  ，/wP  计算机/n  一直/d  处于/v  高/a  速度/n  发展/vN  时期/nT  ，/wP  计算机/n  由/p  仅/d  包含/v  硬件/n  发展/v  到/vB  包含/v  硬件/n  、/wD  软件/n  和/cC  固件/n  三/m  类/qN  子系统/n  的/uJDE  计算机/n  系统/n  。/wE  
+339  计算机/n  系统/n  的/uJDE  性能/n  －/x  价格/n  比/n  ，/wP  平均/d  每/rB  １０/m  年/qT  提高/v  两/m  个/qN  数量级/n  。/wE  
+340  计算机/n  种类/n  也/d  一再/d  分化/v  ，/wP  发展/v  成/vB  微型/b  计算机/n  、/wD  小型/b  计算机/n  、/wD  通用/b  计算机/n  （/wLB  包括/v  巨型/b  、/wD  大型/b  和/cC  中型/b  计算机/n  ）/wRB  ，/wP  以及/cC  各/rB  种/qN  专用机/n  （/wLB  如/p  各/rB  种/qN  控制/vN  计算机/n  、/wD  模拟/v  －/x  数字/n  混合/vN  计算机/n  ）/wRB  等/uO  。/wE  
+341  计算机/n  技术/n  面貌/n  发生/v  变化/v  的/uJDE  主要/b  因素/n  ，/wP  是/vC  计算机/n  器件/n  、/wD  软件/n  和/cC  外围/b  设备/n  的/uJDE  迅速/a  改进/vN  和/cC  革新/vN  。/wE  
+342  计算机/n  器件/n  从/p  电子管/n  到/p  晶体管/n  ，/wP  再/d  从/p  分立元件/n  到/p  集成电路/n  以至/p  微处理器/n  ，/wP  促使/vJY  计算机/n  的/uJDE  发展/vN  出现/v  了/uA  三/m  次/qV  飞跃/vN  。/wE  
+343  在/p  电子管/n  计算机/n  时期/nT  （/wLB  １９４６/m  ～/w  １９５９/m  ）/wRB  ，/wP  计算机/n  主要/d  用/v  于/p  科学/n  计算/vN  。/wE  
+344  主存储器/n  是/vC  决定/v  计算机/n  技术/n  面貌/n  的/uJDE  主要/b  因素/n  。/wE  
+345  当时/t  ，/wP  主存储器/n  有/v  水银/n  延迟线/n  存储器/n  、/wD  阴极/n  射线/n  示波管/n  静电/n  存储器/n  、/wD  磁鼓/n  和/cC  磁心/n  存储器/n  等/uO  类型/n  ，/wP  通常/d  按/p  此/rN  对/p  计算机/n  进行/v  分类/v  。/wE  
+346  到/p  了/uA  晶体管/n  计算机/n  时期/nT  （/wLB  １９５９/m  ～/w  １９６４/m  ）/wRB  ，/wP  主存储器/n  均/d  采用/v  磁心/n  存储器/n  ，/wP  磁鼓/n  和/cC  磁盘/n  开始/v  用作/v  主要/b  的/uJDE  辅助/vN  存储器/n  。/wE  
+347  不仅/c  科学/n  计算/vN  用/p  计算机/n  继续/v  发展/v  ，/wP  而且/cC  中、小型/n  计算机/n  ，/wP  特别是/d  廉价/a  的/uJDE  小型/b  数据/n  处理/vN  用/v  计算机/n  开始/v  大量/d  生产/v  。/wE  
+348  １９６４/m  年/qT  ，/wP  在/p  集成电路/n  计算机/n  发展/v  的/uJDE  同时/t  ，/wP  计算机/n  也/d  进入/v  了/uA  产品/n  系列/n  化/k  的/uJDE  发展/vN  时期/nT  。/wE  
+349  半导体/n  存储器/n  逐步/d  取代/v  了/uA  磁心/n  存储器/n  的/uJDE  主存储器/n  地位/n  ，/wP  磁盘/n  成/v  了/uA  不可/vM  缺少/v  的/uJDE  辅助/vN  存储器/n  ，/wP  并且/cC  开始/v  普遍/aD  采用/v  虚拟/b  存储/vN  技术/n  。/wE  
+350  随着/p  各/rB  种/qN  半导体/n  只读存储器/n  和/cC  可/vM  改写/v  的/uJDE  只读存储器/n  的/uJDE  迅速/a  发展/vN  ，/wP  以及/cC  微程序/n  技术/n  的/uJDE  发展/vN  和/cC  应用/vN  ，/wP  计算机/n  系统/n  中/f  开始/v  出现/v  固件/n  子系统/n  。/wE  
+351  ７０/m  年代/nT  以来/fT  ，/wP  计算机/n  用/v  集成电路/n  的/uJDE  集成度/n  迅速/aD  从/p  中/f  、/wD  小/a  规模/n  发展/v  到/vB  大/a  规模/n  、/wD  超大规模/n  的/uJDE  水平/n  ，/wP  微处理器/n  和/cC  微型/b  计算机/n  应运而生/v  ，/wP  各/rB  类/qN  计算机/n  的/uJDE  性能/n  迅速/aD  提高/v  。/wE  
+352  随着/p  字长/n  ４/m  位/qN  、/wD  ８/m  位/qN  、/wD  １６/m  位/qN  和/cC  ３２/m  位/qN  的/uJDE  微型/b  计算机/n  相继/d  问世/v  和/cC  广泛/aD  应用/v  ，/wP  对/p  小型/b  计算机/n  、/wD  通用/b  计算机/n  和/cC  专用/b  计算机/n  的/uJDE  需求量/n  也/d  相应/d  增长/v  了/y  。/wE  
+353  当/p  微型/b  计算机/n  的/uJDE  性能/n  提高/v  到/vB  过去/t  小型/b  计算机/n  的/uJDE  程度/n  时/nT  ，/wP  ３２/m  位/qN  超级/b  小型/b  计算机/n  跨入/v  了/uA  通用/b  计算机/n  的/uJDE  中、低档/n  范围/n  。/wE  
+354  一般/a  通用/vN  大型/b  计算机/n  的/uJDE  运算/vN  速度/n  达到/v  千万/m  次/qV  每/rB  秒/qT  ，/wP  主存储器/n  容量/n  达/v  几/m  百万/m  至/c  上/m  千万/m  字节/n  ，/wP  单/b  台/qN  磁盘/n  存储器/n  容量/n  高达/v  几/m  亿/m  至/c  几/m  十/m  亿/m  字节/n  ，/wP  而/cC  巨型/b  计算机/n  高达/v  十/m  亿/m  次/qV  每/rB  秒/qT  以上/m  ，/wP  并/cC  进入/v  百亿/m  次/qV  每/rB  秒/qT  的/uJDE  超高速度/n  。/wE  
+355  微型/b  计算机/n  在/p  社会/n  上/f  大量/d  应用/v  后/f  ，/wP  一/m  座/qN  办公楼/n  、/wD  一/m  所/qN  学校/n  、/wD  一/m  个/qN  仓库/n  常常/d  拥有/v  数/m  十/m  台/qN  以至/cC  数/m  百/m  台/qN  计算机/n  。/wE  
+356  实现/v  它们/rNP  互连/v  的/uJDE  局部网/n  随即/d  兴起/v  ，/wP  进一步/d  推动/v  了/uA  计算机/n  应用/vN  系统/n  从/p  集中式/b  系统/n  向/p  分布式/b  系统/n  的/uJDE  发展/vN  。/wE  
+357  微处理器/n  和/cC  微型/b  计算机/n  工作/v  可靠/a  ，/wP  使用/v  简便/a  ，/wP  因而/c  促进/v  了/uA  计算机/n  系统/n  功能/n  的/uJDE  分散/a  化/k  ，/wP  而且/cC  广泛/aD  渗透/v  到/vB  各/rB  种/qN  工业/n  产品/n  中/f  。/wE  
+358  从/p  计算机/n  系统/n  的/uJDE  成本/n  来看/u  ，/wP  ５０/m  年代/nT  中期/t  ，/wP  软件/n  不/dN  到/v  总/b  成本/n  的/uJDE  ２０/m  ％/m  ，/wP  ７０/m  年代/nT  后期/t  便/d  上升/v  到/vB  ５０/m  ％/m  以上/m  。/wE  
+359  在/p  电子管/n  计算机/n  时期/nT  ，/wP  一些/m  计算机/n  配置/v  了/uA  汇编程序/n  和/cC  子程序库/n  ，/wP  科学/n  计算/vN  用/v  的/uJDE  高级/a  语言/n  ＦＯＲＴＲＡＮ/n  初露头角/v  。/wE  
+360  在/p  晶体管/n  计算机/n  阶段/nT  ，/wP  事务/n  处理/vN  用/v  的/uJDE  ＣＯＢＯＬ/n  语言/n  、/wD  科学/n  计算机/n  用/v  的/uJDE  ＡＬＧＯＬ/n  语言/n  和/cC  符号/n  处理/vN  用/v  的/uJDE  ＬＩＳＰ/n  等/uO  高级/a  语言/n  开始/v  进入/v  实用/a  阶段/nT  。/wE  
+361  操作系统/n  初步/d  成型/v  ，/wP  使/vJY  计算机/n  的/uJDE  使用/vN  方式/n  由/p  手工/b  操作/vN  改变/v  为/vB  自动/b  作业/n  管理/vN  ，/wP  进入/v  集成电路/n  计算机/n  发展/vN  时期/nT  以后/f  ，/wP  在/p  计算机/n  中/f  形成/v  了/uA  相当/b  规模/n  的/uJDE  软件/n  子系统/n  ，/wP  高级/a  语言/n  种类/n  进一步/d  增加/v  ，/wP  操作系统/n  日趋完善/v  ，/wP  具备/v  批量/d  处理/v  、/wD  分时/d  处理/v  、/wD  实时/d  处理/v  等/uO  多/m  种/qN  功能/n  。/wE  
+362  数据库/n  管理/vN  系统/n  、/wD  通信/vN  处理/vN  程序/n  、/wD  网络/n  软件/n  等/uO  也/d  不断/d  增添/v  到/p  软件/n  子系统/n  中/f  。/wE  
+363  软件/n  子系统/n  的/uJDE  功能/n  不断/d  增强/v  ，/wP  明显/a  地/uJDI  改变/v  了/uA  计算机/n  的/uJDE  使用/vN  属性/n  ，/wP  使用/vN  效率/n  显著/aD  提高/v  。/wE  
+364  ６０/m  年代/nT  中期/t  以后/f  ，/wP  在/p  软件/n  子系统/n  发展/vN  方面/n  出现/v  了/uA  复杂程度/n  高/a  、/wD  研制/vN  周期/n  长/a  和/cC  正确性/n  难于/v  保证/v  的/uJDE  三/m  大/a  特征/n  ，/wP  从而/c  形成/v  难以/v  控制/v  软件/n  发展/v  的/uJDE  局面/n  ，/wP  出现/v  了/uA  所谓/b  的/uJDE  “/wLB  软件/n  危机/n  ”/wRB  。/wE  
+365  为了/p  克服/v  这/rN  种/qN  危机/n  ，/wP  人们/n  一方面/c  着手/v  从/p  理论/n  上/f  探讨/v  程序/n  的/uJDE  正确性/n  和/cC  软件/n  的/uJDE  可靠性/n  问题/n  ，/wP  另一方面/c  致力于/v  使/vJY  软件/n  研制/vN  从/p  “/wLB  技艺/n  ”/wRB  方式/n  转向/v  “/wLB  工程/n  ”/wRB  方式/n  ，/wP  即/d  试图/vM  建立/v  和/cC  应用/v  牢固/a  的/uJDE  工程/n  准则/n  ，/wP  以期/v  得到/v  可靠/a  的/uJDE  和/cC  高效/b  的/uJDE  软件/n  。/wE  
+366  软件/n  工程/n  实现/v  的/uJDE  途径/n  ，/wP  是/vC  尽量/d  让/vJY  计算机/n  去/v  自动/d  完成/v  软件/n  研究/vN  与/cC  维护/vN  中/f  的/uJDE  工作/n  。/wE  
+367  为此/c  ，/wP  研制/v  成/vB  各/rB  种/qN  软件/n  工具/n  ，/wP  并/cC  适当/a  地/uJDI  使/vJY  其/rN  配备/v  成套/v  ，/wP  形成/v  软件/n  支援/vN  环境/n  。/wE  
+368  在/p  现代/b  计算机/n  中/f  ，/wP  外围/b  设备/n  的/uJDE  价值/n  一般/aD  已/d  超过/v  计算机/n  硬件/n  子系统/n  的/uJDE  一半/m  以上/m  ，/wP  其/rB  技术/n  水平/n  在/p  很/dD  大/a  程度/n  上/f  决定/v  着/uA  计算机/n  的/uJDE  技术/n  面貌/n  。/wE  
+369  外围/b  设备/n  技术/n  的/uJDE  综合性/n  很/dD  强/a  ，/wP  既/c  依赖/v  于/p  电子学/n  、/wD  机械学/n  、/wD  光学/n  、/wD  磁学/n  等/uO  多/m  门/qN  学科/n  知识/n  的/uJDE  综合/vN  ，/wP  又/c  取决于/v  精密/a  机械/n  工艺/n  、/wD  电气/n  和/cC  电子/n  加工/vN  工艺/n  以及/cC  计量/n  的/uJDE  技术/n  和/cC  工艺/n  水平/n  等/uO  。/wE  
+370  外围/b  设备/n  包括/v  辅助/vN  存储器/n  和/cC  输入/vN  输出/vN  设备/n  两/m  大/a  类/qN  。/wE  
+371  辅助/vN  存储器/n  包括/v  磁盘/n  、/wD  磁鼓/n  、/wD  磁带/n  、/wD  激光/n  存储器/n  、/wD  海量/n  存储器/n  和/cC  缩微/n  存储器/n  等/uO  ；/wP  输入/vN  输出/vN  设备/n  又/d  分/v  为/vB  输入/vN  设备/n  、/wD  输出/vN  设备/n  、/wD  转换/vN  设备/n  、/wD  模式/n  信息/n  处理/vN  设备/n  和/cC  终端/n  设备/n  。/wE  
+372  在/p  这些/rN  品种/n  繁多/a  的/uJDE  设备/n  中/f  ，/wP  对/p  计算机/n  技术/n  面貌/n  影响/vN  最/dD  大/a  的/uJDE  是/vC  磁盘/n  、/wD  终端/n  设备/n  、/wD  模式/n  信息/n  处理/vN  设备/n  和/cC  转换/vN  设备/n  等/uO  。/wE  
+373  磁盘/n  存储器/n  自/p  ５０/m  年代/nT  后期/t  问世/v  以来/fT  ，/wP  存储/n  密度/n  每/rB  三/m  年/qT  大体上/d  提高/v  一/m  倍/qN  。/wE  
+374  从/p  晶体管/n  计算机/n  时期/nT  开始/v  ，/wP  磁盘/n  存储器/n  就/d  开始/v  占据/v  辅助/vN  存储器/n  的/uJDE  主要/b  位置/n  ，/wP  不仅/c  促使/vJY  计算机/n  性能/n  －/x  价格/n  比/n  不断/d  提高/v  ，/wP  而且/cC  推动/vJY  计算机/n  功能/n  和/cC  计算机/n  应用/vN  领域/n  不断/d  扩展/v  。/wE  
+375  终端/n  设备/n  包括/v  输入/vN  设备/n  、/wD  输出/vN  设备/n  和/cC  数据/n  通信/vN  设备/n  等/uO  ，/wP  能/vM  提高/v  计算机/n  资源/n  利用率/n  ，/wP  改善/v  人/n  －/x  机/n  联系/vN  ，/wP  提供/v  人/n  与/cC  人/n  之间/f  通信/v  的/uJDE  新/a  手段/n  。/wE  
+376  终端/n  设备/n  的/uJDE  发展/vN  推动/vJY  计算机/n  应用/vN  从/p  单机/n  、/wD  多机/n  发展/v  到/vB  网络/n  应用/vN  的/uJDE  新/a  阶段/nT  。/wE  
+377  计算机/n  直接/aD  输入/v  输出/v  的/uJDE  信息/n  形式/n  ，/wP  从/p  符号/n  扩展/v  到/vB  文字/n  、/wD  图形/n  、/wD  图像/n  、/wD  声音/n  和/cC  其他/rN  各/rB  种/qN  物理量/n  。/wE  
+378  这/rN  是/vC  靠/p  模式/n  信息/n  处理/vN  设备/n  和/cC  转换/vN  设备/n  实现/v  的/uJDE  。/wE  
+379  各/rB  种/qN  模拟/v  的/uJDE  物理量/n  通过/p  模拟/vN  －/x  数字/n  转换/vN  设备/n  转换/v  为/vB  数字量/n  送/v  入/vB  计算机/n  ，/wP  计算机/n  输出/v  的/uJDE  数字量/n  再/d  通过/p  各/rB  种/qN  数字/n  －/x  模拟/vN  转换/vN  设备/n  转换/v  为/vB  模拟量/n  。/wE  
+380  这/rN  是/vC  过程/n  控制/v  计算机/n  系统/n  不可/vM  缺少/v  的/uJDE  环节/n  。/wE  
+381  实际上/l  ，/wP  转换/vN  设备/n  和/cC  各/rB  种/qN  智能/n  化/k  接口/n  ，/wP  是/vC  开拓/v  计算机/n  过程/n  控制/vN  、/wD  智能/n  机器人/n  等/uO  应用/vN  领域/n  的/uJDE  重要/a  手段/n  。/wE  
+382  随着/p  文字/n  、/wD  图形/n  、/wD  图像/n  、/wD  声音/n  的/uJDE  识别/vN  和/cC  处理/vN  技术/n  的/uJDE  进展/vN  ，/wP  创造/v  具有/v  高度/b  智能/n  的/uJDE  计算机/n  终将/d  成为/v  可能/n  ，/wP  从而/c  推动/vJY  计算机/n  的/uJDE  技术/n  面貌/n  发生/v  新/a  的/uJDE  巨变/n  。/wE  
+383  新/a  一/m  代/qN  计算机/n  （/wLB  又/d  称/v  第/m  五/m  代/qN  计算机/n  ）/wRB  是/vC  把/p  信息/n  采集/vN  、/wD  存储/n  处理/vN  、/wD  通信/vN  和/cC  人工智能/n  结合/v  在/p  一起/n  的/uJDE  智能/n  计算机/n  系统/n  。/wE  
+384  它/rNP  不仅/c  能/vM  进行/v  一般/a  信息/n  处理/vN  ，/wP  而且/cC  能/vM  面向/v  知识/n  处理/vN  ，/wP  具有/v  形式/n  化/k  推理/v  、/wD  联想/v  、/wD  学习/v  和/cC  解释/v  的/uJDE  能力/n  ，/wP  将/d  能/vM  帮助/vJY  人类/n  开拓/v  未知/v  的/uJDE  领域/n  和/cC  获得/v  新/a  的/uJDE  知识/n  。/wE  
+385  新/a  一/m  代/qN  计算机/n  的/uJDE  研究/vN  领域/n  大体上/d  包括/v  人工智能/n  、/wD  系统/n  结构/n  、/wD  软件/n  工程/n  和/cC  支援/vN  设备/n  ，/wP  以及/cC  对/p  社会/n  的/uJDE  影响/vN  等/uO  。/wE  
+386  人工智能/n  的/uJDE  应用/vN  ，/wP  将/d  是/vC  未来/t  信息/n  处理/vN  的/uJDE  主流/n  。/wE  
+387  因此/c  ，/wP  新/a  一/m  代/qN  计算机/n  的/uJDE  发展/vN  ，/wP  必将/d  与/p  人工智能/n  、/wD  知识/n  工程/n  和/cC  专家/n  系统/n  等/uO  的/uJDE  研究/vN  紧密/aD  相/d  联/v  ，/wP  并/cC  为/p  其/rB  发展/vN  提供/v  新/a  的/uJDE  基础/n  。/wE  
+388  新/a  一/m  代/qN  计算机/n  的/uJDE  系统/n  结构/n  ，/wP  将/d  突破/v  传统/a  的/uJDE  诺伊曼/nP  机器/n  的/uJDE  概念/n  ，/wP  实现/v  高度/b  并行/d  处理/v  。/wE  
+389  这/rN  方面/n  的/uJDE  研究/vN  课题/n  包括/v  逻辑程序设计机/n  、/wD  函数机/n  、/wD  相关代数机/n  、/wD  抽象数据型/b  支援机/n  、/wD  数据流机/n  、/wD  关系数据库机/n  、/wD  分布式/b  数据库/n  系统/n  、/wD  分布式/b  信息/n  通信/vN  网络/n  等/uO  。/wE  
+390  新/a  一/m  代/qN  计算机/n  的/uJDE  发展/vN  必然/d  引起/v  新/a  一/m  代/qN  软件/n  工程/n  的/uJDE  发展/vN  ，/wP  极/dD  大/a  地/uJDI  提高/v  软件/n  的/uJDE  生产率/n  和/cC  可靠性/n  。/wE  
+391  为了/p  改善/v  软件/n  和/cC  硬件/n  系统/n  的/uJDE  设计/vN  环境/n  ，/wP  将/d  研制/v  各/rB  种/qN  智能/n  化/k  的/uJDE  支援/vN  系统/n  ，/wP  包括/v  智能/n  程序/n  设计/vN  系统/n  、/wD  知识库/n  设计/vN  系统/n  、/wD  智能/n  超大/b  规模/n  集成电路/n  辅助/vN  设计/vN  系统/n  ，/wP  以及/cC  各/rB  种/qN  智能/n  应用/vN  系统/n  和/cC  集成/b  专家/n  系统/n  等/uO  。/wE  
+392  在/p  新/a  一/m  代/qN  计算机/n  硬件/n  方面/n  ，/wP  将/d  会/vM  出现/v  一系列/b  新/a  的/uJDE  技术/n  ，/wP  如/p  先进/a  的/uJDE  微细/a  加工/vN  和/cC  封装/vN  测试/vN  技术/n  、/wD  砷化镓/n  器件/n  、/wD  约瑟夫逊结/nR  器件/n  、/wD  光学/n  器件/n  、/wD  光纤/n  通信/vN  技术/n  以及/cC  智能/n  辅助/vN  设计/vN  系统/n  等/uO  。/wE  
+393  新/a  一/m  代/qN  计算机/n  还/d  将/d  推动/v  计算机/n  通信/vN  技术/n  的/uJDE  发展/vN  ，/wP  使/vJY  计算机网/n  所/uS  拥有/v  的/uJDE  知识库/n  和/cC  知识/n  处理/vN  能力/n  实现/v  共享/v  ，/wP  促进/v  综合/b  业务/n  数字/n  网络/n  的/uJDE  发展/vN  和/cC  通信/vN  业务/n  进一步/d  多样/a  化/k  ，/wP  并/cC  使/vJY  多种多样/v  的/uJDE  通信/vN  业务/n  集中/v  于/p  统一/a  的/uJDE  系统/n  之中/f  ，/wP  更/dD  有力/a  的/uJDE  促进/v  社会/n  信息/n  化/k  。/wE  
+394  计算/vN  技术/n  在/p  中国/nS  的/uJDE  发展/vN  
+395  在/p  人类/n  文明/n  发展/v  的/uJDE  历史/n  上/f  ，/wP  中国/nS  曾经/d  在/p  早期/t  计算/vN  工具/n  的/uJDE  发展/vN  创造/vN  方面/n  写/v  过/uA  光辉/a  的/uJDE  一/m  页/qN  。/wE  
+396  远/aD  在/p  商代/nR  ，/wP  中国/nS  就/d  创造/v  了/uA  十进制/n  记数/n  方法/n  ，/wP  领先/v  于/p  世界/n  千/m  余/m  年/qT  。/wE  
+397  到/v  了/uA  周代/nR  ，/wP  发明/v  了/uA  当时/t  最/dD  先进/a  的/uJDE  计算/vN  工具/n  ——/wP  算筹/n  。/wE  
+398  这/rN  是/vC  一/m  种/qN  用/p  竹/n  、/wD  木/n  或/cC  骨/n  制成/v  的/uJDE  颜色/n  不同/a  的/uJDE  小/a  棍/n  。/wE  
+399  计算/v  每/rB  一/m  个/qN  数学/n  问题/n  时/nT  ，/wP  通常/d  编出/v  一/m  套/qN  歌诀/n  形式/n  的/uJDE  算法/n  ，/wP  一边/c  计算/v  ，/wP  一边/c  不断/d  地/uJDI  重新/d  布/v  棍/n  。/wE  
+400  中国/nS  古代/t  数学家/n  祖冲之/nP  ，/wP  就是/d  用/p  算筹/n  计算/v  出/vB  π/x  值/n  在/v  ３．/m  １４１５９２６/m  和/cC  ３．/m  １４１５９２７/m  之间/f  。/wE  
+401  这/rN  一/m  结果/n  比/p  西方/nS  早/a  １/m  千/m  年/qT  。/wE  
+402  珠算盘/n  是/vC  中国/nS  的/uJDE  又/d  一/m  独创/vN  ，/wP  也/d  是/vC  计算/vN  工具/n  发展史/n  上/f  的/uJDE  第/m  一/m  项/qN  重大/a  发明/n  。/wE  
+403  这/rN  种/qN  轻巧/a  灵活/a  、/wD  携带/v  方便/a  、/wD  与/p  人民/n  生活/n  关系/n  密切/a  的/uJDE  计算/vN  工具/n  ，/wP  最初/t  大约/d  出现/v  于/p  汉朝/nR  ，/wP  到/p  元朝/nR  时/nT  渐趋/v  成熟/a  。/wE  
+404  珠算盘/n  不仅/c  对/p  中国/nS  经济/n  的/uJDE  发展/vN  起/v  过/uA  有益/a  的/uJDE  作用/n  ，/wP  而且/cC  传/v  到/vB  日本/nS  、/wD  朝鲜/nS  、/wD  东南亚/nS  等/uO  地区/n  ，/wP  经受/v  了/uA  历史/n  的/uJDE  考验/n  ，/wP  至今/d  仍/d  在/d  使用/v  。/wE  
+405  中国/nS  发明/v  创造/v  的/uJDE  指南车/n  、/wD  水运浑象仪/n  、/wD  记里鼓车/n  、/wD  提花机/n  等/uO  ，/wP  不仅/c  对/p  自动控制/n  机械/n  的/uJDE  发展/vN  有/v  卓越/a  的/uJDE  贡献/vN  ，/wP  而且/cC  对/p  计算/vN  工具/n  的/uJDE  演进/vN  产生/v  了/uA  直接/a  或/cC  间接/a  的/uJDE  影响/vN  。/wE  
+406  例如/v  ，/wP  张衡/nP  制作/v  的/uJDE  水运浑象仪/n  ，/wP  可以/vM  自动/d  地/uJDI  与/p  地球/n  运转/vN  同步/a  ，/wP  后/d  经/p  唐/nR  、/wD  宋/nR  两/m  代/qN  的/uJDE  改进/vN  ，/wP  遂/d  成为/v  世界/n  上/f  最/dD  早/a  的/uJDE  天文钟/n  。/wE  
+407  记里鼓车/n  则/c  是/vC  世界/n  上/f  最/dD  早/a  的/uJDE  自动/b  计数/n  装置/n  。/wE  
+408  提花机/n  原理/n  对/p  计算机/n  程序/n  控制/vN  的/uJDE  发展/vN  有/v  过/uA  间接/a  的/uJDE  影响/vN  。/wE  
+409  中国/nS  古代/t  用/p  阳/b  （/wLB  —/x  ）/wRB  阴/b  （/wLB  ——/wP  ）/wRB  两/m  爻/n  构成/v  八卦/n  ，/wP  也/d  对/p  计算/vN  技术/n  的/uJDE  发展/vN  有/v  过/uA  直接/a  的/uJDE  影响/vN  。/wE  
+410  Ｇ·Ｗ·莱布尼兹/nP  写/v  过/uA  研究/v  八卦/n  的/uJDE  论文/n  ，/wP  系统/a  地/uJDI  提出/v  了/uA  二进制/n  算术/n  运算/vN  法则/n  。/wE  
+411  他/rNP  认为/v  ，/wP  世界/n  上/f  最/dD  早/a  的/uJDE  二进制/n  表示法/n  就/d  是/vC  中国/nS  的/uJDE  八卦/n  。/wE  
+412  经过/p  漫长/a  的/uJDE  沉寂/a  ，/wP  中华人民共和国/nS  成立/v  后/f  ，/wP  中国/nS  计算/vN  技术/n  迈/v  入/vB  了/uA  新/a  的/uJDE  发展/vN  时期/nT  ，/wP  先后/d  建立/v  了/uA  研究/vN  机构/n  ，/wP  在/p  高等院校/n  建立/v  了/uA  计算/vN  技术/n  与/cC  装置/n  专业/n  和/cC  计算数学/n  专业/n  ，/wP  并且/cC  着手/v  创建/v  中国/nS  计算机/n  制造业/n  。/wE  
+413  １９５８/m  年/qT  和/cC  １９５９/m  年/qT  ，/wP  中国/nS  先后/d  制成/v  第/m  一/m  台/qN  小型/b  和/cC  大型/b  电子管/n  计算机/n  。/wE  
+414  ６０/m  年代/nT  中期/t  ，/wP  中国/nS  研制/v  成功/vB  一/m  批/qN  晶体管/n  计算机/n  ，/wP  并/cC  配制/v  了/uA  ＡＬＧＯＬ/n  等/uO  语言/n  的/uJDE  编译/n  程序/n  和/cC  其他/rN  系统/n  软件/n  。/wE  
+415  ６０/m  年代/nT  后期/t  ，/wP  中国/nS  开始/v  研究/v  集成电路/n  计算机/n  。/wE  
+416  ７０/m  年代/nT  ，/wP  中国/nS  已/d  批量/d  生产/v  小型/b  集成电路/n  计算机/n  。/wE  
+417  若干/m  种/qN  百万/m  次/qV  每/rB  秒/qT  以上/m  的/uJDE  大型/b  集成电路/n  计算机/n  相继/d  研制/v  成功/vB  ，/wP  并/cC  开展/v  了/uA  微型/b  计算机/n  的/uJDE  研制/vN  工作/n  。/wE  
+418  这些/rN  计算机/n  系统/n  包含有/v  操作系统/n  、/wD  多/m  种/qN  程序语言/n  的/uJDE  编译/n  程序/n  等/uO  比较/dD  丰富/a  的/uJDE  系统/n  软件/n  。/wE  
+419  ８０/m  年代/nT  以后/f  ，/wP  中国/nS  开始/v  重点/d  研制/v  微型/b  计算机/n  系统/n  并/cC  推广/v  应用/v  ；/wP  在/p  大型/b  计算机/n  、/wD  特别是/d  巨型/b  计算机/n  技术/n  方面/n  也/d  取得/v  了/uA  重要/a  进展/vN  ；/wP  建立/v  了/uA  计算机/n  服务业/n  ，/wP  逐步/d  健全/v  计算机/n  产业/n  结构/n  。/wE  
+420  在/p  计算机/n  科学/n  与/cC  技术/n  的/uJDE  研究/vN  方面/n  ，/wP  中国/nS  在/p  有限元/n  计算/vN  方法/n  、/wD  数学/n  定理/n  的/uJDE  机器/n  证明/vN  、/wD  汉字/n  信息/n  处理/vN  、/wD  计算机/n  系统/n  结构/n  和/cC  软件/n  等/uO  方面/n  都/d  有所建树/v  。/wE  
+421  在/p  计算机/n  应用/vN  方面/n  ，/wP  中国/nS  在/p  科学/n  计算/vN  与/cC  工程/n  设计/vN  领域/n  取得/v  了/uA  显著/a  成就/n  。/wE  
+422  在/p  有关/b  经营/vN  管理/vN  和/cC  过程/n  控制/vN  等/uO  方面/n  ，/wP  计算机/n  应用/vN  研究/vN  和/cC  实践/vN  也/d  日益/d  活跃/v  。/wE  
+423  中国/nS  计算机/n  事业/n  经过/p  ３０/m  多/m  年/qT  的/uJDE  发展/vN  ，/wP  已/d  形成/v  一/m  支/qN  较/dD  大/a  的/uJDE  科研/n  、/wD  生产/vN  、/wD  应用/vN  和/cC  教学/n  队伍/n  ，/wP  拥有/v  上/m  百/m  个/qN  计算机/n  制造厂/n  、/wD  外围/b  设备/n  制造厂/n  和/cC  研究/vN  机构/n  。/wE  
+424  开设/v  计算机/n  专业/n  的/uJDE  高等院校/n  在/v  百/m  所/qN  以上/m  。/wE  
+425  计算机/n  科学/n  与/cC  技术/n  
+426  计算机/n  科学/n  与/cC  技术/n  是/vC  一/m  门/qN  实用性/n  很/dD  强/a  、/wD  发展/vN  极其/dD  迅速/a  的/uJDE  面向/v  广大/b  社会/n  的/uJDE  技术/n  学科/n  ，/wP  它/rNP  建立/v  在/p  数学/n  、/wD  电子学/n  （/wLB  特别是/d  微电子学/n  ）/wRB  、/wD  磁学/n  、/wD  光学/n  、/wD  精密机械/n  等/uO  多/m  门/qN  学科/n  的/uJDE  基础/n  之上/fS  。/wE  
+427  但是/c  ，/wP  它/rNP  并/dB  不/dN  是/vC  简单/a  地/uJDI  应用/v  某些/rN  学科/n  的/uJDE  知识/n  ，/wP  而是/c  经过/p  高度/d  综合/v  形成/v  一整套/m  有关/p  信息/n  表示/vN  、/wD  变换/vN  、/wD  存储/vN  、/wD  处理/vN  、/wD  控制/vN  和/cC  利用/vN  的/uJDE  理论/n  、/wD  方法/n  和/cC  技术/n  。/wE  
+428  计算机/n  科学/n  是/vC  研究/v  计算机/n  及/cC  其/rB  周围/s  各/rB  种/qN  现象/n  与/cC  规律/n  的/uJDE  科学/n  ，/wP  主要/d  包括/v  理论/n  计算机/n  科学/n  、/wD  计算机/n  系统/n  结构/n  、/wD  软件/n  和/cC  人工智能/n  等/uO  。/wE  
+429  计算机/n  技术/n  则/c  泛指/v  计算机/n  领域/n  中/f  所/uS  应用/v  的/uJDE  技术/n  方法/n  和/cC  技术/n  手段/n  ，/wP  包括/v  计算机/n  的/uJDE  系统/n  技术/n  、/wD  软件/n  技术/n  、/wD  部件/n  技术/n  、/wD  器件/n  技术/n  和/cC  组装/vN  技术/n  等/uO  。/wE  
+430  计算机/n  科学/n  与/cC  技术/n  包括/v  ５/m  个/qN  分支/n  学科/n  ，/wP  即/vC  理论/n  计算机/n  科学/n  、/wD  计算机/n  系统/n  结构/n  、/wD  计算机/n  组织/vN  与/cC  实现/vN  、/wD  计算机/n  软件/n  和/cC  计算机/n  应用/vN  。/wE  
+431  理论/n  计算机/n  科学/n  
+432  它/rNP  是/vC  研究/v  计算机/n  基本/a  理论/n  的/uJDE  学科/n  。/wE  
+433  在/p  几/m  千/m  年/qT  的/uJDE  数学/n  发展/vN  中/f  ，/wP  人们/n  研究/v  了/uA  各式各样/n  的/uJDE  计算/vN  ，/wP  创立/v  了/uA  许多/m  算法/n  。/wE  
+434  但是/c  ，/wP  以/p  计算/v  或/cC  算法/n  本身/n  的/uJDE  性质/n  为/v  研究/vN  对象/n  的/uJDE  数学/n  理论/n  ，/wP  却/d  是/vC  在/p  ２０/m  世纪/nT  ３０/m  年代/nT  才/d  发展/v  起来/vB  的/y  。/wE  
+435  当时/t  ，/wP  由/p  几/m  位/qN  数理逻辑/n  学者/n  建立/v  的/uJDE  算法/n  理论/n  ，/wP  即/v  可/vM  计算性/n  理论/n  或/cC  称/v  递归函数论/n  ，/wP  对/p  ４０/m  年代/nT  现代/b  计算机/n  设计/vN  思想/n  的/uJDE  形成/vN  产生/v  过/uA  影响/n  。/wE  
+436  此后/t  ，/wP  关于/p  现实/n  计算机/n  及/cC  其/rB  程序/n  的/uJDE  数学/n  模型/n  性质/n  的/uJDE  研究/vN  ，/wP  以及/cC  计算/vN  复杂性/n  的/uJDE  研究/vN  等/uO  不断/d  有所/v  发展/v  。/wE  
+437  理论/n  计算机/n  科学/n  包括/v  自动机论/n  、/wD  形式语言/n  理论/n  、/wD  程序/n  理论/n  、/wD  算法/n  分析/vN  ，/wP  以及/cC  计算/vN  复杂性/n  理论/n  等/uO  。/wE  
+438  自动机/n  是/vC  现实/n  自动/b  计算机/n  的/uJDE  数学/n  模型/n  ，/wP  或者说/l  是/vC  现实/n  计算机/n  程序/n  的/uJDE  模型/n  。/wE  
+439  自动机/n  理论/n  的/uJDE  任务/n  就/d  在于/v  研究/v  这/rN  种/qN  抽象/a  机器/n  的/uJDE  模型/n  。/wE  
+440  已经/d  提出/v  的/uJDE  模型/n  有/v  无限/b  自动机/n  ——/wP  图灵机/n  ，/wP  以及/cC  各/rB  种/qN  更/dD  接近/v  现实/n  机器/n  的/uJDE  图灵机/n  的/uJDE  变形/n  等/uO  。/wE  
+441  程序/n  设计/vN  语言/n  是/vC  一/m  种/qN  形式/n  语言/n  ，/wP  而/cC  形式语言/n  理论/n  只/d  研究/v  形式语言/n  的/uJDE  语法/n  侧面/n  。/wE  
+442  这/rN  种/qN  理论/n  根据/p  语言/n  表达/vN  能力/n  的/uJDE  强弱/n  分/v  为/vB  ０/m  ～/w  ３/m  型/k  语言/n  ，/wP  与/p  图灵机/n  等/uO  四/m  类/qN  自动机/n  逐一/d  对应/v  。/wE  
+443  程序/n  理论/n  是/vC  研究/v  程序/n  逻辑/n  、/wD  程序/n  复杂性/n  、/wD  程序/n  正确性/n  证明/vN  、/wD  程序/n  验证/vN  、/wD  程序/n  综合/vN  、/wD  形式语义学/n  ，/wP  以及/cC  程序/n  设计/vN  方法学/n  的/uJDE  理论/n  基础/n  。/wE  
+444  算法/n  分析/vN  研究/v  各/rB  种/qN  特定/b  算法/n  的/uJDE  性质/n  。/wE  
+445  计算/vN  复杂性/n  理论/n  研究/v  算法/n  复杂性/n  的/uJDE  一般/a  性质/n  。/wE  
+446  计算机/n  系统/n  结构/n  
+447  程序/n  设计者/n  所/uS  见/v  的/uJDE  计算机/n  属性/n  ，/wP  着重/v  于/p  计算机/n  的/uJDE  概念/n  结构/n  和/cC  功能/n  特性/n  ，/wP  硬件/n  、/wD  软件/n  和/cC  固件/n  子系统/n  的/uJDE  功能/n  分配/vN  及/cC  其/rB  界面/n  的/uJDE  确定/vN  。/wE  
+448  使用/v  高级/a  语言/n  的/uJDE  程序/n  设计者/n  所/uS  见/v  到/vB  的/uJDE  计算机/n  属性/n  ，/wP  主要/d  是/vC  软件/n  子系统/n  和/cC  固件/n  子系统/n  的/uJDE  属性/n  ，/wP  包括/v  程序/n  语言/n  以及/cC  操作系统/n  、/wD  数据库/n  管理/vN  系统/n  、/wD  网络/n  软件/n  等/uO  的/uJDE  用户/n  界面/n  。/wE  
+449  使用/v  机器语言/n  的/uJDE  程序/n  设计者/n  所/uS  见/v  到/vB  的/uJDE  计算机/n  属性/n  ，/wP  则/c  是/vC  硬件/n  子系统/n  的/uJDE  概念/n  结构/n  （/wLB  硬件/n  子系统/n  结构/n  ）/wRB  及/cC  其/rB  功能/n  特性/n  ，/wP  包括/v  指令/n  系统/n  （/wLB  机器语言/n  ）/wRB  ，/wP  以及/cC  寄存器/n  定义/vN  、/wD  中断/vN  机构/n  、/wD  输入/vN  输出/vN  方式/n  、/wD  机器/n  工作/n  状态/n  等/uO  。/wE  
+450  硬件/n  子系统/n  的/uJDE  典型/n  结构/n  是/vC  诺伊曼/nP  结构/n  ，/wP  它/rNP  由/p  运算器/n  、/wD  控制器/n  、/wD  存储器/n  和/cC  输入/vN  、/wD  输出/vN  设备/n  组成/v  ，/wP  采用/v  “/wLB  指令/n  驱动/v  ”/wRB  方式/n  。/wE  
+451  当初/t  ，/wP  它/rNP  是/vC  为/p  解/v  非线性/b  、/wD  微分方程/n  而/cC  设计/v  的/uJDE  ，/wP  并/dB  未/dN  预见/v  到/vB  高级语言/n  、/wD  操作系统/n  等/uO  的/uJDE  出现/vN  ，/wP  以及/cC  适应/v  其他/rN  应用/vN  环境/n  的/uJDE  特殊/a  要求/n  。/wE  
+452  在/p  相当/dD  长/a  的/uJDE  一/m  段/qN  时间/n  内/f  ，/wP  软件/n  子系统/n  都/d  是/vC  以/p  这/rN  种/qN  诺伊曼/nR  结构/n  为/v  基础/n  而/cC  发展/v  的/uJDE  。/wE  
+453  但是/c  ，/wP  其间/s  不/dN  相/d  适应/v  的/uJDE  情况/n  逐渐/d  暴露/v  出来/vB  ，/wP  从而/c  推动/v  了/uA  计算机/n  系统/n  结构/n  的/uJDE  变革/vN  。/wE  
+454  计算机/n  系统/n  结构/n  的/uJDE  变革/vN  包括/v  以下/fS  几/m  个/qN  方面/n  ：/wM  
+455  ①/m  计算机/n  系统/n  结构/n  从/p  基于/v  串行/n  算法/n  改变/v  为/vB  适应/v  并行/vN  算法/n  ，/wP  从而/c  出现/v  了/uA  向量/n  计算机/n  、/wD  并行/d  处理/v  计算机/n  系统/n  、/wD  分布/vN  计算机/n  系统/n  等/uO  。/wE  
+456  ②/m  高级语言/n  与/cC  机器/n  语言/n  的/uJDE  语义/n  距离/n  缩小/v  ，/wP  从而/c  出现/v  了/uA  面向/v  高级语言/n  机器/n  和/cC  直接/aD  执行/v  高级语言/n  机器/n  。/wE  
+457  ③/m  硬件/n  子系统/n  与/p  操作系统/n  和/cC  数据库/n  管理/vN  等/uO  系统/n  软件/n  相/d  适应/v  ，/wP  从而/c  出现/v  了/uA  面向/v  操作系统/n  机器/n  和/cC  数据库/n  计算机/n  等/uO  。/wE  
+458  ④/m  计算机/n  系统/n  结构/n  从/p  传统/a  的/uJDE  指令驱动型/b  改变/v  为/vB  数据驱动型/b  和/cC  要求驱动型/b  ，/wP  从而/c  出现/v  了/uA  数据流/n  机器/n  和/cC  归约机/n  。/wE  
+459  ⑤/m  为了/p  适应/v  特定/b  应用/vN  环境/n  而/cC  出现/v  了/uA  各/rB  种/qN  专用/b  计算机/n  ，/wP  如/c  快速/a  傅里叶/nP  变换机器/n  ，/wP  过程/n  控制/vN  计算机/n  等/uO  。/wE  
+460  ⑥/m  为了/p  获得/v  高/a  可靠性/n  的/uJDE  计算机/n  而/cC  研制/v  成/vB  容错/n  计算机/n  。/wE  
+461  ⑦/m  计算机/n  系统/n  功能/n  分散化/v  、/wD  专业化/v  ，/wP  从而/c  出现/v  了/uA  各/rB  种/qN  功能/n  分布式/b  计算机/n  ，/wP  这/rN  类/qN  计算机/n  包含有/v  外围/b  处理机/n  、/wD  通信/vN  处理机/n  、/wD  维护/vN  处理机/n  等/uO  。/wE  
+462  ⑧/m  与/p  大/a  规模/n  、/wD  超大/b  规模/n  集成电路/n  技术/n  相/d  适应/v  ，/wP  也/d  是/vC  促进/v  计算机/n  系统/n  结构/n  变革/vN  的/uJDE  一/m  个/qN  重要/a  方面/n  。/wE  
+463  ⑨/m  为了/p  扩展/v  计算机/n  功能/n  ，/wP  特别是/d  适应/v  人工智能/n  的/uJDE  应用/vN  ，/wP  新/a  一/m  代/qN  计算机/n  的/uJDE  发展/vN  获得/v  了/uA  动力/n  。/wE  
+464  计算机/n  组织/vN  与/cC  实现/vN  
+465  研究/v  组成/v  计算机/n  的/uJDE  功能/n  、/wD  部件/n  间/f  的/uJDE  相互/d  连接/v  和/cC  相互/d  作用/v  ，/wP  以及/cC  有关/p  计算机/n  实现/v  的/uJDE  技术/n  ，/wP  均/d  属于/v  计算机/n  组织/vN  与/cC  实现/vN  的/uJDE  任务/n  。/wE  
+466  在/p  计算机/n  系统/n  结构/n  确定/v  分配/v  给/vB  硬件/n  子系统/n  的/uJDE  功能/n  及/cC  其/rB  概念/n  结构/n  之后/f  ，/wP  计算机/n  组织/vN  的/uJDE  任务/n  就/d  是/vC  研究/v  各/rB  组成/vN  部分/n  的/uJDE  内部/b  构造/n  和/cC  相互/d  联系/n  ，/wP  以/c  实现/v  机器/n  指令/n  级/n  的/uJDE  各/rB  种/qN  功能/n  和/cC  特性/n  。/wE  
+467  这/rN  种/qN  相互/d  联系/n  包括/v  各/rB  功能/n  部件/n  的/uJDE  布置/vN  、/wD  相互/d  连接/v  和/cC  相互/d  作用/v  。/wE  
+468  各/rB  功能/n  部件/n  的/uJDE  性能/n  参数/n  相互/d  匹配/v  ，/wP  是/vC  计算机/n  组织/vN  合理/a  的/uJDE  重要/a  标志/n  ，/wP  因而/c  相应/v  地/uJDI  就/d  有/v  许多/m  计算机/n  组织/vN  方法/n  。/wE  
+469  例如/v  ，/wP  为了/p  使/vJY  存储器/n  的/uJDE  容量/n  大/a  、/wD  速度/n  快/a  ，/wP  人们/n  研究/v  出/vB  层次/n  存储/vN  体系/n  和/cC  虚拟/b  存储/vN  技术/n  。/wE  
+470  在/p  层次/n  存储/vN  体系/n  中/f  ，/wP  又/d  有/v  高速缓存/n  、/wD  多/m  模块/n  交错/d  工作/v  、/wD  多/m  寄存器组/n  和/cC  堆栈/n  等/uO  技术/n  。/wE  
+471  为了/p  使/vJY  外围/b  设备/n  与/cC  处理机/n  间/f  的/uJDE  信息/n  流量/n  达到/v  平衡/a  ，/wP  人们/n  研究/v  出/vB  通道/n  、/wD  外围/b  处理机/n  等/uO  方式/n  ；/wP  而/cC  为了/p  提高/v  处理机/n  速度/n  ，/wP  人们/n  研究/v  出/vB  先行/b  控制/vN  、/wD  流水线/n  、/wD  多/m  执行/vN  部件/n  等/uO  方式/n  。/wE  
+472  在/p  各/rB  功能/n  部件/n  的/uJDE  内部/b  结构/n  研究/vN  方面/n  ，/wP  产生/v  了/uA  许多/m  组合/vN  逻辑/n  、/wD  时序/nT  逻辑/n  的/uJDE  高效/b  设计/vN  方法/n  和/cC  结构/n  。/wE  
+473  例如/v  ，/wP  在/p  运算器/n  方面/n  ，/wP  出现/v  了/uA  多/m  种/qN  自动/b  调度/vN  算法/n  和/cC  结构/n  等/uO  。/wE  
+474  随着/p  计算机/n  功能/n  的/uJDE  扩展/vN  和/cC  性能/n  的/uJDE  提高/vN  ，/wP  计算机/n  包含/v  的/uJDE  功能/n  部件/n  也/d  日益/d  增多/v  ，/wP  其间/s  的/uJDE  互连/vN  结构/n  日趋/d  复杂/a  。/wE  
+475  现代/t  已/d  有/v  三/m  类/qN  互连/vN  方式/n  ，/wP  分别/d  以/p  中央/n  处理器/n  、/wD  存储器/n  或/cC  通信/vN  子系统/n  为/v  中心/n  ，/wP  与/p  其他/rN  部件/n  互连/v  。/wE  
+476  以/p  通信/vN  子系统/n  为/v  中心/n  的/uJDE  组织/vN  方式/n  ，/wP  使/vJY  计算机/n  技术/n  与/p  通信/vN  技术/n  紧密/aD  结合/v  ，/wP  形成/v  了/uA  计算机网/n  、/wD  局部/n  区域/n  计算机网/n  、/wD  分布/vN  计算机/n  系统/n  等/uO  重要/a  的/uJDE  计算机/n  研究/vN  与/cC  应用/vN  领域/n  。/wE  
+477  与/p  计算/vN  实现/vN  有关/v  的/uJDE  技术/n  范围/n  相当/dD  广泛/a  ，/wP  包括/v  计算机/n  的/uJDE  元件/n  、/wD  器件/n  技术/n  ，/wP  数字/n  电路/n  技术/n  ，/wP  组装/vN  技术/n  以及/cC  有关/b  的/uJDE  制造/vN  技术/n  和/cC  工艺/n  等/uO  。/wE  
+478  软件/n  
+479  软件/n  的/uJDE  研究/vN  领域/n  主要/d  包括/v  程序/n  设计/vN  、/wD  基础/n  软件/n  、/wD  软件/n  工程/n  三/m  个/qN  方面/n  。/wE  
+480  程序/n  设计/vN  指/vC  设计/v  和/cC  编制/v  程序/n  的/uJDE  过程/n  ，/wP  是/vC  软件/n  研究/vN  和/cC  发展/vN  的/uJDE  基础/n  环节/n  。/wE  
+481  程序/n  设计/vN  研究/v  的/uJDE  内容/n  ，/wP  包括/v  有关/b  的/uJDE  基本/a  概念/n  、/wD  规范/n  、/wD  工具/n  、/wD  方法/n  以及/cC  方法学/n  等/uO  。/wE  
+482  这/rN  个/qN  领域/n  发展/v  的/uJDE  特点/n  是/vC  ：/wM  从/p  顺序/b  程序/n  设计/vN  过渡/v  到/vB  并发/b  程序/n  设计/vN  和/cC  分布/v  程序/n  设计/vN  ；/wP  从/p  非/b  结构/n  程序/n  设计/vN  方法/n  过渡/v  到/vB  结构/n  程序/n  设计/vN  方法/n  ；/wP  从/p  低级语言/n  工具/n  过渡/v  到/vB  高级语言/n  工具/n  ；/wP  从/p  具体/a  方法/n  过渡/v  到/vB  方法学/n  。/wE  
+483  基础/n  软件/n  指/v  计算机/n  系统/n  中/f  起/v  基础/n  作用/n  的/uJDE  软件/n  。/wE  
+484  计算机/n  的/uJDE  软件/n  子系统/n  可以/vM  分/v  为/vB  两/m  层/qN  ：/wM  靠近/v  硬件/n  子系统/n  的/uJDE  一/m  层/qN  称为/v  系统/n  软件/n  ，/wP  使用/v  频繁/a  ，/wP  但/c  与/p  具体/a  应用/vN  领域/n  无关/v  ；/wP  另/rB  一/m  层/qN  则/c  与/p  具体/a  应用/vN  领域/n  直接/aD  有关/v  ，/wP  称为/v  应用/vN  软件/n  。/wE  
+485  此外/c  ，/wP  还/d  将/p  支援/v  其他/rN  软件/n  的/uJDE  研究/vN  与/cC  维护/vN  的/uJDE  软件/n  ，/wP  专门/d  称为/v  支援/vN  软件/n  。/wE  
+486  这/rN  三/m  类/qN  软件/n  既/c  有/v  分工/n  又/d  互相/d  结合/v  。/wE  
+487  软件/n  工程/n  是/vC  采用/v  工程/n  方法/n  研究/v  和/cC  维护/v  软件/n  的/uJDE  过程/n  ，/wP  以及/cC  有关/b  的/uJDE  技术/n  。/wE  
+488  软件/n  研究/vN  和/cC  维护/vN  的/uJDE  全/a  过程/n  ，/wP  包括/v  概念/n  形成/vN  、/wD  要求/n  定义/vN  、/wD  设计/v  、/wD  实现/v  、/wD  调试/v  、/wD  交付使用/v  ，/wP  以及/cC  有关/p  校正性/n  、/wD  适应性/n  、/wD  完善性/n  等/uO  三/m  层/qN  意义/n  的/uJDE  维护/vN  。/wE  
+489  软件/n  工程/n  的/uJDE  研究/vN  内容/n  涉及/v  上述/b  全/b  过程/n  有关/b  的/uJDE  对象/n  、/wD  结构/n  、/wD  方法/n  、/wD  工具/n  和/cC  管理/vN  等/uO  方面/n  。/wE  
+490  软件/n  自动/b  研究/vN  系统/n  的/uJDE  任务/n  是/vC  ：/wM  在/p  软件/n  工程/n  中/f  采用/v  形式/n  方法/n  ；/wP  使/vJY  软件/n  研究/vN  与/cC  维护/vN  过程/n  中/f  的/uJDE  各/rB  种/qN  工作/n  尽/d  可能/vM  多/a  地/uJDI  由/p  计算机/n  自动/d  完成/v  ；/wP  创造/v  一/m  种/qN  适应/v  软件/n  发展/vN  的/uJDE  软件/n  、/wD  固件/n  与/cC  硬件/n  高度/d  综合/v  的/uJDE  高效能/n  计算机/n  。/wE  
+491  计算机/n  产业/n  
+492  计算机/n  产业/n  包括/v  两/m  大/a  部门/n  ，/wP  即/v  计算机/n  制造业/n  和/cC  计算机/n  服务业/n  。/wE  
+493  后者/rN  又/d  称为/v  信息/n  处理/vN  产业/n  或/cC  信息/n  服务业/n  。/wE  
+494  计算机/n  产业/n  是/vC  一/m  种/qN  省/v  能源/n  、/wD  省/v  资源/n  、/wD  附加/vN  价值/n  高/a  、/wD  知识/n  和/cC  技术/n  密集/a  的/uJDE  产业/n  ，/wP  对于/p  国民经济/n  的/uJDE  发展/vN  、/wD  国防/n  实力/n  和/cC  社会/n  进步/vN  均/d  有/v  巨大/a  影响/vN  。/wE  
+495  因此/c  ，/wP  不少/m  国家/n  采取/v  促进/vJY  计算机/n  产业/n  兴旺发达/v  的/uJDE  政策/n  。/wE  
+496  计算机/n  制造业/n  包括/v  生产/v  各/rB  种/qN  计算机/n  系统/n  、/wD  外围/b  设备/n  、/wD  终端/n  设备/n  ，/wP  以及/cC  有关/b  装置/n  、/wD  元件/n  、/wD  器件/n  和/cC  材料/n  的/uJDE  制造/vN  部门/n  。/wE  
+497  技术/n  密集/a  的/uJDE  特点/n  要求/v  计算机/n  制造业/n  比/p  其他/rN  制造业/n  有/v  更/dD  多/a  的/uJDE  研究/vN  与/cC  发展/vN  投资/vN  ，/wP  拥有/v  足够/a  数量/n  的/uJDE  多/a  种/qN  专业/b  的/uJDE  专业/b  人才/n  。/wE  
+498  技术/n  密集/a  的/uJDE  特点/n  也/d  体现/v  在/p  计算机/n  制造业/n  的/uJDE  研究/vN  、/wD  发展/vN  和/cC  生产工具/n  的/uJDE  不断/d  改进/vN  和/cC  创新/vN  上/f  。/wE  
+499  事实上/l  ，/wP  计算机/n  制造业/n  本身/rN  就/d  是/vC  计算机/n  的/uJDE  重要/a  用户/n  ，/wP  也/d  是/vC  自动化/n  研究/vN  的/uJDE  重要/a  领域/n  ，/wP  例如/v  各/rB  种/qN  计算机/n  辅助/vN  设计/vN  、/wD  测试/vN  、/wD  制造/vN  。/wE  
+500  计算机/n  的/uJDE  自动化/vN  系统/n  已/d  成为/v  先进/a  的/uJDE  计算机/n  制造业/n  的/uJDE  基本/a  工具/n  。/wE  
+501  这些/rN  研究/vN  、/wD  发展/vN  和/cC  生产工具/n  的/uJDE  水平/n  ，/wP  在/p  很/dD  大/a  程度/n  上/f  决定/v  着/uA  计算机/n  产品/n  的/uJDE  水平/n  。/wE  
+502  计算机/n  作为/p  工业/n  产品/n  ，/wP  要求/vJY  产品/n  有/v  继承性/n  ，/wP  有/v  很/dD  高/a  的/uJDE  性能/n  －/x  价格/n  比/n  和/cC  综合/b  性能/n  。/wE  
+503  计算机/n  的/uJDE  继承性/n  特别/dD  体现/v  在/p  软件/n  兼容性/n  方面/n  ，/wP  这/rN  能/vM  使/vJY  用户/n  和/cC  厂家/n  把/p  过去/t  研制/v  的/uJDE  软件/n  用/v  在/p  新/a  产品/n  上/f  ，/wP  使/vJY  价格/n  很/dD  高/a  的/uJDE  软件/n  财富/n  继续/v  发挥/v  作用/n  ，/wP  减少/v  用户/n  再次/d  研制/v  软件/n  的/uJDE  时间/n  和/cC  费用/n  。/wE  
+504  提高/v  性能/n  －/x  价格/n  比/n  则/c  是/vC  计算机/n  产品/n  更新/v  的/uJDE  目标/n  和/cC  动力/n  。/wE  
+505  计算机/n  制造业/n  提供/v  的/uJDE  计算机/n  产品/n  ，/wP  一般/aD  仅/d  包括/v  硬件/n  子系统/n  和/cC  部分/n  软件/n  子系统/n  。/wE  
+506  通常/d  ，/wP  软件/n  子系统/n  中/f  缺少/v  适应/v  各/rB  种/qN  特定/b  应用/vN  环境/n  的/uJDE  应用/vN  软件/n  。/wE  
+507  为了/p  使/vJY  计算机/n  在/p  特定/b  环境/n  中/f  发挥/v  效能/n  ，/wP  还/d  需要/v  设计/v  应用/vN  系统/n  和/cC  研制/v  应用/vN  软件/n  。/wE  
+508  此外/c  ，/wP  计算机/n  的/uJDE  运行/vN  和/cC  维护/vN  ，/wP  需要/vM  有/v  掌握/v  专业/b  知识/n  的/uJDE  技术/n  人员/n  ，/wP  这/rN  常常/d  是/vC  一般/a  用户/n  所/uS  作/v  不/u  到/vB  的/y  。/wE  
+509  针对/p  这些/rN  社会/n  需要/vN  ，/wP  一些/m  计算机/n  制造/vN  厂家/n  十分/dD  重视/v  向/p  用户/n  提供/v  各/rB  种/rB  技术/n  服务/vN  和/cC  销售/vN  服务/vN  。/wE  
+510  一些/m  独立/a  于/p  计算机/n  制造/vN  厂家/n  的/uJDE  计算机/n  服务/vN  机构/n  ，/wP  也/d  在/p  ５０/m  年代/nT  开始/v  出现/v  。/wE  
+511  到/p  ６０/m  年代/nT  末期/t  ，/wP  计算机/n  服务业/n  在/p  世界/n  范围/n  内/f  已/d  形成/v  为/vB  独立/a  的/uJDE  行业/n  。/wE  
+512  计算机/n  的/uJDE  发展/vN  和/cC  应用/vN  
+513  计算机/n  科学/n  与/cC  技术/n  同/p  各/rB  门/qN  学科/n  相/d  结合/v  ，/wP  改进/v  了/uA  研究/vN  工具/n  和/cC  研究/vN  方法/n  ，/wP  促进/v  了/uA  各/rB  门/qN  学科/n  的/uJDE  发展/vN  。/wE  
+514  过去/t  ，/wP  人们/n  主要/d  通过/p  实验/n  和/cC  理论/n  两/m  种/qN  途径/n  进行/v  科学/n  技术/n  研究/vN  。/wE  
+515  现在/t  ，/wP  计算/v  和/cC  模拟/v  已/d  成为/v  研究/vN  工作/n  的/uJDE  第/m  三/m  条/qN  途径/n  。/wE  
+516  计算机/n  已/d  成为/v  一/m  种/qN  重要/a  的/uJDE  研究/vN  、/wD  实验/vN  和/cC  设计/vN  工具/n  。/wE  
+517  计算机/n  与/p  有关/b  的/uJDE  实验/n  观测/vN  仪器/n  相/d  结合/v  ，/wP  可/vM  对/p  实验/vN  数据/n  进行/v  现场/s  记录/v  、/wD  整理/v  、/wD  加工/v  、/wD  分析/v  和/cC  绘制/v  图表/n  ，/wP  显著/a  地/uJDI  提高/v  实验/vN  工作/n  的/uJDE  质量/n  和/cC  效率/n  。/wE  
+518  计算机/n  辅助/vN  设计/vN  已/d  成为/v  工程/n  设计/vN  优质化/v  、/wD  自动化/v  的/uJDE  重要/a  手段/n  。/wE  
+519  在/p  理论/n  研究/vN  方面/n  ，/wP  计算机/n  是/vC  人类/n  大脑/n  的/uJDE  延伸/vN  ，/wP  可/vM  代替/v  人脑/n  的/uJDE  若干/m  功能/n  并/cC  加以/v  强化/v  。/wE  
+520  古老/a  的/uJDE  数学/n  靠/p  纸/n  和/cC  笔/n  运算/v  ，/wP  现在/t  计算机/n  成/v  了/uA  新/a  的/uJDE  工具/n  。/wE  
+521  例如/v  数学/n  定理/n  证明/n  之类/u  的/uJDE  繁重/a  脑力劳动/n  ，/wP  已/d  有/v  可能/n  由/p  计算机/n  来/v  完成/v  或/cC  部分/d  完成/v  ，/wP  以便/c  数学家/n  集中/v  精力/n  去/v  进行/v  真正/b  创造性/n  的/uJDE  劳动/n  。/wE  
+522  计算/v  和/cC  模拟/v  作为/v  一/m  种/qN  新/a  的/uJDE  研究/vN  手段/n  ，/wP  常/d  使/vJY  一些/m  学科/n  衍生/v  出/vB  新/a  的/uJDE  分支/n  学科/n  。/wE  
+523  例如/v  ，/wP  空气动力学/n  、/wD  气象学/n  、/wD  弹性/n  结构力学/n  和/cC  应力/n  分析/vN  等/uO  所/uS  面临/v  的/uJDE  “/wLB  计算/vN  障碍/n  ”/wRB  ，/wP  在/p  有/v  了/uA  高速/b  计算机/n  和/cC  有关/b  的/uJDE  计算/vN  方法/n  之后/f  开始/v  有所/v  突破/v  ，/wP  并/cC  衍生/v  出/vB  计算/vN  空气动力学/n  、/wD  气象/n  数值/n  预报/vN  等/uO  边缘/n  分支/n  学科/n  。/wE  
+524  利用/v  计算机/n  进行/v  定量/b  研究/vN  ，/wP  不仅/c  在/p  自然科学/n  中/f  发挥/v  了/uA  重大/a  的/uJDE  作用/n  ，/wP  在/p  社会科学/n  和/cC  人文/n  学科/n  中/f  也/d  是/vC  如此/rV  。/wE  
+525  例如/v  ，/wP  在/p  人口/n  普查/vN  、/wD  社会/n  调查/vN  和/cC  自然/n  语言/n  研究/vN  方面/n  ，/wP  计算机/n  就/d  是/vC  一/m  种/qN  很/dD  得力/a  的/uJDE  工具/n  。/wE  
+526  计算机/n  在/p  各行各业/n  中/f  的/uJDE  广泛/a  应用/vN  ，/wP  常常/d  产生/v  显著/a  的/uJDE  经济/n  效益/n  和/cC  社会/n  效益/n  ，/wP  从而/c  引起/v  产业/n  结构/n  、/wD  产品/n  结构/n  、/wD  经营/vN  管理/vN  和/cC  服务/vN  方式/n  等/uO  方面/n  的/uJDE  重大/a  变革/vN  。/wE  
+527  在/p  产业/n  结构/n  中/f  已/d  出现/v  了/uA  计算机/n  制造业/n  和/cC  计算机/n  服务业/n  ，/wP  以及/cC  知识/n  产业/n  等/uO  新/a  的/uJDE  行业/n  。/wE  
+528  各/rB  种/qN  行业/n  和/cC  部门/n  内部/fS  结构/n  也/d  在/d  发生/v  变化/v  ，/wP  如/p  出现/v  了/uA  计算中心/n  、/wD  数据/n  处理/vN  部/n  、/wD  计算机/n  辅助/vN  设计/vN  中心/n  等/uO  新/a  的/uJDE  结构/n  ，/wP  并且/cC  使/vJY  有些/rN  机构/n  的/uJDE  层次/n  减少/v  ，/wP  机构/n  之间/f  的/uJDE  信息/n  渠道/n  畅通/a  。/wE  
+529  计算机/n  嵌入/v  产品/n  之中/f  ，/wP  通常/d  会/vM  使/vJY  产品/n  更新换代/v  ，/wP  并且/cC  有/v  可能/n  进一步/d  引起/v  一些/m  行业/n  的/uJDE  产品/n  结构/n  发生/v  变化/v  。/wE  
+530  微处理器/n  和/cC  微计算机/n  已/d  嵌入/v  机电/n  设备/n  、/wD  电子/n  设备/n  、/wD  通信/vN  设备/n  、/wD  仪器/n  仪表/n  和/cC  家用电器/n  中/f  ，/wP  使/vJY  这些/rN  产品/n  向/p  智能/n  化/k  方向/n  发展/v  。/wE  
+531  计算机/n  被/p  引入/v  各/rB  种/qN  生产/vN  过程/n  系统/n  中/f  ，/wP  使/vJY  化工/n  、/wD  石油/n  、/wD  钢铁/n  、/wD  电力/n  、/wD  机械/n  、/wD  造纸/n  、/wD  水泥/n  等/uO  生产/vN  过程/n  的/uJDE  自动化/vN  水平/n  大大/d  提高/v  ，/wP  劳动/vN  生产率/n  上升/v  、/wD  质量/n  提高/v  、/wD  成本/n  下降/v  。/wE  
+532  计算机/n  嵌入/v  各/rB  种/qN  武器/n  装备/n  和/cC  武器/n  系统/n  中/f  ，/wP  可/vM  显著/aD  提高/v  其/rB  作战/vN  效果/n  。/wE  
+533  在/p  经营/v  管理/v  方面/n  ，/wP  计算机/n  可/vM  用/v  于/p  完成/v  统计/v  、/wD  计划/v  、/wD  查询/v  、/wD  库存/n  管理/vN  、/wD  市场/n  分析/vN  、/wD  辅助/v  决策/v  等/uO  ，/wP  使/vJY  经营/vN  管理/vN  工作/n  科学化/v  和/cC  高效化/v  ，/wP  从而/c  加速/v  资金/n  周转/vN  ，/wP  降低/v  库存/n  水准/n  ，/wP  改善/v  服务/vN  质量/n  ，/wP  缩短/v  新/a  产品/n  研制/vN  周期/n  ，/wP  提高/v  劳动/vN  生产率/n  。/wE  
+534  在/p  办公室/n  自动化/vN  方面/n  ，/wP  计算机/n  可/vM  用/v  于/p  文件/n  的/uJDE  起草/vN  、/wD  检索/vN  和/cC  管理/vN  等/uO  ，/wP  显著/aD  提高/v  办公/vN  效率/n  。/wE  
+535  计算机/n  还/d  是/vC  人们/n  的/uJDE  学习/vN  工具/n  和/cC  生活/n  工具/n  。/wE  
+536  借助/p  家用/b  计算机/n  、/wD  个人/n  计算机/n  、/wD  计算机网/n  、/wD  数据库/n  系统/n  和/cC  各/rB  种/qN  终端/n  设备/n  ，/wP  人们/n  可以/vM  学习/v  各/rB  种/qN  课程/n  ，/wP  获取/v  各/rB  种/qN  情报/n  和/cC  知识/n  ，/wP  处理/v  各/rB  种/qN  生活/n  事务/n  （/wLB  如/vC  订/v  票/n  、/wD  购/v  物/n  、/wD  存取款/v  等/uO  ）/wRB  ，/wP  甚至/d  可以/vM  居家/v  办公/v  。/wE  
+537  越来越/dD  多/a  的/uJDE  人/n  的/uJDE  工作/n  、/wD  学习/v  和/cC  生活/n  中/f  将/d  与/p  计算机/n  发生/v  直接/a  的/uJDE  或/cC  间接/a  的/uJDE  联系/vN  。/wE  
+538  普及/v  计算机/n  教育/n  已/d  成为/v  一/m  个/qN  重要/a  的/uJDE  问题/n  。/wE  
+539  总之/l  ，/wP  计算机/n  的/uJDE  发展/vN  和/cC  应用/vN  已/d  不仅/c  是/vC  一/m  种/qN  技术/n  现象/n  ，/wP  而且/cC  是/vC  一/m  种/qN  政治/n  、/wD  经济/n  、/wD  军事/n  和/cC  社会/n  现象/n  。/wE  
+540  世界/n  各/rB  国/n  都/d  力图/v  主动/aD  地/uJDI  驾驭/v  这/rN  种/qN  社会/n  计算机/n  化/k  和/cC  信息/n  化/k  的/uJDE  进程/n  ，/wP  克服/v  计算机/n  化/k  过程/n  中/f  可能/vM  出现/v  的/uJDE  消极/b  因素/n  ，/wP  更/dD  顺利/a  地/uJDI  向/p  高度/b  社会/n  信息/n  化/k  方向/n  迈进/v  。/wE  
